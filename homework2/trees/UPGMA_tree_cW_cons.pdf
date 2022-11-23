@@ -1,0 +1,509 @@
+%PDF-1.3
+%äüöß
+1 0 obj
+<<
+/Type /Catalog
+/PageLayout /SinglePage
+/OpenAction [5 0 R /XYZ null null 1]
+/ViewerPreferences 3 0 R
+/Pages 4 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Title (MEGA11)
+/Author (Institute for Genomics and Evolutionary Medicine)
+/Creator (MEGA11)
+/Producer (MEGA)
+/CreationDate (D:20221123220357+03'00')
+>>
+endobj
+
+3 0 obj
+<<
+/Type /ViewerPreferences
+/FitWindow true
+>>
+endobj
+
+4 0 obj
+<<
+/Type /Pages
+/Kids [5 0 R]
+/Count 1
+>>
+endobj
+
+5 0 obj
+<<
+/Type /Page
+/Parent 4 0 R
+/MediaBox [0 0 648 512]
+/Resources <<
+/ProcSet [/PDF /Text /ImageC]
+/Font <<
+/F0 7 0 R
+>>
+>>
+/Contents 6 0 R
+>>
+endobj
+
+6 0 obj
+<<
+/Length 4173
+>>
+stream
+/F0 11 Tf
+0 0 0 rg
+BT
+131 472 TD
+( AAA36157.1 ribosomal protein L12 Homo sapiens) Tj
+ET
+[] 0 d
+0 0 0 RG
+121 458 m
+[] 0 d
+2 J
+1 w
+121 458 m
+121 475 l
+S
+[] 0 d
+121 475 m
+129 475 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 438 TD
+( AAS20597.1 ribosomal protein L12 Bos taurus) Tj
+ET
+[] 0 d
+0 0 0 RG
+121 457 m
+[] 0 d
+121 457 m
+121 441 l
+S
+[] 0 d
+121 441 m
+129 441 l
+S
+[] 0 d
+113 433 m
+[] 0 d
+113 433 m
+113 458 l
+S
+[] 0 d
+113 458 m
+121 458 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 404 TD
+( NP 001102668.1 60S ribosomal protein L12 Rattus norvegicus) Tj
+ET
+[] 0 d
+0 0 0 RG
+113 432 m
+[] 0 d
+113 432 m
+113 407 l
+S
+[] 0 d
+113 407 m
+129 407 l
+S
+[] 0 d
+105 403 m
+[] 0 d
+105 403 m
+105 433 l
+S
+[] 0 d
+105 433 m
+113 433 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 370 TD
+( AAA40066.1 ribosomal protein L12 Mus musculus) Tj
+ET
+[] 0 d
+0 0 0 RG
+105 402 m
+[] 0 d
+105 402 m
+105 373 l
+S
+[] 0 d
+105 373 m
+129 373 l
+S
+[] 0 d
+97 371 m
+[] 0 d
+97 371 m
+97 403 l
+S
+[] 0 d
+97 403 m
+105 403 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 336 TD
+( XP 008050036.1 60S ribosomal protein L12 Carlito syrichta) Tj
+ET
+[] 0 d
+0 0 0 RG
+97 370 m
+[] 0 d
+97 370 m
+97 339 l
+S
+[] 0 d
+97 339 m
+129 339 l
+S
+[] 0 d
+89 324 m
+[] 0 d
+89 324 m
+89 371 l
+S
+[] 0 d
+89 371 m
+97 371 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 302 TD
+( XP 023350027.1 60S ribosomal protein L12 Sarcophilus harrisii) Tj
+ET
+[] 0 d
+0 0 0 RG
+105 276 m
+[] 0 d
+105 276 m
+105 305 l
+S
+[] 0 d
+105 305 m
+129 305 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 268 TD
+( OPJ67944.1 60S ribosomal protein L12 Patagioenas fasciata monilis) Tj
+ET
+[] 0 d
+0 0 0 RG
+113 246 m
+[] 0 d
+113 246 m
+113 271 l
+S
+[] 0 d
+113 271 m
+129 271 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 234 TD
+( XP 007420652.1 60S ribosomal protein L12 Python bivittatus) Tj
+ET
+[] 0 d
+0 0 0 RG
+121 220 m
+[] 0 d
+121 220 m
+121 237 l
+S
+[] 0 d
+121 237 m
+129 237 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 200 TD
+( KAG6926476.1 ribosomal protein L12 Chelydra serpentina) Tj
+ET
+[] 0 d
+0 0 0 RG
+121 219 m
+[] 0 d
+121 219 m
+121 203 l
+S
+[] 0 d
+121 203 m
+129 203 l
+S
+[] 0 d
+113 245 m
+[] 0 d
+113 245 m
+113 220 l
+S
+[] 0 d
+113 220 m
+121 220 l
+S
+[] 0 d
+105 275 m
+[] 0 d
+105 275 m
+105 246 l
+S
+[] 0 d
+105 246 m
+113 246 l
+S
+[] 0 d
+89 323 m
+[] 0 d
+89 323 m
+89 276 l
+S
+[] 0 d
+89 276 m
+105 276 l
+S
+[] 0 d
+81 247 m
+[] 0 d
+81 247 m
+81 324 l
+S
+[] 0 d
+81 324 m
+89 324 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 166 TD
+( ADM64581.1 ribosomal protein L12 Hypophthalmichthys nobilis) Tj
+ET
+[] 0 d
+0 0 0 RG
+81 246 m
+[] 0 d
+81 246 m
+81 169 l
+S
+[] 0 d
+81 169 m
+129 169 l
+S
+[] 0 d
+73 191 m
+[] 0 d
+73 191 m
+73 247 l
+S
+[] 0 d
+73 247 m
+81 247 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 132 TD
+( XP 013238426.1 ribosomal protein L12 Mitosporidium daphniae) Tj
+ET
+[] 0 d
+0 0 0 RG
+73 190 m
+[] 0 d
+73 190 m
+73 135 l
+S
+[] 0 d
+73 135 m
+129 135 l
+S
+[] 0 d
+65 138 m
+[] 0 d
+65 138 m
+65 191 l
+S
+[] 0 d
+65 191 m
+73 191 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 98 TD
+( BBH09079.1 Ribosomal protein L12 Prunus dulcis) Tj
+ET
+[] 0 d
+0 0 0 RG
+121 84 m
+[] 0 d
+121 84 m
+121 101 l
+S
+[] 0 d
+121 101 m
+129 101 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 64 TD
+( CAD11987.1 ribosomal protein L12 Thermus thermophilus) Tj
+ET
+[] 0 d
+0 0 0 RG
+121 83 m
+[] 0 d
+121 83 m
+121 67 l
+S
+[] 0 d
+121 67 m
+129 67 l
+S
+[] 0 d
+65 137 m
+[] 0 d
+65 137 m
+65 84 l
+S
+[] 0 d
+65 84 m
+121 84 l
+S
+[] 0 d
+57 86 m
+[] 0 d
+57 86 m
+57 138 l
+S
+[] 0 d
+57 138 m
+65 138 l
+S
+/F0 11 Tf
+0 0 0 rg
+BT
+131 30 TD
+( AAA72191.1 ribosomal protein L12 Methanococcus vannielii) Tj
+ET
+[] 0 d
+0 0 0 RG
+57 85 m
+[] 0 d
+57 85 m
+57 33 l
+S
+[] 0 d
+57 33 m
+129 33 l
+S
+/F0 8 Tf
+0.36 0.36 0.36 rg
+BT
+94 69 TD
+(100) Tj
+ET
+/F0 8 Tf
+BT
+46 199 TD
+(100) Tj
+ET
+/F0 8 Tf
+BT
+54 255 TD
+(100) Tj
+ET
+/F0 8 Tf
+BT
+101 205 TD
+(63) Tj
+ET
+/F0 8 Tf
+BT
+93 231 TD
+(51) Tj
+ET
+/F0 8 Tf
+BT
+101 466 TD
+(40) Tj
+ET
+/F0 8 Tf
+BT
+93 441 TD
+(48) Tj
+ET
+/F0 8 Tf
+BT
+85 411 TD
+(68) Tj
+ET
+/F0 8 Tf
+BT
+77 379 TD
+(57) Tj
+ET
+/F0 8 Tf
+BT
+85 261 TD
+(26) Tj
+ET
+/F0 8 Tf
+BT
+69 332 TD
+(86) Tj
+ET
+
+endstream
+endobj
+
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+/BaseFont /Helvetica
+/Name /F0
+>>
+endobj
+
+xref
+0 8
+0000000000 65535 f
+0000000021 00000 n
+0000000167 00000 n
+0000000349 00000 n
+0000000419 00000 n
+0000000485 00000 n
+0000000657 00000 n
+0000004892 00000 n
+trailer
+<<
+/Size 8
+/Root 1 0 R
+/Info 2 0 R
+/ID [<0843c202bf42d955754d94064ce0cf7a> <0843c202bf42d955754d94064ce0cf7a>]
+>>
+startxref
+5040
+%%EOF
