@@ -1,170 +1,204 @@
-RID: 61K5Y79201N	
+RID: 620RYHFT01N	
 Job Title:Question_1				
 Program: BLASTN 
 Database: nt Nucleotide collection (nt)
-Query #1: read1 Query ID: lcl|Query_458982 Length: 100
+Query #1: read1 Query ID: lcl|Query_416126 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       85.1   85.1  100%  1e-14 79.61  51431252   CP050633.1       
+Meles meles genome assembly, chromosome: 14                       Meles meles     Eurasian badger 9662       99.6   99.6  100%  1e-16 82.00  86535488   OV277455.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 25b
-Sequence ID: CP050633.1 Length: 51431252
-Range 1: 15288697 to 15288795
+>Meles meles genome assembly, chromosome: 14
+Sequence ID: OV277455.1 Length: 86535488
+Range 1: 6235935 to 6236030
 
-Score:85.1 bits(93), Expect:1e-14, 
-Identities:82/103(80%),  Gaps:7/103(6%), Strand: Plus/Minus
+Score:99.6 bits(109), Expect:1e-16, 
+Identities:82/100(82%),  Gaps:4/100(4%), Strand: Plus/Plus
 
-Query  1         TGTTTCAAGAGAAA---GAACAAGACGGAGAGGTTTCCTCCTTGTTAAAACTGGGATACT  57
-                 |||||||||| |||   ||||||||| ||||   |||||  |||||||||| | | ||||
-Sbjct  15288795  TGTTTCAAGAAAAAAAAGAACAAGACAGAGA---TTCCTG-TTGTTAAAACGGAGCTACT  15288740
+Query  1        TGTTTCAAGAGAAAGAACAAGACGGAGAGGTTTCCTCCTTGTTAAAACTGGGATACTCTT  60
+                ||||| |||| |||||||||||| ||||    | ||| ||||||||||||| ||||||||
+Sbjct  6235935  TGTTTTAAGAAAAAGAACAAGACAGAGA----TTCTCGTTGTTAAAACTGGAATACTCTT  6235990
 
-Query  58        CTTTCTAAGAATGTGACGATCACTCGCTGGAAGAAAATGGAAT  100
-                 |||||||||||||| | |||||||   | ||| ||||| ||||
-Sbjct  15288739  CTTTCTAAGAATGTAATGATCACTTATTCGAATAAAATTGAAT  15288697
-
-
+Query  61       TCTAAGAATGTGACGATCACTCGCTGGAAGAAAATGGAAT  100
+                ||||||||||| | |||||||   | ||| ||||| ||||
+Sbjct  6235991  TCTAAGAATGTAATGATCACTTATTAGAATAAAATTGAAT  6236030
 
 
 
-Query #2: read2 Query ID: lcl|Query_458983 Length: 100
+
+
+Query #2: read2 Query ID: lcl|Query_416127 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       85.1   85.1  88%   1e-14 82.95  51431252   CP050633.1       
+Meles meles genome assembly, chromosome: 14                       Meles meles     Eurasian badger 9662       105    105   100%  9e-19 84.00  86535488   OV277455.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 25b
-Sequence ID: CP050633.1 Length: 51431252
-Range 1: 15597150 to 15597235
+>Meles meles genome assembly, chromosome: 14
+Sequence ID: OV277455.1 Length: 86535488
+Range 1: 5916407 to 5916505
 
-Score:85.1 bits(93), Expect:1e-14, 
-Identities:73/88(83%),  Gaps:2/88(2%), Strand: Plus/Minus
+Score:105 bits(116), Expect:9e-19, 
+Identities:84/100(84%),  Gaps:1/100(1%), Strand: Plus/Plus
 
-Query  9         ATGAGATTGACAGTGGGGAATTGAAGTCACTGCCTTGGCCCCTCTTGCCAACCTAGTAGT  68
-                 |||||| |||  ||||| |||||||  | |||||||||||| ||| |||||||||||| |
-Sbjct  15597235  ATGAGACTGATTGTGGGAAATTGAAC-CTCTGCCTTGGCCCTTCT-GCCAACCTAGTACT  15597178
+Query  1        ATGGAATGATGAGATTGACAGTGGGGAATTGAAGTCACTGCCTTGGCCCCTCTTGCCAAC  60
+                || ||| | ||||||||| ||||||| | ||| ||| ||||||||||||||| |||||||
+Sbjct  5916407  ATAGAACGGTGAGATTGATAGTGGGGGAGTGAGGTCTCTGCCTTGGCCCCTCCTGCCAAC  5916466
 
-Query  69        CTTTATACTTTAGCGAGCACTCTGAGCC  96
-                 |||||  ||||||| | |||||| ||||
-Sbjct  15597177  CTTTAAGCTTTAGCAAACACTCTAAGCC  15597150
-
-
+Query  61       CTAGTAGTCTTTATACTTTAGCGAGCACTCTGAGCCTATG  100
+                |  |||||||||| | |||||| |||||||| |||| |||
+Sbjct  5916467  CCCGTAGTCTTTA-ATTTTAGCAAGCACTCTTAGCCCATG  5916505
 
 
 
-Query #3: read3 Query ID: lcl|Query_458984 Length: 100
+
+
+Query #3: read3 Query ID: lcl|Query_416128 Length: 100
 
 No significant similarity found.
 
 
 
-Query #4: read4 Query ID: lcl|Query_458985 Length: 100
-
-No significant similarity found.
-
-
-
-Query #5: read5 Query ID: lcl|Query_458986 Length: 100
+Query #4: read4 Query ID: lcl|Query_416129 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       123    123   100%  6e-26 87.00  51431252   CP050633.1       
+Meles meles genome assembly, chromosome: 14                       Meles meles     Eurasian badger 9662       52.7   52.7  41%   0.017 87.80  86535488   OV277455.1       
+Erinaceus europaeus genome assembly, chromosome: 18               Erinaceus eu... western Euro... 9365       51.8   51.8  33%   0.017 93.94  78598273   OX485828.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 25b
-Sequence ID: CP050633.1 Length: 51431252
-Range 1: 13794256 to 13794355
+>Meles meles genome assembly, chromosome: 14
+Sequence ID: OV277455.1 Length: 86535488
+Range 1: 7005740 to 7005780
 
-Score:123 bits(135), Expect:6e-26, 
-Identities:87/100(87%),  Gaps:0/100(0%), Strand: Plus/Minus
+Score:52.7 bits(57), Expect:0.017, 
+Identities:36/41(88%),  Gaps:0/41(0%), Strand: Plus/Plus
+
+Query  56       TCTGGGTGCTGATTGAAGTGGGGGGCAGAAACCCCAAAGTG  96
+                ||||  |||||||||| || ||||||||||||||| |||||
+Sbjct  7005740  TCTGAATGCTGATTGATGTTGGGGGCAGAAACCCCTAAGTG  7005780
+
+
+
+
+>Erinaceus europaeus genome assembly, chromosome: 18
+Sequence ID: OX485828.1 Length: 78598273
+Range 1: 74767430 to 74767462
+
+Score:51.8 bits(56), Expect:0.017, 
+Identities:31/33(94%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  1         GGGGATGGGGAGAAGGAAAATTCCTAGAACCAG  33
+                 ||||||||||||||||||||  |||||||||||
+Sbjct  74767430  GGGGATGGGGAGAAGGAAAAAGCCTAGAACCAG  74767462
+
+
+
+
+
+Query #5: read5 Query ID: lcl|Query_416130 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus genome assembly, chromosome: 25                       Canis lupus     gray wolf       9612       123    123   100%  1e-23 87.00  53617450   HG994404.1       
+
+
+Alignments:
+
+>Canis lupus genome assembly, chromosome: 25
+Sequence ID: HG994404.1 Length: 53617450
+Range 1: 37885477 to 37885576
+
+Score:123 bits(135), Expect:1e-23, 
+Identities:87/100(87%),  Gaps:0/100(0%), Strand: Plus/Plus
 
 Query  1         CACGTGCCATCCGAAGTTTTGCATGCACTTTCAGCTCCTGTAGCACTTGGCCTCACAAGA  60
                  |||||||||| | | |||   |||||| ||||||||||||||||| ||||| ||||||| 
-Sbjct  13794355  CACGTGCCATTCCATGTTACACATGCATTTTCAGCTCCTGTAGCAGTTGGCTTCACAAGG  13794296
+Sbjct  37885477  CACGTGCCATTCCATGTTACACATGCATTTTCAGCTCCTGTAGCAGTTGGCTTCACAAGG  37885536
 
 Query  61        TTTCTTAACAATCTGTTTTTCCTCAAAATCAGCAAATTAC  100
                  |||||||| |||||| |||||||||||| |||||||||||
-Sbjct  13794295  TTTCTTAATAATCTGGTTTTCCTCAAAAGCAGCAAATTAC  13794256
+Sbjct  37885537  TTTCTTAATAATCTGGTTTTCCTCAAAAGCAGCAAATTAC  37885576
 
 
 
 
 
-Query #6: read6 Query ID: lcl|Query_458987 Length: 100
+Query #6: read6 Query ID: lcl|Query_416131 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       128    128   88%   1e-27 92.05  47624915   CP050643.1       
+PREDICTED: Panthera uncia synaptonemal complex protein 2...       Panthera uncia  snow leopard    29064      146    146   83%   1e-30 98.80  11998      XM_049650520.1   
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 44498489 to 44498576
+>PREDICTED: Panthera uncia synaptonemal complex protein 2 (SYCP2), transcript variant X1, mRNA
+Sequence ID: XM_049650520.1 Length: 11998
+Range 1: 2751 to 2833
 
-Score:128 bits(141), Expect:1e-27, 
-Identities:81/88(92%),  Gaps:0/88(0%), Strand: Plus/Minus
+Score:146 bits(161), Expect:1e-30, 
+Identities:82/83(99%),  Gaps:0/83(0%), Strand: Plus/Plus
 
-Query  1         TTTGGAAGATGTGGTAAAAATATCAGTATATTGGGGCAAGCCGGACTTTTAACTATGATA  60
-                 |||||||||||||| |||||||||| ||||||||||||||| ||||||||||||||||||
-Sbjct  44498576  TTTGGAAGATGTGGCAAAAATATCACTATATTGGGGCAAGCTGGACTTTTAACTATGATA  44498517
+Query  1     TTTGGAAGATGTGGTAAAAATATCAGTATATTGGGGCAAGCCGGACTTTTAACTATGATA  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2751  TTTGGAAGATGTGGTAAAAATATCAGTATATTGGGGCAAGCCGGACTTTTAACTATGATA  2810
 
-Query  61        AGACAAGGACTAGTCCAGAAGATAAGTA  88
-                 | |||||||||  |||| ||||||||||
-Sbjct  44498516  AAACAAGGACTGATCCAAAAGATAAGTA  44498489
-
-
+Query  61    AGACAAGGACTAGTCCAGAAGAT  83
+             | |||||||||||||||||||||
+Sbjct  2811  AAACAAGGACTAGTCCAGAAGAT  2833
 
 
 
-Query #7: read7 Query ID: lcl|Query_458988 Length: 100
+
+
+Query #7: read7 Query ID: lcl|Query_416132 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       131    131   100%  1e-28 89.22  47624915   CP050643.1       
+PREDICTED: Acinonyx jubatus neuroendocrine secretory protein 5... Acinonyx jub... cheetah         32536      177    177   100%  6e-40 99.00  3324       XM_015066456.3   
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 43573718 to 43573816
+>PREDICTED: Acinonyx jubatus neuroendocrine secretory protein 55 (LOC106969924), mRNA
+Sequence ID: XM_015066456.3 Length: 3324
+Range 1: 619 to 718
 
-Score:131 bits(144), Expect:1e-28, 
-Identities:91/102(89%),  Gaps:5/102(4%), Strand: Plus/Minus
+Score:177 bits(195), Expect:6e-40, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Minus
 
-Query  1         GTGAGGGGGGAA--AAGGGAAGCACCTACCTTCCTGACCACTCAACTTTCTAAAGCTCCG  58
-                 ||||||||||||  || |||||||||||||||||||| ||||||||||||||||||||||
-Sbjct  43573816  GTGAGGGGGGAAGAAAAGGAAGCACCTACCTTCCTGATCACTCAACTTTCTAAAGCTCCG  43573757
+Query  1    GTGAGGGGGGAAAAGGGAAGCACCTACCTTCCTGACCACTCAACTTTCTAAAGCTCCGCG  60
+            ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  718  GTGAGGGGGGAAAAGGGAAGCACGTACCTTCCTGACCACTCAACTTTCTAAAGCTCCGCG  659
 
-Query  59        CGCCTCCGCTCGCCTCTCTGAGCAAGAAGAAGGGATGGGAAA  100
-                 |||||| ||| |||| |||||||||   ||||||||||| ||
-Sbjct  43573756  CGCCTCTGCTTGCCTGTCTGAGCAA---GAAGGGATGGGTAA  43573718
-
-
+Query  61   CCTCCGCTCGCCTCTCTGAGCAAGAAGAAGGGATGGGAAA  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  658  CCTCCGCTCGCCTCTCTGAGCAAGAAGAAGGGATGGGAAA  619
 
 
 
-Query #8: read8 Query ID: lcl|Query_458989 Length: 100
+
+
+Query #8: read8 Query ID: lcl|Query_416133 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Felis catus Senzu DNA, chromosome: E1, American Shorthair breed   Felis catus     domestic cat    9685       154    154   100%  1e-35 94.00  65441144   AP023165.1       
+Felis catus Senzu DNA, chromosome: E1, American Shorthair breed   Felis catus     domestic cat    9685       154    154   100%  2e-33 94.00  65441144   AP023165.1       
 
 
 Alignments:
@@ -173,7 +207,7 @@ Alignments:
 Sequence ID: AP023165.1 Length: 65441144
 Range 1: 497465 to 497564
 
-Score:154 bits(170), Expect:1e-35, 
+Score:154 bits(170), Expect:2e-33, 
 Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Minus
 
 Query  1       CATATTTTAGAGACACAATGTTTTGAGTTCTGTGAAAGATGAGATGCACCCCTAAGTGTA  60
@@ -188,422 +222,453 @@ Sbjct  497504  GGTGCCTCAGGTGTCCTGTGTGAAATGGGGCACATACATT  497465
 
 
 
-Query #9: read9 Query ID: lcl|Query_458990 Length: 100
-
-No significant similarity found.
-
-
-
-Query #10: read10 Query ID: lcl|Query_458991 Length: 100
+Query #9: read9 Query ID: lcl|Query_416134 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       141    141   100%  2e-31 91.00  51431252   CP050633.1       
+PREDICTED: Prionailurus viverrinus fibroblast growth factor 9...  Prionailurus... fishing cat     61388      159    159   100%  2e-34 95.00  1699       XR_007155581.1   
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 25b
-Sequence ID: CP050633.1 Length: 51431252
-Range 1: 11733317 to 11733416
+>PREDICTED: Prionailurus viverrinus fibroblast growth factor 9 (FGF9), transcript variant X2, misc_RNA
+Sequence ID: XR_007155581.1 Length: 1699
+Range 1: 944 to 1043
 
-Score:141 bits(155), Expect:2e-31, 
-Identities:91/100(91%),  Gaps:0/100(0%), Strand: Plus/Minus
+Score:159 bits(175), Expect:2e-34, 
+Identities:95/100(95%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1     CCAAACCGAGGGGGAGGCACCTTGACCCGCACGTTGGCGGCGCAAGGAAGGGGCGGAGGC  60
+             ||||||||||||| |||||||||||||||||||||| |||||||||||||||||||||||
+Sbjct  944   CCAAACCGAGGGGAAGGCACCTTGACCCGCACGTTGACGGCGCAAGGAAGGGGCGGAGGC  1003
+
+Query  61    TTCCTGCGGCTCGAGCTCGGTGTGCAGCTGAAGTGTGGGT  100
+             |||||||||||| || ||||||||||| ||||||||||||
+Sbjct  1004  TTCCTGCGGCTCCAGTTCGGTGTGCAGATGAAGTGTGGGT  1043
+
+
+
+
+
+Query #10: read10 Query ID: lcl|Query_416135 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus genome assembly, chromosome: 25                       Canis lupus     gray wolf       9612       141    141   100%  4e-29 91.00  53617450   HG994404.1       
+
+
+Alignments:
+
+>Canis lupus genome assembly, chromosome: 25
+Sequence ID: HG994404.1 Length: 53617450
+Range 1: 39962394 to 39962493
+
+Score:141 bits(155), Expect:4e-29, 
+Identities:91/100(91%),  Gaps:0/100(0%), Strand: Plus/Plus
 
 Query  1         CCTCACATTCCACACTAAAGCAACTAAACGTATCAAGAAAGATTGCGCGAGCAGCCTGCA  60
                  ||||||||||||||||||||||||||||   ||||| |||||||| | |||| |||||||
-Sbjct  11733416  CCTCACATTCCACACTAAAGCAACTAAAAAGATCAATAAAGATTGTGTGAGCGGCCTGCA  11733357
+Sbjct  39962394  CCTCACATTCCACACTAAAGCAACTAAAAAGATCAATAAAGATTGTGTGAGCGGCCTGCA  39962453
 
 Query  61        TTACCTATGATGGTAACCAAAGTTGATTTACTGGGATGTT  100
                  ||||||| |||||||||||||| |||||||||||||||||
-Sbjct  11733356  TTACCTAGGATGGTAACCAAAGCTGATTTACTGGGATGTT  11733317
+Sbjct  39962454  TTACCTAGGATGGTAACCAAAGCTGATTTACTGGGATGTT  39962493
 
 
 
 
 
-Query #11: read11 Query ID: lcl|Query_458992 Length: 100
+Query #11: read11 Query ID: lcl|Query_416136 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       64.4   64.4  88%   1e-08 77.27  47624915   CP050643.1       
+Meles meles genome assembly, chromosome: 16                       Meles meles     Eurasian badger 9662       93.3   93.3  100%  6e-15 81.00  82953774   OV277457.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 40852641 to 40852724
+>Meles meles genome assembly, chromosome: 16
+Sequence ID: OV277457.1 Length: 82953774
+Range 1: 76127240 to 76127332
 
-Score:64.4 bits(70), Expect:1e-08, 
-Identities:68/88(77%),  Gaps:4/88(4%), Strand: Plus/Minus
+Score:93.3 bits(102), Expect:6e-15, 
+Identities:81/100(81%),  Gaps:7/100(7%), Strand: Plus/Minus
 
 Query  1         CCCTGGTATGACTATTATGGCATCTGGGCCATGGAGATGTAGAGAGTCAGTGACAGAAGT  60
-                 || |||||||  || || || || |||| |||  ||||||||||  ||||||| | ||||
-Sbjct  40852724  CCATGGTATGGTTAGTACGGAATGTGGGACAT--AGATGTAGAG--TCAGTGAGACAAGT  40852669
+                 || ||||||| | || ||||||||||||  ||| ||| ||||||||||||||| ||||| 
+Sbjct  76127332  CCATGGTATGGCCAT-ATGGCATCTGGGATATGAAGAGGTAGAGAGTCAGTGAGAGAAGG  76127274
 
-Query  61        GACACAGATATAACTCAAAACGGGAAAC  88
-                 ||  || |  ||||||||||| ||||||
-Sbjct  40852668  GATGCAAACGTAACTCAAAACAGGAAAC  40852641
-
-
+Query  61        GACACAGATATAACTCAAAACGGGAAACTGTACATCCTTG  100
+                 |||      |||||||||||| |||||| || ||||||||
+Sbjct  76127273  GAC------ATAACTCAAAACAGGAAACCGTTCATCCTTG  76127240
 
 
 
-Query #12: read12 Query ID: lcl|Query_458993 Length: 100
+
+
+Query #12: read12 Query ID: lcl|Query_416137 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       81.5   81.5  100%  2e-13 79.21  47624915   CP050643.1       
+Canis lupus genome assembly, chromosome: 24                       Canis lupus     gray wolf       9612       81.5   81.5  100%  3e-11 79.21  49877449   HG994407.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 45711990 to 45712089
+>Canis lupus genome assembly, chromosome: 24
+Sequence ID: HG994407.1 Length: 49877449
+Range 1: 47901543 to 47901642
 
-Score:81.5 bits(89), Expect:2e-13, 
+Score:81.5 bits(89), Expect:3e-11, 
 Identities:80/101(79%),  Gaps:2/101(1%), Strand: Plus/Minus
 
 Query  1         CCCCGATCACTTAAATTGACCATCCTCTGCTCCGAGCTGCTGCCCATTTGCAGTTTGAAT  60
                  ||||||||  |||||||||||||||||||| || ||| || |||   ||||  | |||||
-Sbjct  45712089  CCCCGATCGTTTAAATTGACCATCCTCTGC-CCCAGCCGCCGCCTGCTTGCGCTGTGAAT  45712031
+Sbjct  47901642  CCCCGATCGTTTAAATTGACCATCCTCTGC-CCCAGCCGCCGCCTGCTTGCGCTGTGAAT  47901584
 
 Query  61        AATAAGCTTCCGTGCATCTCGGGCCC-GCAGAACGGCAGGT  100
                  ||| |||||||   | |||| ||||| || || ||||||||
-Sbjct  45712030  AATCAGCTTCCTGTCGTCTCCGGCCCGGCGGAGCGGCAGGT  45711990
+Sbjct  47901583  AATCAGCTTCCTGTCGTCTCCGGCCCGGCGGAGCGGCAGGT  47901543
 
 
 
 
 
-Query #13: read13 Query ID: lcl|Query_458994 Length: 100
-
-Sequences producing significant alignments:
-                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
-Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 20b    Canis lupus ... dog             9615       111    111   99%   1e-22 86.00  58321546   CP050631.1       
-
-
-Alignments:
-
->Canis lupus familiaris breed Labrador retriever chromosome 20b
-Sequence ID: CP050631.1 Length: 58321546
-Range 1: 56830352 to 56830450
-
-Score:111 bits(122), Expect:1e-22, 
-Identities:86/100(86%),  Gaps:2/100(2%), Strand: Plus/Minus
-
-Query  1         GCTCCCCAAAGCCCCTGGTGCTCCCGGACCGGCCGGAGAGAGCTGGGAGCCGGGGAGCGA  60
-                 ||||||||||||||| |||||||||||||||||||||||||||||||||||| ||||| |
-Sbjct  56830450  GCTCCCCAAAGCCCCCGGTGCTCCCGGACCGGCCGGAGAGAGCTGGGAGCCGAGGAGCAA  56830391
-
-Query  61        GGCCGGG-CCTACAGCCCGCACACCgggggggAGTCACCC  99
-                 ||| ||| ||| ||||| || |  |  ||||  |||||||
-Sbjct  56830390  GGCTGGGCCCTGCAGCCAGC-CCGCATGGGGACGTCACCC  56830352
-
-
-
-
-
-Query #14: read14 Query ID: lcl|Query_458995 Length: 100
+Query #13: read13 Query ID: lcl|Query_416138 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       133    133   95%   3e-29 92.63  51431252   CP050633.1       
+PREDICTED: Acinonyx jubatus G protein subunit gamma 7 (GNG7),...  Acinonyx jub... cheetah         32536      168    168   100%  9e-38 98.00  2392       XM_027049331.2   
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 25b
-Sequence ID: CP050633.1 Length: 51431252
-Range 1: 16285757 to 16285849
+>PREDICTED: Acinonyx jubatus G protein subunit gamma 7 (GNG7), mRNA
+Sequence ID: XM_027049331.2 Length: 2392
+Range 1: 1655 to 1753
 
-Score:133 bits(147), Expect:3e-29, 
-Identities:88/95(93%),  Gaps:2/95(2%), Strand: Plus/Minus
+Score:168 bits(186), Expect:9e-38, 
+Identities:98/100(98%),  Gaps:1/100(1%), Strand: Plus/Minus
+
+Query  1     GCTCCCCAAAGCCCCTGGTGCTCCCGGACCGGCCGGAGAGAGCTGGGAGCCGGGGAGCGA  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1753  GCTCCCCAAAGCCCCTGGTGCTCCCGGACCGGCCGGAGAGAGCTGGGAGCCGGGGAGCGA  1694
+
+Query  61    GGCCGGGCCTACAGCCCGCACACCgggggggAGTCACCCG  100
+             |||||||||||||||||||||||| ||||| |||||||||
+Sbjct  1693  GGCCGGGCCTACAGCCCGCACACC-GGGGGAAGTCACCCG  1655
+
+
+
+
+
+Query #14: read14 Query ID: lcl|Query_416139 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus genome assembly, chromosome: 25                       Canis lupus     gray wolf       9612       133    133   95%   6e-27 92.63  53617450   HG994404.1       
+
+
+Alignments:
+
+>Canis lupus genome assembly, chromosome: 25
+Sequence ID: HG994404.1 Length: 53617450
+Range 1: 35415982 to 35416074
+
+Score:133 bits(147), Expect:6e-27, 
+Identities:88/95(93%),  Gaps:2/95(2%), Strand: Plus/Plus
 
 Query  6         CTGTTTGGGTGTATGTCTGCATGTGTCATGATGTTCTGTTTTTAAAATACCCCAAAAGTT  65
                  ||||||||||||||||||||||||||||| |||||||| |||||||| ||  | ||||||
-Sbjct  16285849  CTGTTTGGGTGTATGTCTGCATGTGTCATAATGTTCTG-TTTTAAAACACAGC-AAAGTT  16285792
+Sbjct  35415982  CTGTTTGGGTGTATGTCTGCATGTGTCATAATGTTCTG-TTTTAAAACACAGC-AAAGTT  35416039
 
 Query  66        CAAGAAGTTTTGCTTCCTTAAAGGCAAGCTTGGTG  100
                  |||||||||||||||||||||| ||||||||||||
-Sbjct  16285791  CAAGAAGTTTTGCTTCCTTAAAAGCAAGCTTGGTG  16285757
+Sbjct  35416040  CAAGAAGTTTTGCTTCCTTAAAAGCAAGCTTGGTG  35416074
 
 
 
 
 
-Query #15: read15 Query ID: lcl|Query_458996 Length: 100
+Query #15: read15 Query ID: lcl|Query_416140 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       126    126   97%   5e-27 88.66  47624915   CP050643.1       
+Canis lupus genome assembly, chromosome: 24                       Canis lupus     gray wolf       9612       126    126   97%   9e-25 88.66  49877449   HG994407.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 42748216 to 42748312
+>Canis lupus genome assembly, chromosome: 24
+Sequence ID: HG994407.1 Length: 49877449
+Range 1: 44902990 to 44903086
 
-Score:126 bits(139), Expect:5e-27, 
+Score:126 bits(139), Expect:9e-25, 
 Identities:86/97(89%),  Gaps:0/97(0%), Strand: Plus/Minus
 
 Query  4         AGCACACCAGACGCTTCGGACAAAGCCCACGACCTCGCGGGGTCCTGCATGAAATCTTAC  63
                  |||||| ||||| |||||||| |||||| ||||||||| | ||| |||||||||||||||
-Sbjct  42748312  AGCACATCAGACACTTCGGACGAAGCCCGCGACCTCGCAGAGTCTTGCATGAAATCTTAC  42748253
+Sbjct  44903086  AGCACATCAGACACTTCGGACGAAGCCCGCGACCTCGCAGAGTCTTGCATGAAATCTTAC  44903027
 
 Query  64        GAGCAATATAAACAGAGTGGCGGCCAAGCTCACCCCC  100
                   || ||||||||||||| ||| |||||||||||||||
-Sbjct  42748252  AAGTAATATAAACAGAGCGGCAGCCAAGCTCACCCCC  42748216
+Sbjct  44903026  AAGTAATATAAACAGAGCGGCAGCCAAGCTCACCCCC  44902990
 
 
 
 
 
-Query #16: read16 Query ID: lcl|Query_458997 Length: 100
-
-Sequences producing significant alignments:
-                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
-Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       79.7   79.7  100%  6e-13 79.41  51431252   CP050633.1       
-
-
-Alignments:
-
->Canis lupus familiaris breed Labrador retriever chromosome 25b
-Sequence ID: CP050633.1 Length: 51431252
-Range 1: 19022185 to 19022285
-
-Score:79.7 bits(87), Expect:6e-13, 
-Identities:81/102(79%),  Gaps:3/102(2%), Strand: Plus/Minus
-
-Query  1         CCCGTAAA-ATTCCACCTCTTACAGAGCTCCTGA-AAAAGTAAATGAAAGCTGGCCCCAC  58
-                 ||| |||| ||| || ||||| |||||||||||| ||||| |||||||| || |||    
-Sbjct  19022285  CCCATAAAGATTTCATCTCTTGCAGAGCTCCTGAGAAAAGCAAATGAAATCTTGCCTGTG  19022226
-
-Query  59        AGTAAGGCCACATAGTGCTAACTGGTTTATGATGATGGTGTT  100
-                  ||  |||||| |||| ||||||||||||  ||||| |||||
-Sbjct  19022225  -GTTGGGCCACGTAGTACTAACTGGTTTACAATGATTGTGTT  19022185
-
-
-
-
-
-Query #17: read17 Query ID: lcl|Query_458998 Length: 100
+Query #16: read16 Query ID: lcl|Query_416141 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       70.7   70.7  72%   3e-10 82.19  47624915   CP050643.1       
+Meles meles genome assembly, chromosome: 14                       Meles meles     Eurasian badger 9662       95.1   95.1  95%   2e-15 83.33  86535488   OV277455.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 44104419 to 44104491
+>Meles meles genome assembly, chromosome: 14
+Sequence ID: OV277455.1 Length: 86535488
+Range 1: 2104615 to 2104709
 
-Score:70.7 bits(77), Expect:3e-10, 
-Identities:60/73(82%),  Gaps:1/73(1%), Strand: Plus/Minus
+Score:95.1 bits(104), Expect:2e-15, 
+Identities:80/96(83%),  Gaps:2/96(2%), Strand: Plus/Plus
 
-Query  11        TGGCTTTGCCTAACAGG-TCCCCAACAGGCAGCTTTCCCTTAAGCATCTCCAGAATCTTC  69
-                 |||||| |   |||||| || |||||| |||| ||||||| ||||||||||||| ||| |
-Sbjct  44104491  TGGCTTGGAGAAACAGGGTCTCCAACATGCAGGTTTCCCTAAAGCATCTCCAGAGTCTAC  44104432
+Query  6        AAAATTCCACCTCTTACAGAGCTCCTGA-AAAAGTAAATGAAAGCTGGCCCCACAGTAAG  64
+                || |||||| ||||  |||||||||||| |||||||||||||| |||| ||||   || |
+Sbjct  2104615  AAGATTCCATCTCTCTCAGAGCTCCTGAGAAAAGTAAATGAAATCTGG-CCCATGATAGG  2104673
 
-Query  70        CTGGGACCCCCTG  82
-                 |||||| | ||||
-Sbjct  44104431  CTGGGAACTCCTG  44104419
-
-
+Query  65       GCCACATAGTGCTAACTGGTTTATGATGATGGTGTT  100
+                |||||| ||  |||||||| |||||||||| |||||
+Sbjct  2104674  GCCACAGAGCACTAACTGGCTTATGATGATTGTGTT  2104709
 
 
 
-Query #18: read18 Query ID: lcl|Query_458999 Length: 100
+
+
+Query #17: read17 Query ID: lcl|Query_416142 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24a    Canis lupus ... dog             9615       54.5   54.5  93%   2e-05 73.33  47610717   CP050588.1       
+Meles meles genome assembly, chromosome: 16                       Meles meles     Eurasian badger 9662       95.1   95.1  82%   2e-15 85.37  82953774   OV277457.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24a
-Sequence ID: CP050588.1 Length: 47610717
-Range 1: 44619744 to 44619846
+>Meles meles genome assembly, chromosome: 16
+Sequence ID: OV277457.1 Length: 82953774
+Range 1: 79365586 to 79365667
 
-Score:54.5 bits(59), Expect:2e-05, 
-Identities:77/105(73%),  Gaps:14/105(13%), Strand: Plus/Minus
+Score:95.1 bits(104), Expect:2e-15, 
+Identities:70/82(85%),  Gaps:0/82(0%), Strand: Plus/Minus
 
-Query  8         TGGCCACCTCCTTCCATGCTCAGTCCTGGAATC-ACAAACACACC--CCCAGGGCCTCA-  63
-                 || |||||||  || | || ||||||||||||| |||| |||| |  ||| || || || 
-Sbjct  44619846  TGCCCACCTCGCTCAA-GC-CAGTCCTGGAATCCACAAGCACATCTCCCCCGGACCACAA  44619789
+Query  1         CAGGAGCCGGTGGCTTTGCCTAACAGGTCCCCAACAGGCAGCTTTCCCTTAAGCATCTCC  60
+                 |||||||   |||||| |   |||||||| || ||| |||||||||||||||||||||||
+Sbjct  79365667  CAGGAGCTCCTGGCTTGGAGAAACAGGTCTCCCACATGCAGCTTTCCCTTAAGCATCTCC  79365608
 
-Query  64        --------CCCCTGCTGTCCCTTCAGTTCTCTGCTCCTCCTGGTC  100
-                         ||||  |||||||| | ||||||||||||| ||||||
-Sbjct  44619788  ACACACAGCCCCCACTGTCCCTCCTGTTCTCTGCTCCTTCTGGTC  44619744
-
-
+Query  61        AGAATCTTCCTGGGACCCCCTG  82
+                 ||||||||||||||| | ||||
+Sbjct  79365607  AGAATCTTCCTGGGAACACCTG  79365586
 
 
 
-Query #19: read19 Query ID: lcl|Query_459000 Length: 100
+
+
+Query #18: read18 Query ID: lcl|Query_416143 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       109    109   97%   4e-22 85.57  51431252   CP050633.1       
+Meles meles genome assembly, chromosome: 16                       Meles meles     Eurasian badger 9662       66.2   66.2  99%   8e-07 74.77  82953774   OV277457.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 25b
-Sequence ID: CP050633.1 Length: 51431252
-Range 1: 14483433 to 14483528
+>Meles meles genome assembly, chromosome: 16
+Sequence ID: OV277457.1 Length: 82953774
+Range 1: 79891061 to 79891167
 
-Score:109 bits(120), Expect:4e-22, 
-Identities:83/97(86%),  Gaps:1/97(1%), Strand: Plus/Minus
+Score:66.2 bits(72), Expect:8e-07, 
+Identities:80/107(75%),  Gaps:8/107(7%), Strand: Plus/Minus
 
-Query  1         TCAAAGATCGTATCTTTCTTTGTCTTTCTAGGGATCAGAAGATCGGTCATGCACGATAAA  60
-                 |||||||||   |||||||||||||||||||| ||||||||||| | |||| | ||||||
-Sbjct  14483528  TCAAAGATCAATTCTTTCTTTGTCTTTCTAGGAATCAGAAGATCAGCCATGAATGATAAA  14483469
+Query  1         CTCCTCTTGGCCACCTCCTTCCATGCTCAGTCCTG-----GAAT-CACAAACACACC--C  52
+                 |||||||| | | || ||| || ||||||| || |     |||| ||||||  ||||  |
+Sbjct  79891167  CTCCTCTTCGGCCCCACCTGCCTTGCTCAGGCCAGTCCCAGAATTCACAAATGCACCTCC  79891108
 
-Query  61        CCATTTCAACACATGAtttttttGTAGTTTTCCAAAA  97
-                  ||||| ||||||| | |||||  |||||||||||||
-Sbjct  14483468  TCATTTTAACACAT-AATTTTTCATAGTTTTCCAAAA  14483433
-
-
+Query  53        CCAGGGCCTCACCCCTGCTGTCCCTTCAGTTCTCTGCTCCTCCTGGT  99
+                 |||||||||   ||||||||||| || ||| || || |||| |||||
+Sbjct  79891107  CCAGGGCCTTGGCCCTGCTGTCCTTTGAGTCCTTTGGTCCTTCTGGT  79891061
 
 
 
-Query #20: read20 Query ID: lcl|Query_459001 Length: 100
+
+
+Query #19: read19 Query ID: lcl|Query_416144 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       145    145   100%  5e-33 92.00  47624915   CP050643.1       
+Meles meles genome assembly, chromosome: 14                       Meles meles     Eurasian badger 9662       119    119   97%   1e-22 87.63  86535488   OV277455.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 41352320 to 41352419
+>Meles meles genome assembly, chromosome: 14
+Sequence ID: OV277455.1 Length: 86535488
+Range 1: 7018491 to 7018585
 
-Score:145 bits(160), Expect:5e-33, 
+Score:119 bits(131), Expect:1e-22, 
+Identities:85/97(88%),  Gaps:2/97(2%), Strand: Plus/Plus
+
+Query  1        TCAAAGATCGTATCTTTCTTTGTCTTTCTAGGGATCAGAAGATCGGTCATGCACGATAAA  60
+                |||||||||  ||||||||||||||||||||||||||||||||| |||||||| ||||||
+Sbjct  7018491  TCAAAGATCACATCTTTCTTTGTCTTTCTAGGGATCAGAAGATCAGTCATGCATGATAAA  7018550
+
+Query  61       CCATTTCAACACATGAtttttttGTAGTTTTCCAAAA  97
+                 |||||  || |  ||||||||||||  |||||||||
+Sbjct  7018551  TCATTTTGACGC--GATTTTTTTGTAAGTTTCCAAAA  7018585
+
+
+
+
+
+Query #20: read20 Query ID: lcl|Query_416145 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus genome assembly, chromosome: 24                       Canis lupus     gray wolf       9612       145    145   100%  1e-30 92.00  49877449   HG994407.1       
+
+
+Alignments:
+
+>Canis lupus genome assembly, chromosome: 24
+Sequence ID: HG994407.1 Length: 49877449
+Range 1: 43491133 to 43491232
+
+Score:145 bits(160), Expect:1e-30, 
 Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Minus
 
 Query  1         TAGGGAACATATCGCATTGTAATATTTTTGTGGATTAGTTTTTAGTTAACGTTGGGGTGG  60
                  ||||||||||||| |||| |||||||||||||||||| |||||||||||| |||||||||
-Sbjct  41352419  TAGGGAACATATCACATTTTAATATTTTTGTGGATTAATTTTTAGTTAACATTGGGGTGG  41352360
+Sbjct  43491232  TAGGGAACATATCACATTTTAATATTTTTGTGGATTAATTTTTAGTTAACATTGGGGTGG  43491173
 
 Query  61        AAAGTGGTGCAGATAGCAATGAAAGAAGAAGCAGAAAATA  100
                  ||| |||||| ||||||||| ||||||||| |||||||||
-Sbjct  41352359  AAAATGGTGCCGATAGCAATAAAAGAAGAAACAGAAAATA  41352320
+Sbjct  43491172  AAAATGGTGCCGATAGCAATAAAAGAAGAAACAGAAAATA  43491133
 
 
 
 
 
-Query #21: read21 Query ID: lcl|Query_459002 Length: 100
+Query #21: read21 Query ID: lcl|Query_416146 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Prionailurus viverrinus zinc finger MYM-type...        Prionailurus... fishing cat     61388      181    181   100%  1e-41 100.00 2853       XM_047861321.1   
+
+
+Alignments:
+
+>PREDICTED: Prionailurus viverrinus zinc finger MYM-type containing 5 (ZMYM5), transcript variant X3, mRNA
+Sequence ID: XM_047861321.1 Length: 2853
+Range 1: 47 to 146
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1    GTATGTCTTCTTCCTTAATTTCTGCCAAAGCCCCACCAGACTGGCCTGAAGGTGATTCCT  60
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  146  GTATGTCTTCTTCCTTAATTTCTGCCAAAGCCCCACCAGACTGGCCTGAAGGTGATTCCT  87
+
+Query  61   GATCCTAGAATGACAGGAGAGAGAGCTGCGAAACTATTTA  100
+            ||||||||||||||||||||||||||||||||||||||||
+Sbjct  86   GATCCTAGAATGACAGGAGAGAGAGCTGCGAAACTATTTA  47
+
+
+
+
+
+Query #22: read22 Query ID: lcl|Query_416147 Length: 100
 
 No significant similarity found.
 
 
 
-Query #22: read22 Query ID: lcl|Query_459003 Length: 100
+Query #23: read23 Query ID: lcl|Query_416148 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis familiaris, clone XX-129P12, complete sequence              Canis lupus ... dog             9615       45.5   45.5  27%   0.013 96.30  205889     AC197467.12      
+Orcinus orca genome assembly, chromosome: 21                      Orcinus orca    killer whale    9733       109    109   83%   7e-20 89.53  35416747   OW443381.1       
 
 
 Alignments:
 
->Canis familiaris, clone XX-129P12, complete sequence
-Sequence ID: AC197467.12 Length: 205889
-Range 1: 65656 to 65682
+>Orcinus orca genome assembly, chromosome: 21
+Sequence ID: OW443381.1 Length: 35416747
+Range 1: 23521352 to 23521437
 
-Score:45.5 bits(49), Expect:0.013, 
-Identities:26/27(96%),  Gaps:0/27(0%), Strand: Plus/Plus
+Score:109 bits(120), Expect:7e-20, 
+Identities:77/86(90%),  Gaps:3/86(3%), Strand: Plus/Plus
 
-Query  7      TCTGCTGCTGGGGGGAGCTGGGCAACC  33
-              |||||||||||| ||||||||||||||
-Sbjct  65656  TCTGCTGCTGGGAGGAGCTGGGCAACC  65682
+Query  18        TGGCCCTA-CTGAAACAATATCTG--ATATTTTAGGAATCTGTGACCTACAAAGATGTAG  74
+                 |||||||| |||||||||| || |  |||||||||||||| ||||||| ||| |||||||
+Sbjct  23521352  TGGCCCTATCTGAAACAATGTCCGTAATATTTTAGGAATCAGTGACCTTCAAGGATGTAG  23521411
+
+Query  75        CTGTAGACTTTACCCAGGAAGAGTGG  100
+                 |||||||||| |||||||||||||||
+Sbjct  23521412  CTGTAGACTTCACCCAGGAAGAGTGG  23521437
 
 
 
 
 
-Query #23: read23 Query ID: lcl|Query_459004 Length: 100
+Query #24: read24 Query ID: lcl|Query_416149 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       107    107   83%   1e-21 88.51  51431252   CP050633.1       
+Pipistrellus pipistrellus genome assembly, chromosome: 7          Pipistrellus... common pipis... 59474      64.4   64.4  87%   3e-06 77.01  84548104   LR862363.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 25b
-Sequence ID: CP050633.1 Length: 51431252
-Range 1: 37349732 to 37349818
+>Pipistrellus pipistrellus genome assembly, chromosome: 7
+Sequence ID: LR862363.1 Length: 84548104
+Range 1: 5139035 to 5139120
 
-Score:107 bits(118), Expect:1e-21, 
-Identities:77/87(89%),  Gaps:4/87(4%), Strand: Plus/Minus
+Score:64.4 bits(70), Expect:3e-06, 
+Identities:67/87(77%),  Gaps:1/87(1%), Strand: Plus/Plus
 
-Query  18        TGGCCCTACTGAAAC--AATATCTG--ATATTTTAGGAATCTGTGACCTACAAAGATGTA  73
-                 |||||||  ||||||  | ||||||  ||||||||||| |||||||||| ||||||||||
-Sbjct  37349818  TGGCCCTGTTGAAACCCAGTATCTGTGATATTTTAGGACTCTGTGACCTTCAAAGATGTA  37349759
+Query  6        TGAGGCTGAAGGAGCACCCAGGGTCAGGGTCAGGTTGCCTGAACTATCTTCCTTTCCTCT  65
+                ||||||||||| ||||| ||||||||||  || | || ||| ||      |||||||| |
+Sbjct  5139035  TGAGGCTGAAGCAGCACTCAGGGTCAGGTGCAAGGTGTCTGGAC-CCGGCCCTTTCCTGT  5139093
 
-Query  74        GCTGTAGACTTTACCCAGGAAGAGTGG  100
-                 ||||||||||| |||||||||||||||
-Sbjct  37349758  GCTGTAGACTTAACCCAGGAAGAGTGG  37349732
-
-
-
-
-
-Query #24: read24 Query ID: lcl|Query_459005 Length: 100
-
-Sequences producing significant alignments:
-                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
-Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       68.9   68.9  60%   1e-09 85.00  47624915   CP050643.1       
-
-
-Alignments:
-
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 41775795 to 41775854
-
-Score:68.9 bits(75), Expect:1e-09, 
-Identities:51/60(85%),  Gaps:0/60(0%), Strand: Plus/Minus
-
-Query  38        GGTTGCCTGAACTATCTTCCTTTCCTCTTAGGTACACTTCCTAAGGGTGGGAATCAGAAT  97
-                 |||||||||| || ||   ||||||||||||||| ||||| || |||||||||||| |||
-Sbjct  41775854  GGTTGCCTGAGCTGTCCCTCTTTCCTCTTAGGTATACTTCATAGGGGTGGGAATCACAAT  41775795
+Query  66       TAGGTACACTTCCTAAGGGTGGGAATC  92
+                ||||||| |||| | |||||| || ||
+Sbjct  5139094  TAGGTACCCTTCATTAGGGTGTGACTC  5139120
 
 
 
 
 
-Query #25: read25 Query ID: lcl|Query_459006 Length: 100
+Query #25: read25 Query ID: lcl|Query_416150 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       147    147   96%   1e-33 93.75  51431252   CP050633.1       
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       147    147   96%   3e-31 93.75  51431252   CP050633.1       
 
 
 Alignments:
@@ -612,7 +677,7 @@ Alignments:
 Sequence ID: CP050633.1 Length: 51431252
 Range 1: 13746008 to 13746103
 
-Score:147 bits(162), Expect:1e-33, 
+Score:147 bits(162), Expect:3e-31, 
 Identities:90/96(94%),  Gaps:0/96(0%), Strand: Plus/Minus
 
 Query  1         ATATCGGGAACTTGTTTTTTATGGAAGAACGACCACCACGTCCTGTGGTTCTTTATCCCT  60
@@ -627,1248 +692,2072 @@ Sbjct  13746043  CAGCAGCTGTGTCCAGCTGGTGGTCCTCATTCCCCC  13746008
 
 
 
-Query #26: read26 Query ID: lcl|Query_459007 Length: 100
+Query #26: read26 Query ID: lcl|Query_416151 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       103    103   99%   5e-20 82.83  47624915   CP050643.1       
+Canis lupus genome assembly, chromosome: 24                       Canis lupus     gray wolf       9612       103    103   99%   1e-17 82.83  49877449   HG994407.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 42300249 to 42300347
+>Canis lupus genome assembly, chromosome: 24
+Sequence ID: HG994407.1 Length: 49877449
+Range 1: 44450055 to 44450153
 
-Score:103 bits(113), Expect:5e-20, 
+Score:103 bits(113), Expect:1e-17, 
 Identities:82/99(83%),  Gaps:0/99(0%), Strand: Plus/Minus
 
 Query  2         AGGATGAAGCACCCACTCAGGCCAGCCCAAGAGGGTGATGGGGTCACACAGACGCCGGGG  61
                  || || ||||||||||||| |||| |||||||  ||| ||| |||| | |||| || | |
-Sbjct  42300347  AGAATTAAGCACCCACTCAAGCCACCCCAAGAATGTGGTGGTGTCATAAAGACACCTGTG  42300288
+Sbjct  44450153  AGAATTAAGCACCCACTCAAGCCACCCCAAGAATGTGGTGGTGTCATAAAGACACCTGTG  44450094
 
 Query  62        TCCGGGGGTCTGGGCACGGGGATCCATCGGGCCCCAGGA  100
                  || |||| ||||||||| |||| ||||||||||||||||
-Sbjct  42300287  TCTGGGGATCTGGGCACAGGGAACCATCGGGCCCCAGGA  42300249
+Sbjct  44450093  TCTGGGGATCTGGGCACAGGGAACCATCGGGCCCCAGGA  44450055
 
 
 
 
 
-Query #27: read27 Query ID: lcl|Query_459008 Length: 100
-
-Sequences producing significant alignments:
-                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
-Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       97.8   97.8  61%   2e-18 95.08  47624915   CP050643.1       
-
-
-Alignments:
-
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 43965136 to 43965196
-
-Score:97.8 bits(107), Expect:2e-18, 
-Identities:58/61(95%),  Gaps:0/61(0%), Strand: Plus/Minus
-
-Query  3         ATACCTTGCCCCGAGAGAACAGCAAGGAGTTCAAAGTGCACTTGACTTTAGTCTATGCCA  62
-                 ||||||||||| ||||||||||||| || |||||||||||||||||||||||||||||||
-Sbjct  43965196  ATACCTTGCCCTGAGAGAACAGCAAAGAATTCAAAGTGCACTTGACTTTAGTCTATGCCA  43965137
-
-Query  63        G  63
-                 |
-Sbjct  43965136  G  43965136
-
-
-
-
-
-Query #28: read28 Query ID: lcl|Query_459009 Length: 100
+Query #27: read27 Query ID: lcl|Query_416152 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       68.0   68.0  92%   1e-09 76.09  47624915   CP050643.1       
+PREDICTED: Prionailurus viverrinus zinc finger protein 831...     Prionailurus... fishing cat     61388      177    177   100%  6e-40 99.00  9684       XM_047852396.1   
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 42324141 to 42324232
+>PREDICTED: Prionailurus viverrinus zinc finger protein 831 (ZNF831), transcript variant X1, mRNA
+Sequence ID: XM_047852396.1 Length: 9684
+Range 1: 8321 to 8420
 
-Score:68.0 bits(74), Expect:1e-09, 
-Identities:70/92(76%),  Gaps:0/92(0%), Strand: Plus/Minus
+Score:177 bits(195), Expect:6e-40, 
+Identities:99/100(99%),  Gaps:0/100(0%), Strand: Plus/Minus
 
-Query  9         CCCCTCGTATAACTTTGCCTGCTACGAGATGGCATTGAATTTGACCCGAGTGTGACCAAG  68
-                 |||||   || ||| |  |||||  | | ||||| | ||||| |||  ||||||||  ||
-Sbjct  42324232  CCCCTACCATTACTCTCACTGCTGTGTGCTGGCACTTAATTTCACCAAAGTGTGACAGAG  42324173
+Query  1     GGATACCTTGCCCCGAGAGAACAGCAAGGAGTTCAAAGTGCACTTGACTTTAGTCTATGC  60
+             ||||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8420  GGATACCTTGCCCTGAGAGAACAGCAAGGAGTTCAAAGTGCACTTGACTTTAGTCTATGC  8361
 
-Query  69        TCACAAATACATTCCCTTTGGAAATGTCCTCA  100
-                 ||||||||| ||||||||||||| | | ||||
-Sbjct  42324172  TCACAAATATATTCCCTTTGGAACTTTTCTCA  42324141
-
-
+Query  61    CAGAGTCCCTAGAGTTATTCTCTGTGGAAGAAGCTGAGCA  100
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  8360  CAGAGTCCCTAGAGTTATTCTCTGTGGAAGAAGCTGAGCA  8321
 
 
 
-Query #29: read29 Query ID: lcl|Query_459010 Length: 100
+
+
+Query #28: read28 Query ID: lcl|Query_416153 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       80.6   80.6  94%   2e-13 80.85  47624915   CP050643.1       
+PREDICTED: Panthera pardus uncharacterized LOC109253496...        Panthera pardus leopard         9691       150    150   96%   8e-32 94.85  1839       XR_002074426.2   
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 41784767 to 41784855
+>PREDICTED: Panthera pardus uncharacterized LOC109253496 (LOC109253496), ncRNA
+Sequence ID: XR_002074426.2 Length: 1839
+Range 1: 1743 to 1839
 
-Score:80.6 bits(88), Expect:2e-13, 
-Identities:76/94(81%),  Gaps:5/94(5%), Strand: Plus/Minus
+Score:150 bits(165), Expect:8e-32, 
+Identities:92/97(95%),  Gaps:1/97(1%), Strand: Plus/Plus
 
-Query  1         CCCAGGGCCTGGCTGTCCTTCCTTCCCGCAGCAGAGCTGTGGCCGAGGCAACCCGAAGGG  60
-                 |||||  || ||| | |||| |||||||| || |   ||||||||| | |||||||| ||
-Sbjct  41784855  CCCAGACCCCGGCCGCCCTTGCTTCCCGCGGCCGT--TGTGGCCGAAGTAACCCGAAAGG  41784798
+Query  1     TTTCAAGCCCCCTCGTATAACTTTGCCTGCTACGAGATGGCATTGAATTTGACC-CGAGT  59
+             |||||||||||||||| ||||||| ||||||||||||||||| |||||||||||  ||||
+Sbjct  1743  TTTCAAGCCCCCTCGTGTAACTTTCCCTGCTACGAGATGGCACTGAATTTGACCAAGAGT  1802
 
-Query  61        ACAGAGATTCCTCCCAGCCCGGGGGCAGAGGCAA  94
-                 |||||  ||||||||||||| |||| ||||||||
-Sbjct  41784797  ACAGA--TTCCTCCCAGCCCCGGGG-AGAGGCAA  41784767
-
-
+Query  60    GTGACCAAGTCACAAATACATTCCCTTTGGAAATGTC  96
+             |||||||||||||||||||||||||||||||||||||
+Sbjct  1803  GTGACCAAGTCACAAATACATTCCCTTTGGAAATGTC  1839
 
 
 
-Query #30: read30 Query ID: lcl|Query_459011 Length: 100
+
+
+Query #29: read29 Query ID: lcl|Query_416154 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 20b    Canis lupus ... dog             9615       101    101   95%   2e-19 84.21  58321546   CP050631.1       
+Meles meles genome assembly, chromosome: 16                       Meles meles     Eurasian badger 9662       104    104   86%   3e-18 87.21  82953774   OV277457.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 20b
-Sequence ID: CP050631.1 Length: 58321546
-Range 1: 56752432 to 56752525
+>Meles meles genome assembly, chromosome: 16
+Sequence ID: OV277457.1 Length: 82953774
+Range 1: 77068308 to 77068391
 
-Score:101 bits(111), Expect:2e-19, 
-Identities:80/95(84%),  Gaps:1/95(1%), Strand: Plus/Minus
+Score:104 bits(114), Expect:3e-18, 
+Identities:75/86(87%),  Gaps:2/86(2%), Strand: Plus/Minus
 
-Query  2         GGGGTGAAGGCTCCCCTGCTGGCAGAGGGCCCCGAAGGTCGGAGCATAGCTCGGCTAAGT  61
-                 || |||||| |||| || ||||||||||||||| |||||| || || ||||| |||||| 
-Sbjct  56752525  GGAGTGAAG-CTCCTCTCCTGGCAGAGGGCCCCAAAGGTCAGACCACAGCTCAGCTAAGA  56752467
+Query  13        CTGTCCTTCCTTCCCGCAGCAGAGCTGTGGCCGAGGCAACCCGAAGGGACAGAGATTCCT  72
+                 |||||| |||||||| ||||||  ||||| |||  |||||||| ||||||||||||||||
+Sbjct  77068391  CTGTCCCTCCTTCCCTCAGCAG--CTGTGCCCGGTGCAACCCGTAGGGACAGAGATTCCT  77068334
 
-Query  62        GACTTGCAAACAGAGGCCCATCTATGTGGCTTTGA  96
-                 |||||||| |||||||||||||| ||  ||| |||
-Sbjct  56752466  GACTTGCAGACAGAGGCCCATCTGTGCTGCTCTGA  56752432
-
-
+Query  73        CCCAGCCCGGGGGCAGAGGCAAAAGG  98
+                 ||| ||||||||| ||||||||| ||
+Sbjct  77068333  CCCCGCCCGGGGGGAGAGGCAAATGG  77068308
 
 
 
-Query #31: read31 Query ID: lcl|Query_459012 Length: 100
+
+
+Query #30: read30 Query ID: lcl|Query_416155 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       86.0   86.0  92%   4e-15 80.43  47624915   CP050643.1       
+Canis lupus genome assembly, chromosome: 20                       Canis lupus     gray wolf       9612       101    101   95%   4e-17 84.21  59774210   HG994401.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 40770865 to 40770956
+>Canis lupus genome assembly, chromosome: 20
+Sequence ID: HG994401.1 Length: 59774210
+Range 1: 1629110 to 1629203
 
-Score:86.0 bits(94), Expect:4e-15, 
-Identities:74/92(80%),  Gaps:0/92(0%), Strand: Plus/Minus
+Score:101 bits(111), Expect:4e-17, 
+Identities:80/95(84%),  Gaps:1/95(1%), Strand: Plus/Plus
 
-Query  1         AACACCTCTAAAGGATCTTTTGTGAGTCCTGGCGAGTTTGTGACTTTCTGGGTTAGGAAG  60
-                 || ||| |||||| ||||||||||| ||||   ||||||||||||| | || | ||||||
-Sbjct  40770956  AAAACCCCTAAAGAATCTTTTGTGAATCCTAAGGAGTTTGTGACTTCCCGGATCAGGAAG  40770897
+Query  2        GGGGTGAAGGCTCCCCTGCTGGCAGAGGGCCCCGAAGGTCGGAGCATAGCTCGGCTAAGT  61
+                || |||||| |||| || ||||||||||||||| |||||| || || ||||| |||||| 
+Sbjct  1629110  GGAGTGAAG-CTCCTCTCCTGGCAGAGGGCCCCAAAGGTCAGACCACAGCTCAGCTAAGA  1629168
 
-Query  61        GATGGATGCAGTGGCTTCCTGCAAAGAGGCAG  92
-                 ||| ||||  ||||||   |||||||| ||||
-Sbjct  40770896  GATAGATGTCGTGGCTGGTTGCAAAGAAGCAG  40770865
-
-
+Query  62       GACTTGCAAACAGAGGCCCATCTATGTGGCTTTGA  96
+                |||||||| |||||||||||||| ||  ||| |||
+Sbjct  1629169  GACTTGCAGACAGAGGCCCATCTGTGCTGCTCTGA  1629203
 
 
 
-Query #32: read32 Query ID: lcl|Query_459013 Length: 100
+
+
+Query #31: read31 Query ID: lcl|Query_416156 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       103    103   100%  5e-20 83.17  47624915   CP050643.1       
+Balaenoptera acutorostrata genome assembly, chromosome: 15        Balaenoptera... minke whale     9767       107    107   100%  2e-19 84.16  90086203   OX465365.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 41608998 to 41609098
+>Balaenoptera acutorostrata genome assembly, chromosome: 15
+Sequence ID: OX465365.1 Length: 90086203
+Range 1: 82820179 to 82820279
 
-Score:103 bits(113), Expect:5e-20, 
-Identities:84/101(83%),  Gaps:1/101(0%), Strand: Plus/Minus
+Score:107 bits(118), Expect:2e-19, 
+Identities:85/101(84%),  Gaps:1/101(0%), Strand: Plus/Minus
 
-Query  1         AAGCAGTTCTATAGCTAAGCTGCCCATTTTTTCTCGTTCTGAATTTTAATAT-TTTTAGT  59
-                 |||||||||| ||| |||| || |||||||||| | ||||  |||||| ||| |||| ||
-Sbjct  41609098  AAGCAGTTCTGTAGTTAAGTTGTCCATTTTTTCCCATTCTCTATTTTAGTATGTTTTCGT  41609039
+Query  1         AACACCTCTAAAGGATCTTTTGTGAGTCCTGGCGAGTTTGTGACTT-TCTGGGTTAGGAA  59
+                 || |||||||||  ||||||||||| |||||| |||||||||||||  |  |||||||||
+Sbjct  82820279  AAAACCTCTAAAAAATCTTTTGTGAATCCTGGTGAGTTTGTGACTTCCCCAGGTTAGGAA  82820220
 
-Query  60        GCTGGGATCTGTTAGTAGCAGCTCTGGGGCTCATTAAGACA  100
-                 |||| |||||||||||||||||| ||  || ||||||| ||
-Sbjct  41609038  GCTGAGATCTGTTAGTAGCAGCTTTGAAGCCCATTAAGTCA  41608998
-
-
+Query  60        GGATGGATGCAGTGGCTTCCTGCAAAGAGGCAGCAGCAGCA  100
+                 ||| |||| | |||||| || |||||| | |||||||||||
+Sbjct  82820219  GGAAGGATCCTGTGGCTGCCAGCAAAGTGCCAGCAGCAGCA  82820179
 
 
 
-Query #33: read33 Query ID: lcl|Query_459014 Length: 100
+
+
+Query #32: read32 Query ID: lcl|Query_416157 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 15b    Canis lupus ... dog             9615       44.6   44.6  39%   0.013 84.62  64292917   CP050620.1       
-Canis lupus familiaris breed Labrador retriever chromosome 21a    Canis lupus ... dog             9615       42.8   42.8  33%   0.044 87.88  51019060   CP050601.1       
+Hyperoodon ampullatus genome assembly, chromosome: 14             Hyperoodon a... northern bot... 48744      112    112   99%   2e-20 84.85  89648162   OX457069.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 15b
-Sequence ID: CP050620.1 Length: 64292917
-Range 1: 1598586 to 1598624
+>Hyperoodon ampullatus genome assembly, chromosome: 14
+Sequence ID: OX457069.1 Length: 89648162
+Range 1: 82429217 to 82429315
 
-Score:44.6 bits(48), Expect:0.013, 
-Identities:33/39(85%),  Gaps:0/39(0%), Strand: Plus/Plus
+Score:112 bits(123), Expect:2e-20, 
+Identities:84/99(85%),  Gaps:0/99(0%), Strand: Plus/Minus
 
-Query  16       GGGGCTTCCCCAGGCTGGTGAAGAGCCTGGGGGCTGGGA  54
-                ||||||||||||||||||   |||||  |||||| ||||
-Sbjct  1598586  GGGGCTTCCCCAGGCTGGCCCAGAGCTCGGGGGCCGGGA  1598624
+Query  2         AGCAGTTCTATAGCTAAGCTGCCCATTTTTTCTCGTTCTGAATTTTAATATTTTTAGTGC  61
+                 ||||||||| ||| |||  || |||||||| | | |||  ||||||||||||||||||| 
+Sbjct  82429315  AGCAGTTCTGTAGTTAAATTGTCCATTTTTCCCCATTCCAAATTTTAATATTTTTAGTGT  82429256
 
-
-
-
->Canis lupus familiaris breed Labrador retriever chromosome 21a
-Sequence ID: CP050601.1 Length: 51019060
-Range 1: 25806693 to 25806725
-
-Score:42.8 bits(46), Expect:0.044, 
-Identities:29/33(88%),  Gaps:0/33(0%), Strand: Plus/Plus
-
-Query  66        CTCTGGCGGGGAGGGGCCTGCAGAGCCCTGGGG  98
-                 |||||  ||||| |||||||||||||| |||||
-Sbjct  25806693  CTCTGTGGGGGAAGGGCCTGCAGAGCCATGGGG  25806725
+Query  62        TGGGATCTGTTAGTAGCAGCTCTGGGGCTCATTAAGACA  100
+                 || |||||||||||||||||||||  |||||||||| ||
+Sbjct  82429255  TGAGATCTGTTAGTAGCAGCTCTGAAGCTCATTAAGTCA  82429217
 
 
 
 
 
-Query #34: read34 Query ID: lcl|Query_459015 Length: 100
+Query #33: read33 Query ID: lcl|Query_416158 Length: 100
+
+No significant similarity found.
+
+
+
+Query #34: read34 Query ID: lcl|Query_416159 Length: 100
+
+No significant similarity found.
+
+
+
+Query #35: read35 Query ID: lcl|Query_416160 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 29b    Canis lupus ... dog             9615       42.8   42.8  40%   0.044 83.33  41750700   CP050629.1       
+Canis lupus genome assembly, chromosome: 25                       Canis lupus     gray wolf       9612       76.1   76.1  83%   1e-09 80.72  53617450   HG994404.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 29b
-Sequence ID: CP050629.1 Length: 41750700
-Range 1: 41269056 to 41269097
+>Canis lupus genome assembly, chromosome: 25
+Sequence ID: HG994404.1 Length: 53617450
+Range 1: 39958845 to 39958925
 
-Score:42.8 bits(46), Expect:0.044, 
-Identities:35/42(83%),  Gaps:2/42(4%), Strand: Plus/Minus
-
-Query  35        GAGCACACGTGGA--CCTTTTGTTACCCTTTTCTCCGCTGCA  74
-                 ||| ||||||| |  |||||  |||||||| |||||||||||
-Sbjct  41269097  GAGAACACGTGCAATCCTTTCATTACCCTTCTCTCCGCTGCA  41269056
-
-
-
-
-
-Query #35: read35 Query ID: lcl|Query_459016 Length: 100
-
-Sequences producing significant alignments:
-                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
-Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       76.1   76.1  83%   7e-12 80.72  51431252   CP050633.1       
-
-
-Alignments:
-
->Canis lupus familiaris breed Labrador retriever chromosome 25b
-Sequence ID: CP050633.1 Length: 51431252
-Range 1: 11736884 to 11736964
-
-Score:76.1 bits(83), Expect:7e-12, 
-Identities:67/83(81%),  Gaps:2/83(2%), Strand: Plus/Minus
+Score:76.1 bits(83), Expect:1e-09, 
+Identities:67/83(81%),  Gaps:2/83(2%), Strand: Plus/Plus
 
 Query  2         ATACTACCAGCCAGTTATGAACGCGAAAGGCACAGAACACCGTAAGAATCAGGATCTGTC  61
                  ||| |||  | || ||||||| | || ||  |||||||||  |||||||| |||||||||
-Sbjct  11736964  ATATTACTGGACAATTATGAATGAGAGAG--ACAGAACACTCTAAGAATCGGGATCTGTC  11736907
+Sbjct  39958845  ATATTACTGGACAATTATGAATGAGAGAG--ACAGAACACTCTAAGAATCGGGATCTGTC  39958902
 
 Query  62        CTGATCTATTCATTTGGCTACCT  84
                   |||| || ||||||||||||||
-Sbjct  11736906  TTGATTTACTCATTTGGCTACCT  11736884
+Sbjct  39958903  TTGATTTACTCATTTGGCTACCT  39958925
 
 
 
 
 
-Query #36: read36 Query ID: lcl|Query_459017 Length: 100
-
-No significant similarity found.
-
-
-
-Query #37: read37 Query ID: lcl|Query_459018 Length: 100
-
-No significant similarity found.
-
-
-
-Query #38: read38 Query ID: lcl|Query_459019 Length: 100
+Query #36: read36 Query ID: lcl|Query_416161 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       86.0   86.0  80%   4e-15 85.19  51431252   CP050633.1       
+Hyperoodon ampullatus genome assembly, chromosome: 16             Hyperoodon a... northern bot... 48744      59.0   59.0  64%   1e-04 82.81  79603873   OX457071.1       
+Meles meles genome assembly, chromosome: 14                       Meles meles     Eurasian badger 9662       51.8   51.8  48%   0.017 83.33  86535488   OV277455.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 25b
-Sequence ID: CP050633.1 Length: 51431252
-Range 1: 17701355 to 17701434
+>Hyperoodon ampullatus genome assembly, chromosome: 16
+Sequence ID: OX457071.1 Length: 79603873
+Range 1: 73340662 to 73340719
 
-Score:86.0 bits(94), Expect:4e-15, 
-Identities:69/81(85%),  Gaps:2/81(2%), Strand: Plus/Minus
+Score:59.0 bits(64), Expect:1e-04, 
+Identities:53/64(83%),  Gaps:6/64(9%), Strand: Plus/Minus
 
-Query  21        CCCTGTTCATTTTCTGGAAAGACTTT-CTTTCTGTAACTTATTTTTTAAAGTaaaaaaaa  79
-                 || ||||| |||||||||||| ||||  ||||  |||||||||||| |||||  ||||||
-Sbjct  17701434  CCTTGTTCCTTTTCTGGAAAGGCTTTGTTTTCATTAACTTATTTTTAAAAGT-TAAAAAA  17701376
+Query  12        GTGGCTGCGCCTCGGGACTCCTGAGGTAGCGTCATGCTGGCTGGTGTGCTCTTTCTGGAA  71
+                 ||||||| |||| ||| | ||||||| ||||||||||||||    | |||| ||||||||
+Sbjct  73340719  GTGGCTGTGCCTTGGGGCCCCTGAGG-AGCGTCATGCTGGC----GCGCTC-TTCTGGAA  73340666
 
-Query  80        aaGTGGAAAGAATAATAAACA  100
-                 |||| ||||| ||||||||||
-Sbjct  17701375  AAGTAGAAAGTATAATAAACA  17701355
-
-
+Query  72        GCTC  75
+                 ||||
+Sbjct  73340665  GCTC  73340662
 
 
 
-Query #39: read39 Query ID: lcl|Query_459020 Length: 100
+
+>Meles meles genome assembly, chromosome: 14
+Sequence ID: OV277455.1 Length: 86535488
+Range 1: 10055436 to 10055483
+
+Score:51.8 bits(56), Expect:0.017, 
+Identities:40/48(83%),  Gaps:0/48(0%), Strand: Plus/Plus
+
+Query  53        TGGTGTGCTCTTTCTGGAAGCTCCGTGAAGCCCCGCGGGGCCACCGGG  100
+                 ||||||||||| ||||||||||  ||||||||||   ||||  |||||
+Sbjct  10055436  TGGTGTGCTCTCTCTGGAAGCTAAGTGAAGCCCCAGAGGGCTCCCGGG  10055483
+
+
+
+
+
+Query #37: read37 Query ID: lcl|Query_416162 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       77.0   77.0  71%   2e-12 85.92  47624915   CP050643.1       
+PREDICTED: Acinonyx jubatus olfactory receptor 12D1-like...       Acinonyx jub... cheetah         32536      150    150   100%  2e-32 90.65  2526       XM_015082231.3   
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 44767899 to 44767967
+>PREDICTED: Acinonyx jubatus olfactory receptor 12D1-like (LOC106984032), mRNA
+Sequence ID: XM_015082231.3 Length: 2526
+Range 1: 2268 to 2374
 
-Score:77.0 bits(84), Expect:2e-12, 
+Score:150 bits(166), Expect:2e-32, 
+Identities:97/107(91%),  Gaps:7/107(6%), Strand: Plus/Minus
+
+Query  1     CTCATCAAGACCTGTCATAGTCTTTATCTGCATCTCTAGTCAAAAATGCTGCCCCCACCA  60
+             ||||||||| ||||||| ||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2374  CTCATCAAGGCCTGTCACAGTCTTTATCTGCATCTCTAGTCAAAAATGCTGCCCCCACCA  2315
+
+Query  61    TCGTTCAGGC-------CCACTCCCAAGACTTAGAAAGTAGGGAATA  100
+             || |||||||       ||||||||||||||||||||||||||||||
+Sbjct  2314  TCCTTCAGGCCCAGTAACCACTCCCAAGACTTAGAAAGTAGGGAATA  2268
+
+
+
+
+
+Query #38: read38 Query ID: lcl|Query_416163 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Meles meles genome assembly, chromosome: 14                       Meles meles     Eurasian badger 9662       109    109   100%  7e-20 84.00  86535488   OV277455.1       
+
+
+Alignments:
+
+>Meles meles genome assembly, chromosome: 14
+Sequence ID: OV277455.1 Length: 86535488
+Range 1: 3614247 to 3614346
+
+Score:109 bits(120), Expect:7e-20, 
+Identities:84/100(84%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1        TGACAAATAAAATACAGTGCCCCTGTTCATTTTCTGGAAAGACTTTCTTTCTGTAACTTA  60
+                ||| ||||| ||||| |||||||||||| ||||||||||||||| | |||   ||| |||
+Sbjct  3614247  TGAGAAATATAATACGGTGCCCCTGTTCCTTTTCTGGAAAGACTCTGTTTTCATAATTTA  3614306
+
+Query  61       TTTTTTAAAGTaaaaaaaaaaGTGGAAAGAATAATAAACA  100
+                ||||| |||   ||||| ||||| ||||||||||||||||
+Sbjct  3614307  TTTTTAAAAAGTAAAAATAAAGTAGAAAGAATAATAAACA  3614346
+
+
+
+
+
+Query #39: read39 Query ID: lcl|Query_416164 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus genome assembly, chromosome: 24                       Canis lupus     gray wolf       9612       77.0   77.0  71%   4e-10 85.92  49877449   HG994407.1       
+
+
+Alignments:
+
+>Canis lupus genome assembly, chromosome: 24
+Sequence ID: HG994407.1 Length: 49877449
+Range 1: 46949252 to 46949320
+
+Score:77.0 bits(84), Expect:4e-10, 
 Identities:61/71(86%),  Gaps:2/71(2%), Strand: Plus/Minus
 
 Query  3         AGCCCCTTGTTTCCTGCCCACCCACCCTCACCACCTCAGGCGTGGCTCAGAATTACTCCC  62
                  ||||||||||| ||||||||||||| ||| ||||||||||| |||  |||||   |||| 
-Sbjct  44767967  AGCCCCTTGTT-CCTGCCCACCCACACTCGCCACCTCAGGC-TGGTGCAGAAGCGCTCCG  44767910
+Sbjct  46949320  AGCCCCTTGTT-CCTGCCCACCCACACTCGCCACCTCAGGC-TGGTGCAGAAGCGCTCCG  46949263
 
 Query  63        CTCTGTGTGTC  73
                  |||||||||||
-Sbjct  44767909  CTCTGTGTGTC  44767899
+Sbjct  46949262  CTCTGTGTGTC  46949252
 
 
 
 
 
-Query #40: read40 Query ID: lcl|Query_459021 Length: 100
-
-No significant similarity found.
-
-
-
-Query #41: read41 Query ID: lcl|Query_459022 Length: 100
+Query #40: read40 Query ID: lcl|Query_416165 Length: 100
 
 No significant similarity found.
 
 
 
-Query #42: read42 Query ID: lcl|Query_459023 Length: 100
+Query #41: read41 Query ID: lcl|Query_416166 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       65.3   65.3  79%   1e-08 75.56  47624915   CP050643.1       
+Bibio marci genome assembly, chromosome: 5                        Bibio marci     St. Mark's fly  189979     52.7   52.7  50%   0.017 84.00  45408480   OU343118.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 24b
-Sequence ID: CP050643.1 Length: 47624915
-Range 1: 40176292 to 40176381
+>Bibio marci genome assembly, chromosome: 5
+Sequence ID: OU343118.1 Length: 45408480
+Range 1: 3970498 to 3970545
 
-Score:65.3 bits(71), Expect:1e-08, 
-Identities:68/90(76%),  Gaps:11/90(12%), Strand: Plus/Minus
+Score:52.7 bits(57), Expect:0.017, 
+Identities:42/50(84%),  Gaps:2/50(4%), Strand: Plus/Plus
 
-Query  22        GTACCTTCACTTGCCAAACCATAAAACACCTATTAAA-----ATAAAATAAAAA------  70
-                 ||| ||||||||| ||||||| |||| | ||||||||     |||||| |||||      
-Sbjct  40176381  GTATCTTCACTTGTCAAACCAGAAAATAGCTATTAAATTAAAATAAAACAAAAAAAAAAC  40176322
-
-Query  71        CTTTGAAAGCTGTCACTCCCAGAGAGAAGG  100
-                 | || |||||||||  |||| |||||||||
-Sbjct  40176321  CCTTCAAAGCTGTCTTTCCCTGAGAGAAGG  40176292
+Query  39       TATTACAAAATATTGATGTTGGGAAAAGTAGACACAGATTTTACTTCATT  88
+                ||||| |||||||||||| ||| ||||||| ||||  |||||  ||||||
+Sbjct  3970498  TATTATAAAATATTGATGATGGCAAAAGTATACAC--ATTTTTTTTCATT  3970545
 
 
 
 
 
-Query #43: read43 Query ID: lcl|Query_459024 Length: 100
-
-No significant similarity found.
-
-
-
-Query #44: read44 Query ID: lcl|Query_459025 Length: 100
+Query #42: read42 Query ID: lcl|Query_416167 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Felis catus Senzu DNA, chromosome: E3, American Shorthair breed   Felis catus     domestic cat    9685       45.5   45.5  38%   0.013 87.18  41750578   AP023167.1       
+Meles meles genome assembly, chromosome: 16                       Meles meles     Eurasian badger 9662       104    104   98%   3e-18 84.85  82953774   OV277457.1       
 
 
 Alignments:
 
->Felis catus Senzu DNA, chromosome: E3, American Shorthair breed
-Sequence ID: AP023167.1 Length: 41750578
-Range 1: 33084358 to 33084396
+>Meles meles genome assembly, chromosome: 16
+Sequence ID: OV277457.1 Length: 82953774
+Range 1: 75368694 to 75368791
 
-Score:45.5 bits(49), Expect:0.013, 
-Identities:34/39(87%),  Gaps:1/39(2%), Strand: Plus/Plus
+Score:104 bits(115), Expect:3e-18, 
+Identities:84/99(85%),  Gaps:2/99(2%), Strand: Plus/Minus
 
-Query  17        GGCTGGGGGTGGGGGAGCACCAGCAGGGG-GTCGCAGAG  54
-                 ||| ||||| ||||||||||||||||||| |  ||||||
-Sbjct  33084358  GGCGGGGGGGGGGGGAGCACCAGCAGGGGAGGGGCAGAG  33084396
+Query  3         AGGAATATACACTTAAAAAGTACCTTCACTTGCCAAACCATAAAACACCTATTAAAATAA  62
+                 |||| ||||||| | ||  ||| ||||||||| ||| |||||||||| ||||||||| ||
+Sbjct  75368791  AGGAGTATACACGTCAAT-GTATCTTCACTTGGCAAGCCATAAAACAGCTATTAAAAAAA  75368733
 
-
-
-
-
-Query #45: read45 Query ID: lcl|Query_459026 Length: 100
-
-No significant similarity found.
+Query  63        AATAA-AAACTTTGAAAGCTGTCACTCCCAGAGAGAAGG  100
+                 ||||| ||||| |||||||  ||| ||||||||||||||
+Sbjct  75368732  AATAATAAACTCTGAAAGCCATCATTCCCAGAGAGAAGG  75368694
 
 
 
-Query #46: read46 Query ID: lcl|Query_459027 Length: 100
+
+
+Query #43: read43 Query ID: lcl|Query_416168 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 12b    Canis lupus ... dog             9615       107    107   82%   1e-21 89.02  72555136   CP050616.1       
+Meles meles genome assembly, chromosome: 16                       Meles meles     Eurasian badger 9662       69.8   69.8  100%  6e-08 76.00  82953774   OV277457.1       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 12b
-Sequence ID: CP050616.1 Length: 72555136
-Range 1: 26023437 to 26023514
+>Meles meles genome assembly, chromosome: 16
+Sequence ID: OV277457.1 Length: 82953774
+Range 1: 75892687 to 75892780
 
-Score:107 bits(118), Expect:1e-21, 
-Identities:73/82(89%),  Gaps:4/82(4%), Strand: Plus/Plus
+Score:69.8 bits(76), Expect:6e-08, 
+Identities:76/100(76%),  Gaps:6/100(6%), Strand: Plus/Minus
 
-Query  19        aaaaaaaTTGCTTTAAATCATGAACTAAGCACAAACAATAATTCACCATGATCCATAACT  78
-                 |||| |||||||||||||||||||||| |||||||||||||||||||||||||||    |
-Sbjct  26023437  AAAATAATTGCTTTAAATCATGAACTATGCACAAACAATAATTCACCATGATCCA----T  26023492
+Query  1         CTTACTACCTCACAGAACGGAAGGTAAAGTCCGGTGACCAGTATTCGGAAGGCTAACTCA  60
+                 ||| || ||||||||||| ||| |||| ||  | |||||||| || ||||||    ||||
+Sbjct  75892780  CTTCCTCCCTCACAGAACTGAAAGTAAGGTTGGATGACCAGTCTTTGGAAGG----CTCA  75892725
 
-Query  79        AACTGTCTGCCCACTGTGAATA  100
-                 |||||||| || ||| ||||||
-Sbjct  26023493  AACTGTCTTCCTACTATGAATA  26023514
-
-
+Query  61        TTCATTGGTCAAAGATTCATCAATAGTCTCTACATTCTTC  100
+                  | | || |||| ||||| |||| ||||||  ||| ||||
+Sbjct  75892724  CTTAGTGCTCAAGGATTCGTCAAGAGTCTC--CATACTTC  75892687
 
 
 
-Query #47: read47 Query ID: lcl|Query_459028 Length: 100
-
-No significant similarity found.
 
 
-
-Query #48: read48 Query ID: lcl|Query_459029 Length: 100
+Query #44: read44 Query ID: lcl|Query_416169 Length: 100
 
 No significant similarity found.
 
 
 
-Query #49: read49 Query ID: lcl|Query_459030 Length: 100
+Query #45: read45 Query ID: lcl|Query_416170 Length: 100
+
+No significant similarity found.
+
+
+
+Query #46: read46 Query ID: lcl|Query_416171 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 02b    Canis lupus ... dog             9615       106    106   96%   4e-21 84.38  83851004   CP050613.1       
+Homo sapiens, clone hRPK.67_A_1, complete sequence                Homo sapiens    human           9606       181    181   100%  1e-41 100.00 177471     AC007446.8       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 02b
-Sequence ID: CP050613.1 Length: 83851004
-Range 1: 82480922 to 82481017
+>Homo sapiens, clone hRPK.67_A_1, complete sequence
+Sequence ID: AC007446.8 Length: 177471
+Range 1: 171266 to 171365
 
-Score:106 bits(117), Expect:4e-21, 
-Identities:81/96(84%),  Gaps:0/96(0%), Strand: Plus/Minus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
 
-Query  5         AATAAAGCCTGTAGGGACTCTACTTCTTGACCACTTGTTTCTGTCTTGTAAAGAAACCTC  64
-                 |||||||||||||| || |  |||||||||  ||||||||||  | | ||||||||||| 
-Sbjct  82481017  AATAAAGCCTGTAGAGATTTCACTTCTTGATTACTTGTTTCTCCCATATAAAGAAACCTT  82480958
+Query  1       ATTCAGCGGGACATATCTaaaaaaaTTGCTTTAAATCATGAACTAAGCACAAACAATAAT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  171365  ATTCAGCGGGACATATCTAAAAAAATTGCTTTAAATCATGAACTAAGCACAAACAATAAT  171306
 
-Query  65        CGTTTGAGAGGAAGGATTTGCATGCTGGTGTGATGT  100
-                  |||||||||||||| ||| | ||||||||||||||
-Sbjct  82480957  AGTTTGAGAGGAAGGGTTTACGTGCTGGTGTGATGT  82480922
-
-
+Query  61      TCACCATGATCCATAACTAACTGTCTGCCCACTGTGAATA  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  171305  TCACCATGATCCATAACTAACTGTCTGCCCACTGTGAATA  171266
 
 
 
-Query #50: read50 Query ID: lcl|Query_459031 Length: 100
+
+
+Query #47: read47 Query ID: lcl|Query_416172 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 04b    Canis lupus ... dog             9615       53.6   53.6  51%   2e-05 84.31  86945037   CP050625.1       
+Human DNA sequence from clone RP1-233K16 on chromosome...         Homo sapiens    human           9606       181    181   100%  1e-41 100.00 161651     AL035406.25      
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 04b
-Sequence ID: CP050625.1 Length: 86945037
-Range 1: 85585050 to 85585099
+>Human DNA sequence from clone RP1-233K16 on chromosome 1p36.21-36.33, complete sequence
+Sequence ID: AL035406.25 Length: 161651
+Range 1: 112255 to 112354
 
-Score:53.6 bits(58), Expect:2e-05, 
-Identities:43/51(84%),  Gaps:1/51(1%), Strand: Plus/Minus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
 
-Query  38        AGTTTCAGAATGCAGCACACAGTATTCTCCATTAGGGGGTTCTGTAAGACT  88
-                 || ||||||| ||||||||| |||| ||||   ||||||||||| ||||||
-Sbjct  85585099  AGCTTCAGAAGGCAGCACACGGTATGCTCCGC-AGGGGGTTCTGGAAGACT  85585050
+Query  1       AACCATAACAGGTTGTCCCCACACCAGGTCAAATCAGAAAGTGTCTTCTATTATTTTGTG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  112354  AACCATAACAGGTTGTCCCCACACCAGGTCAAATCAGAAAGTGTCTTCTATTATTTTGTG  112295
 
-
-
-
-
-Query #51: read51 Query ID: lcl|Query_459032 Length: 100
-
-No significant similarity found.
+Query  61      TCTCTGTCCTTGACTCCTGGGCTCAGTCCTGACCTTTCCT  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  112294  TCTCTGTCCTTGACTCCTGGGCTCAGTCCTGACCTTTCCT  112255
 
 
 
-Query #52: read52 Query ID: lcl|Query_459033 Length: 100
-
-No significant similarity found.
 
 
-
-Query #53: read53 Query ID: lcl|Query_459034 Length: 100
-
-No significant similarity found.
-
-
-
-Query #54: read54 Query ID: lcl|Query_459035 Length: 100
+Query #48: read48 Query ID: lcl|Query_416173 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 02b    Canis lupus ... dog             9615       62.6   62.6  74%   5e-08 78.38  83851004   CP050613.1       
+Homo sapiens chromosome 3 clone RP11-176P14 map 3p, complete...   Homo sapiens    human           9606       181    181   100%  1e-41 100.00 171965     AC087427.3       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 02b
-Sequence ID: CP050613.1 Length: 83851004
-Range 1: 27786783 to 27786856
+>Homo sapiens chromosome 3 clone RP11-176P14 map 3p, complete sequence
+Sequence ID: AC087427.3 Length: 171965
+Range 1: 8393 to 8492
 
-Score:62.6 bits(68), Expect:5e-08, 
-Identities:58/74(78%),  Gaps:0/74(0%), Strand: Plus/Plus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  13        GTCATTAGCAAGAAACGCGGGGACAGCATATTCTCTACTCTGGGTGACGAAGCTGAACCT  72
-                 || |||||||||||  || ||||||||||||| ||||| ||||||||| | | |||    
-Sbjct  27786783  GTAATTAGCAAGAACTGCAGGGACAGCATATTTTCTACACTGGGTGACAATGTTGAGTTC  27786842
+Query  1     GTCTACTGGTGGTTGGATTATGAAAGCCATAGGCCACACAAGATCTAACAAAGGTTTAAA  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  8393  GTCTACTGGTGGTTGGATTATGAAAGCCATAGGCCACACAAGATCTAACAAAGGTTTAAA  8452
 
-Query  73        CACGGAGTGATGGA  86
-                  || |||||| |||
-Sbjct  27786843  AACTGAGTGAGGGA  27786856
-
-
+Query  61    TCTTGTGTGGCTTATGGCTTTTATAATCCAACCATCTTTT  100
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  8453  TCTTGTGTGGCTTATGGCTTTTATAATCCAACCATCTTTT  8492
 
 
 
-Query #55: read55 Query ID: lcl|Query_459036 Length: 100
-
-No significant similarity found.
 
 
-
-Query #56: read56 Query ID: lcl|Query_459037 Length: 100
-
-No significant similarity found.
-
-
-
-Query #57: read57 Query ID: lcl|Query_459038 Length: 100
-
-No significant similarity found.
-
-
-
-Query #58: read58 Query ID: lcl|Query_459039 Length: 100
+Query #49: read49 Query ID: lcl|Query_416174 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       43.7   43.7  33%   0.044 90.91  51431252   CP050633.1       
+Human DNA sequence from clone RP5-1190M18 on chromosome 1,...     Homo sapiens    human           9606       181    181   100%  1e-41 100.00 32458      AL445229.12      
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 25b
-Sequence ID: CP050633.1 Length: 51431252
-Range 1: 10131150 to 10131181
+>Human DNA sequence from clone RP5-1190M18 on chromosome 1, complete sequence
+Sequence ID: AL445229.12 Length: 32458
+Range 1: 10917 to 11016
 
-Score:43.7 bits(47), Expect:0.044, 
-Identities:30/33(91%),  Gaps:1/33(3%), Strand: Plus/Plus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  36        AAATGTAACGAAAATTTTGAAACCTTTGAAGAA  68
-                 |||| ||| |||| |||||||||||||||||||
-Sbjct  10131150  AAATCTAAGGAAA-TTTTGAAACCTTTGAAGAA  10131181
+Query  1      GTGGAATAAAGCCTGTAGGGACTCTACTTCTTGACCACTTGTTTCTGTCTTGTAAAGAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10917  GTGGAATAAAGCCTGTAGGGACTCTACTTCTTGACCACTTGTTTCTGTCTTGTAAAGAAA  10976
 
-
-
-
-
-Query #59: read59 Query ID: lcl|Query_459040 Length: 100
-
-No significant similarity found.
+Query  61     CCTCCGTTTGAGAGGAAGGATTTGCATGCTGGTGTGATGT  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  10977  CCTCCGTTTGAGAGGAAGGATTTGCATGCTGGTGTGATGT  11016
 
 
 
-Query #60: read60 Query ID: lcl|Query_459041 Length: 100
-
-No significant similarity found.
 
 
-
-Query #61: read61 Query ID: lcl|Query_459042 Length: 100
+Query #50: read50 Query ID: lcl|Query_416175 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 02b    Canis lupus ... dog             9615       46.4   46.4  40%   0.004 85.00  83851004   CP050613.1       
+Homo sapiens chromosome 5 clone CTC-461F20, complete sequence     Homo sapiens    human           9606       181    181   100%  1e-41 100.00 188570     AC022113.6       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 02b
-Sequence ID: CP050613.1 Length: 83851004
-Range 1: 34100358 to 34100397
+>Homo sapiens chromosome 5 clone CTC-461F20, complete sequence
+Sequence ID: AC022113.6 Length: 188570
+Range 1: 136769 to 136868
 
-Score:46.4 bits(50), Expect:0.004, 
-Identities:34/40(85%),  Gaps:0/40(0%), Strand: Plus/Minus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
 
-Query  52        CTACCAAAAATCAAAAATCATATGAGCTTGTTTACCTTCT  91
-                 ||| |||| || | |||||| || ||||||||||||||||
-Sbjct  34100397  CTATCAAACATGAGAAATCAAATAAGCTTGTTTACCTTCT  34100358
+Query  1       TGCCTGCATAATGGAATTTCTAATGCACTTGGCTGGCAGTTTCAGAATGCAGCACACAGT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  136868  TGCCTGCATAATGGAATTTCTAATGCACTTGGCTGGCAGTTTCAGAATGCAGCACACAGT  136809
 
-
-
-
-
-Query #62: read62 Query ID: lcl|Query_459043 Length: 100
-
-No significant similarity found.
+Query  61      ATTCTCCATTAGGGGGTTCTGTAAGACTAAGAAATAGGAC  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  136808  ATTCTCCATTAGGGGGTTCTGTAAGACTAAGAAATAGGAC  136769
 
 
 
-Query #63: read63 Query ID: lcl|Query_459044 Length: 100
-
-No significant similarity found.
 
 
-
-Query #64: read64 Query ID: lcl|Query_459045 Length: 100
-
-No significant similarity found.
-
-
-
-Query #65: read65 Query ID: lcl|Query_459046 Length: 100
-
-No significant similarity found.
-
-
-
-Query #66: read66 Query ID: lcl|Query_459047 Length: 100
-
-No significant similarity found.
-
-
-
-Query #67: read67 Query ID: lcl|Query_459048 Length: 100
-
-No significant similarity found.
-
-
-
-Query #68: read68 Query ID: lcl|Query_459049 Length: 100
+Query #51: read51 Query ID: lcl|Query_416176 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 30b    Canis lupus ... dog             9615       43.7   43.7  33%   0.044 90.91  40370200   CP050609.1       
+Homo sapiens gene, novel tandem repeat sequence                   Homo sapiens    human           9606       181    181   100%  1e-41 100.00 4752       D38378.1         
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 30b
-Sequence ID: CP050609.1 Length: 40370200
-Range 1: 26417813 to 26417844
+>Homo sapiens gene, novel tandem repeat sequence
+Sequence ID: D38378.1 Length: 4752
+Range 1: 1399 to 1498
 
-Score:43.7 bits(47), Expect:0.044, 
-Identities:30/33(91%),  Gaps:1/33(3%), Strand: Plus/Minus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  2         AAATGTAGAGAGGATaaaaaaagaaatgaaaaa  34
-                 |||||||||||| | |||||||| |||||||||
-Sbjct  26417844  AAATGTAGAGAGAAAAAAAAAAG-AATGAAAAA  26417813
+Query  1     AAGAGGCAGGGAACCAAGAGCCCTTGGCGCAGAAGACACAGACAGGCGAGCAACGCAAGG  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1399  AAGAGGCAGGGAACCAAGAGCCCTTGGCGCAGAAGACACAGACAGGCGAGCAACGCAAGG  1458
+
+Query  61    AGAGCTCAAGAGAGACCACCCCTGCCTCCAGGCCCCCGAG  100
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1459  AGAGCTCAAGAGAGACCACCCCTGCCTCCAGGCCCCCGAG  1498
 
 
 
 
 
-Query #69: read69 Query ID: lcl|Query_459050 Length: 100
+Query #52: read52 Query ID: lcl|Query_416177 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 17b    Canis lupus ... dog             9615       49.1   49.1  48%   0.001 83.33  64169108   CP050614.1       
+Homo sapiens chromosome 5 clone CTD-2231H16, complete sequence    Homo sapiens    human           9606       181    181   100%  1e-41 100.00 59396      AC010443.8       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 17b
-Sequence ID: CP050614.1 Length: 64169108
-Range 1: 30795268 to 30795313
+>Homo sapiens chromosome 5 clone CTD-2231H16, complete sequence
+Sequence ID: AC010443.8 Length: 59396
+Range 1: 9622 to 9721
 
-Score:49.1 bits(53), Expect:0.001, 
-Identities:40/48(83%),  Gaps:2/48(4%), Strand: Plus/Minus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
 
-Query  4         TTTCTTCCAATTCTTTTAGAATTCTTTTCAATTCTTTTGTATTTCCCT  51
-                 |||||||| ||||| |  | |||||||||||||| || ||| ||||||
-Sbjct  30795313  TTTCTTCCCATTCTGT--GGATTCTTTTCAATTCCTTGGTAGTTCCCT  30795268
+Query  1     TAACAGAAGTACTCACTTGGGGGCAACACTACCTGAGAGTATTCTGTCGCCTCACTGCAA  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9721  TAACAGAAGTACTCACTTGGGGGCAACACTACCTGAGAGTATTCTGTCGCCTCACTGCAA  9662
 
-
-
-
-
-Query #70: read70 Query ID: lcl|Query_459051 Length: 100
-
-No significant similarity found.
+Query  61    TTCAGCTAAAGTGAAAAGAAGTCCTAACCCCTCCCCGTGG  100
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  9661  TTCAGCTAAAGTGAAAAGAAGTCCTAACCCCTCCCCGTGG  9622
 
 
 
-Query #71: read71 Query ID: lcl|Query_459052 Length: 100
-
-No significant similarity found.
 
 
-
-Query #72: read72 Query ID: lcl|Query_459053 Length: 100
-
-No significant similarity found.
-
-
-
-Query #73: read73 Query ID: lcl|Query_459054 Length: 100
-
-No significant similarity found.
-
-
-
-Query #74: read74 Query ID: lcl|Query_459055 Length: 100
+Query #53: read53 Query ID: lcl|Query_416178 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Felis catus Senzu DNA, chromosome: E2, American Shorthair breed   Felis catus     domestic cat    9685       47.3   47.3  33%   0.004 90.91  64410938   AP023166.1       
-Canis lupus familiaris breed Labrador retriever chromosome 06b    Canis lupus ... dog             9615       42.8   42.8  38%   0.044 84.21  80974351   CP050622.1       
+Mouse DNA sequence from clone RP23-105O21 on chromosome 2,...     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 81271      BX649226.1       
 
 
 Alignments:
 
->Felis catus Senzu DNA, chromosome: E2, American Shorthair breed
-Sequence ID: AP023166.1 Length: 64410938
-Range 1: 38973874 to 38973906
+>Mouse DNA sequence from clone RP23-105O21 on chromosome 2, complete sequence
+Sequence ID: BX649226.1 Length: 81271
+Range 1: 73852 to 73951
 
-Score:47.3 bits(51), Expect:0.004, 
-Identities:30/33(91%),  Gaps:0/33(0%), Strand: Plus/Minus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  67        CATTTTCATGTGTGTGAGTGAATGTTTGCATGT  99
-                 ||| ||||||||||||||||  |||||||||||
-Sbjct  38973906  CATGTTCATGTGTGTGAGTGTGTGTTTGCATGT  38973874
+Query  1      GATTGCTAACCATTACACTAATGATTAGACTAGAAACCTCGAGTTCAAAAAGTTACTCAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  73852  GATTGCTAACCATTACACTAATGATTAGACTAGAAACCTCGAGTTCAAAAAGTTACTCAA  73911
 
-
-
-
->Canis lupus familiaris breed Labrador retriever chromosome 06b
-Sequence ID: CP050622.1 Length: 80974351
-Range 1: 56136906 to 56136943
-
-Score:42.8 bits(46), Expect:0.044, 
-Identities:32/38(84%),  Gaps:0/38(0%), Strand: Plus/Plus
-
-Query  44        AATATGTCCTTTTAATCTTTTCTCATTTTCATGTGTGT  81
-                 ||||| | |||| | ||||||||||||||| | |||||
-Sbjct  56136906  AATATATACTTTGATTCTTTTCTCATTTTCCTTTGTGT  56136943
+Query  61     GTGACCCCAATTTCTCTGACTGAAGATCCTGCCCAGGTAG  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  73912  GTGACCCCAATTTCTCTGACTGAAGATCCTGCCCAGGTAG  73951
 
 
 
 
 
-Query #75: read75 Query ID: lcl|Query_459056 Length: 100
+Query #54: read54 Query ID: lcl|Query_416179 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 11b    Canis lupus ... dog             9615       83.3   83.3  78%   5e-14 83.33  73564375   CP050630.1       
+Mouse DNA sequence from clone RP23-147F6 on chromosome 2,...      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 204438     AL772352.8       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 11b
-Sequence ID: CP050630.1 Length: 73564375
-Range 1: 34788497 to 34788574
+>Mouse DNA sequence from clone RP23-147F6 on chromosome 2, complete sequence
+Sequence ID: AL772352.8 Length: 204438
+Range 1: 169394 to 169493
 
-Score:83.3 bits(91), Expect:5e-14, 
-Identities:65/78(83%),  Gaps:0/78(0%), Strand: Plus/Plus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  21        TACCTTTTCAGTGTTCCCTTTGAGCAGCTCGATTCGGGCATGATAGAAGAGTATGAGGGA  80
-                 ||||| |||    |||||||| |||||||| || ||||||||||| || |  ||||||||
-Sbjct  34788497  TACCTCTTCCACATTCCCTTTCAGCAGCTCTATCCGGGCATGATAAAACAACATGAGGGA  34788556
+Query  1       AGCAGTAGTCAAGTCATTAGCAAGAAACGCGGGGACAGCATATTCTCTACTCTGGGTGAC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  169394  AGCAGTAGTCAAGTCATTAGCAAGAAACGCGGGGACAGCATATTCTCTACTCTGGGTGAC  169453
 
-Query  81        GCCCTGTGGAGAGAGGAA  98
-                 |||||||||||| |||||
-Sbjct  34788557  GCCCTGTGGAGAAAGGAA  34788574
-
-
+Query  61      GAAGCTGAACCTCACGGAGTGATGGATGAGGGAAGATATT  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  169454  GAAGCTGAACCTCACGGAGTGATGGATGAGGGAAGATATT  169493
 
 
 
-Query #76: read76 Query ID: lcl|Query_459057 Length: 100
+
+
+Query #55: read55 Query ID: lcl|Query_416180 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 37b    Canis lupus ... dog             9615       43.7   43.7  36%   0.044 86.11  35118724   CP050638.1       
+Mus musculus strain C57BL6/J chromosome 6 clone RP23-43E4,...     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 136062     AC084220.4       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 37b
-Sequence ID: CP050638.1 Length: 35118724
-Range 1: 24867613 to 24867648
+>Mus musculus strain C57BL6/J chromosome 6 clone RP23-43E4, complete sequence
+Sequence ID: AC084220.4 Length: 136062
+Range 1: 62357 to 62456
 
-Score:43.7 bits(47), Expect:0.044, 
-Identities:31/36(86%),  Gaps:0/36(0%), Strand: Plus/Minus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  62        CATTCTCTCTCTCTACAATCATCTCAAttttttttt  97
-                 ||||||||||||||  |||  ||| |||||||||||
-Sbjct  24867648  CATTCTCTCTCTCTCAAATAGTCTTAATTTTTTTTT  24867613
+Query  1      GAGGAAACTGACTCATTTTAGTGCCCCCTTTAGGACAATGGCTTGCATACACACAAAAAG  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  62357  GAGGAAACTGACTCATTTTAGTGCCCCCTTTAGGACAATGGCTTGCATACACACAAAAAG  62416
 
-
-
-
-
-Query #77: read77 Query ID: lcl|Query_459058 Length: 100
-
-No significant similarity found.
+Query  61     CACTACAGATAAATACGCTATAATAGCCAAATAATCAGGT  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  62417  CACTACAGATAAATACGCTATAATAGCCAAATAATCAGGT  62456
 
 
 
-Query #78: read78 Query ID: lcl|Query_459059 Length: 100
+
+
+Query #56: read56 Query ID: lcl|Query_416181 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Felis catus Senzu DNA, chromosome: D2, American Shorthair breed   Felis catus     domestic cat    9685       43.7   43.7  52%   0.044 81.48  90643714   AP023162.1       
-Canis lupus familiaris breed Labrador retriever chromosome 32b    Canis lupus ... dog             9615       43.7   43.7  27%   0.044 96.43  65810985   CP050634.1       
+Mouse DNA sequence from clone RP23-152A20 on chromosome 4,...     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 166569     AL671970.9       
 
 
 Alignments:
 
->Felis catus Senzu DNA, chromosome: D2, American Shorthair breed
-Sequence ID: AP023162.1 Length: 90643714
-Range 1: 43483409 to 43483460
+>Mouse DNA sequence from clone RP23-152A20 on chromosome 4, complete sequence
+Sequence ID: AL671970.9 Length: 166569
+Range 1: 22642 to 22741
 
-Score:43.7 bits(47), Expect:0.044, 
-Identities:44/54(81%),  Gaps:4/54(7%), Strand: Plus/Plus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  28        ATTAAATTGACTCAAGTATATAATGTATTCCTATT--TTATGCTTTTTAAAAAA  79
-                 |||||||| ||| ||||||||  ||||| |   ||  |||||||||||||||||
-Sbjct  43483409  ATTAAATT-ACT-AAGTATATGTTGTATGCACTTTCATTATGCTTTTTAAAAAA  43483460
+Query  1      CCAGTATGACATGACATCAAGTCCTTTAGCTTTGTGCAAGGACCAGGCTTCACTTTCTCC  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  22642  CCAGTATGACATGACATCAAGTCCTTTAGCTTTGTGCAAGGACCAGGCTTCACTTTCTCC  22701
 
-
-
-
->Canis lupus familiaris breed Labrador retriever chromosome 32b
-Sequence ID: CP050634.1 Length: 65810985
-Range 1: 11976562 to 11976589
-
-Score:43.7 bits(47), Expect:0.044, 
-Identities:27/28(96%),  Gaps:1/28(3%), Strand: Plus/Minus
-
-Query  11        AAGAAAATAATCACCTTATTAAA-TTGA  37
-                 ||||||||||||||||||||||| ||||
-Sbjct  11976589  AAGAAAATAATCACCTTATTAAAGTTGA  11976562
+Query  61     AGCACAATCCACCTTCCATCAGCTTTGATTCACTTTCAAG  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  22702  AGCACAATCCACCTTCCATCAGCTTTGATTCACTTTCAAG  22741
 
 
 
 
 
-Query #79: read79 Query ID: lcl|Query_459060 Length: 100
-
-No significant similarity found.
-
-
-
-Query #80: read80 Query ID: lcl|Query_459061 Length: 100
+Query #57: read57 Query ID: lcl|Query_416182 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 36b    Canis lupus ... dog             9615       42.8   42.8  70%   0.044 74.29  30731877   CP050615.1       
+Mus musculus BAC clone RP23-105O12 from 5, complete sequence      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 203266     AC140429.2       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 36b
-Sequence ID: CP050615.1 Length: 30731877
-Range 1: 8750231 to 8750299
+>Mus musculus BAC clone RP23-105O12 from 5, complete sequence
+Sequence ID: AC140429.2 Length: 203266
+Range 1: 128689 to 128788
 
-Score:42.8 bits(46), Expect:0.044, 
-Identities:52/70(74%),  Gaps:1/70(1%), Strand: Plus/Minus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  6        ACAGGGGATGTGTTAATAAAATTCAGGttttctcttcatttttttgtgcttttctaattt  65
-                ||||||||||||| | ||   || | ||||| | || | |||||| |  |||| ||||||
-Sbjct  8750299  ACAGGGGATGTGTGATTATTTTTAACGTTTTTTTTTTAATTTTTT-TAATTTTTTAATTT  8750241
+Query  1       AGTCTGACATGTCTCTTGAGATGccctcccctgtctccccttttcctcaccccatttctc  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  128689  AGTCTGACATGTCTCTTGAGATGCCCTCCCCTGTCTCCCCTTTTCCTCACCCCATTTCTC  128748
 
-Query  66       tcattttttt  75
-                |  || ||||
-Sbjct  8750240  TTTTTGTTTT  8750231
-
-
+Query  61      tttcccttcctcatccccAGAGCTGCTTTCGTTCAGCTCC  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  128749  TTTCCCTTCCTCATCCCCAGAGCTGCTTTCGTTCAGCTCC  128788
 
 
 
-Query #81: read81 Query ID: lcl|Query_459062 Length: 100
-
-No significant similarity found.
 
 
-
-Query #82: read82 Query ID: lcl|Query_459063 Length: 100
+Query #58: read58 Query ID: lcl|Query_416183 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 06b    Canis lupus ... dog             9615       47.3   47.3  45%   0.004 84.44  80974351   CP050622.1       
+Mus musculus Strain C57BL6/J chromosome 5 BAC, RP23-349C19,...    Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 191223     AC099770.11      
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 06b
-Sequence ID: CP050622.1 Length: 80974351
-Range 1: 58357119 to 58357162
+>Mus musculus Strain C57BL6/J chromosome 5 BAC, RP23-349C19, Complete Sequence, complete sequence
+Sequence ID: AC099770.11 Length: 191223
+Range 1: 87063 to 87162
 
-Score:47.3 bits(51), Expect:0.004, 
-Identities:38/45(84%),  Gaps:1/45(2%), Strand: Plus/Plus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
 
-Query  51        ATAACCATTAATCAATACTATCATCTTGTTTTATAAAGATATATA  95
-                 || |||||||| || ||| || || |||||||||||| |||||||
-Sbjct  58357119  ATCACCATTAA-CATTACCATTATTTTGTTTTATAAATATATATA  58357162
+Query  1      TGTTTAACACAACCACTGCTCCACAGAACACAGGTAAATGTAACGAAAATTTTGAAACCT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  87162  TGTTTAACACAACCACTGCTCCACAGAACACAGGTAAATGTAACGAAAATTTTGAAACCT  87103
+
+Query  61     TTGAAGAATAAGAATATTATTACTCTCTGTTCACATTGAA  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  87102  TTGAAGAATAAGAATATTATTACTCTCTGTTCACATTGAA  87063
 
 
 
 
 
-Query #83: read83 Query ID: lcl|Query_459064 Length: 100
+Query #59: read59 Query ID: lcl|Query_416184 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Felis catus Senzu DNA, chromosome: D4, American Shorthair breed   Felis catus     domestic cat    9685       47.3   47.3  48%   0.004 81.25  96896805   AP023164.1       
+Mus musculus BAC clone RP24-129K7 from 6, complete sequence       Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 168141     AC146598.4       
 
 
 Alignments:
 
->Felis catus Senzu DNA, chromosome: D4, American Shorthair breed
-Sequence ID: AP023164.1 Length: 96896805
-Range 1: 30748767 to 30748814
+>Mus musculus BAC clone RP24-129K7 from 6, complete sequence
+Sequence ID: AC146598.4 Length: 168141
+Range 1: 75245 to 75344
 
-Score:47.3 bits(51), Expect:0.004, 
-Identities:39/48(81%),  Gaps:0/48(0%), Strand: Plus/Minus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  50        GTACAAATATTGTCCTTTTGTAATTTATAGGTTATAGTATTTCATTTT  97
-                 |||||| | |||||||||||| || | ||  ||||||| |||| ||||
-Sbjct  30748814  GTACAAGTCTTGTCCTTTTGTTATCTTTATTTTATAGTGTTTCCTTTT  30748767
+Query  1      CTGCCTTCCAGAAGATGGTAGCCAGATGGACAAATAGCTTATTTGGGTCTGGGGAGAAGA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  75245  CTGCCTTCCAGAAGATGGTAGCCAGATGGACAAATAGCTTATTTGGGTCTGGGGAGAAGA  75304
+
+Query  61     AGATTGTGAGGACCGTTAAGGAGGAAGAAGCAGAGCAGGG  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  75305  AGATTGTGAGGACCGTTAAGGAGGAAGAAGCAGAGCAGGG  75344
 
 
 
 
 
-Query #84: read84 Query ID: lcl|Query_459065 Length: 100
+Query #60: read60 Query ID: lcl|Query_416185 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 19b    Canis lupus ... dog             9615       50.0   50.0  47%   3e-04 82.98  56576146   CP050621.1       
+Mus musculus BAC clone RP23-107P12 from 5, complete sequence      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 213939     AC122871.4       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 19b
-Sequence ID: CP050621.1 Length: 56576146
-Range 1: 22052706 to 22052752
+>Mus musculus BAC clone RP23-107P12 from 5, complete sequence
+Sequence ID: AC122871.4 Length: 213939
+Range 1: 189262 to 189361
 
-Score:50.0 bits(54), Expect:3e-04, 
-Identities:39/47(83%),  Gaps:0/47(0%), Strand: Plus/Plus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
 
-Query  6         CACTTACACATTTTGAAAATGTTATTTCTTACTCAAAAAGTGCACAG  52
-                 ||||| ||||||| ||||||| |  |||||||||||||| |  ||||
-Sbjct  22052706  CACTTTCACATTTAGAAAATGATTCTTCTTACTCAAAAATTTTACAG  22052752
+Query  1       AATGTTCTGTGGTGACACAAGATACAGCCAGCAAGCTTTGCAGCTAACCACCTTCCCTGT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  189361  AATGTTCTGTGGTGACACAAGATACAGCCAGCAAGCTTTGCAGCTAACCACCTTCCCTGT  189302
 
-
-
-
-
-Query #85: read85 Query ID: lcl|Query_459066 Length: 100
-
-No significant similarity found.
+Query  61      GTGAGGACCAGGCATCAAAGAAGCAATGGAGTCCAGGGGC  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  189301  GTGAGGACCAGGCATCAAAGAAGCAATGGAGTCCAGGGGC  189262
 
 
 
-Query #86: read86 Query ID: lcl|Query_459067 Length: 100
-
-No significant similarity found.
 
 
-
-Query #87: read87 Query ID: lcl|Query_459068 Length: 100
+Query #61: read61 Query ID: lcl|Query_416186 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Felis catus Senzu DNA, chromosome: D4, American Shorthair breed   Felis catus     domestic cat    9685       67.1   67.1  44%   4e-09 93.18  96896805   AP023164.1       
+Mus musculus BAC clone RP24-87B17 from chromosome 5, complete...  Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 187912     AC125346.4       
 
 
 Alignments:
 
->Felis catus Senzu DNA, chromosome: D4, American Shorthair breed
-Sequence ID: AP023164.1 Length: 96896805
-Range 1: 88099486 to 88099529
+>Mus musculus BAC clone RP24-87B17 from chromosome 5, complete sequence
+Sequence ID: AC125346.4 Length: 187912
+Range 1: 97867 to 97966
 
-Score:67.1 bits(73), Expect:4e-09, 
-Identities:41/44(93%),  Gaps:0/44(0%), Strand: Plus/Minus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  1         CTTCTGCTACATCTGCAAGGCCAGCAGCAGCAGCCAGCAGGTAC  44
-                 |||||||||| | |||||||||||| ||||||||||||||||||
-Sbjct  88099529  CTTCTGCTACCTTTGCAAGGCCAGCTGCAGCAGCCAGCAGGTAC  88099486
+Query  1      TATTTACTAAAACCTATATGGCCTTAAGTACATTTAATATTGTTATTCCACCTACCAAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97867  TATTTACTAAAACCTATATGGCCTTAAGTACATTTAATATTGTTATTCCACCTACCAAAA  97926
 
-
-
-
-
-Query #88: read88 Query ID: lcl|Query_459069 Length: 100
-
-No significant similarity found.
+Query  61     ATCAAAAATCATATGAGCTTGTTTACCTTCTACCACAAAC  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  97927  ATCAAAAATCATATGAGCTTGTTTACCTTCTACCACAAAC  97966
 
 
 
-Query #89: read89 Query ID: lcl|Query_459070 Length: 100
-
-No significant similarity found.
 
 
-
-Query #90: read90 Query ID: lcl|Query_459071 Length: 100
+Query #62: read62 Query ID: lcl|Query_416187 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 34b    Canis lupus ... dog             9615       86.0   86.0  93%   4e-15 80.85  45430985   CP050608.1       
+Mus musculus mRNA for ST2L protein, complete cds                  Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 4989       D13695.1         
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 34b
-Sequence ID: CP050608.1 Length: 45430985
-Range 1: 39482239 to 39482332
+>Mus musculus mRNA for ST2L protein, complete cds
+Sequence ID: D13695.1 Length: 4989
+Range 1: 3619 to 3718
 
-Score:86.0 bits(94), Expect:4e-15, 
-Identities:76/94(81%),  Gaps:1/94(1%), Strand: Plus/Minus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  5         TTTTTCAATTTCATTCCAAAATTAAGATAAAA-TGTCTCTACTAACAGTGAAATGAAAGC  63
-                 |||||||| ||| |||||| ||| ||| |||| | ||||||| || ||  |||| |||||
-Sbjct  39482332  TTTTTCAAGTTCGTTCCAAGATTGAGACAAAAATCTCTCTACGAAAAGCAAAATAAAAGC  39482273
+Query  1     TACCCTTAGGCTGGGTTGCCAGGTAAACATTTGCTAGTGTTCAGTTCAAAGGCTGAAGCT  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3619  TACCCTTAGGCTGGGTTGCCAGGTAAACATTTGCTAGTGTTCAGTTCAAAGGCTGAAGCT  3678
 
-Query  64        CAAATTCCAACCCAGTTGCCTCATCTCATGTTTT  97
-                 |||||||| |  |  ||||||||| |||||||||
-Sbjct  39482272  CAAATTCCTATGCTTTTGCCTCATTTCATGTTTT  39482239
-
-
+Query  61    TGAGCTGAGGGTGATGAGGAATTCAAACTTCCCCTCGCAT  100
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  3679  TGAGCTGAGGGTGATGAGGAATTCAAACTTCCCCTCGCAT  3718
 
 
 
-Query #91: read91 Query ID: lcl|Query_459072 Length: 100
+
+
+Query #63: read63 Query ID: lcl|Query_416188 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 15b    Canis lupus ... dog             9615       42.8   42.8  28%   0.044 92.86  64292917   CP050620.1       
+Mouse DNA sequence from clone RP23-292F11 on chromosome 2,...     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 143594     AL929440.5       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 15b
-Sequence ID: CP050620.1 Length: 64292917
-Range 1: 64185342 to 64185369
+>Mouse DNA sequence from clone RP23-292F11 on chromosome 2, complete sequence
+Sequence ID: AL929440.5 Length: 143594
+Range 1: 131833 to 131932
 
-Score:42.8 bits(46), Expect:0.044, 
-Identities:26/28(93%),  Gaps:0/28(0%), Strand: Plus/Plus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  65        GGATGGCTACACAGAGGAGTCTGGTCTG  92
-                 ||||||||||| |||| |||||||||||
-Sbjct  64185342  GGATGGCTACAGAGAGAAGTCTGGTCTG  64185369
+Query  1       CCAAATATTTTTCAGGGGGAGGGATGATACATGGGGCAGCAAGTGTCTCTAATGTTTTAA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  131833  CCAAATATTTTTCAGGGGGAGGGATGATACATGGGGCAGCAAGTGTCTCTAATGTTTTAA  131892
 
-
-
-
-
-Query #92: read92 Query ID: lcl|Query_459073 Length: 100
-
-No significant similarity found.
+Query  61      TTGGTTATGACACAAAATTGGCATTTGAAACTTTCTTCTT  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  131893  TTGGTTATGACACAAAATTGGCATTTGAAACTTTCTTCTT  131932
 
 
 
-Query #93: read93 Query ID: lcl|Query_459074 Length: 100
-
-No significant similarity found.
 
 
-
-Query #94: read94 Query ID: lcl|Query_459075 Length: 100
+Query #64: read64 Query ID: lcl|Query_416189 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 23b    Canis lupus ... dog             9615       46.4   46.4  30%   0.004 93.33  52281894   CP050632.1       
-Canis lupus familiaris breed Labrador retriever chromosome 05b    Canis lupus ... dog             9615       42.8   42.8  28%   0.044 92.86  86915062   CP050642.1       
+Mouse DNA sequence from clone RP23-397C22 on chromosome 4,...     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 76031      AL928548.5       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 23b
-Sequence ID: CP050632.1 Length: 52281894
-Range 1: 47332296 to 47332325
+>Mouse DNA sequence from clone RP23-397C22 on chromosome 4, complete sequence
+Sequence ID: AL928548.5 Length: 76031
+Range 1: 59680 to 59779
 
-Score:46.4 bits(50), Expect:0.004, 
-Identities:28/30(93%),  Gaps:0/30(0%), Strand: Plus/Plus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  43        ATTGTATCTTCTCTTCTTGTTAACTGTGGC  72
-                 ||||||||| ||||| ||||||||||||||
-Sbjct  47332296  ATTGTATCTGCTCTTATTGTTAACTGTGGC  47332325
+Query  1      GATGCAATTATTTTATGCTATTTATACCTATGTCACCCTACAACCTTTGCCACAACATAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  59680  GATGCAATTATTTTATGCTATTTATACCTATGTCACCCTACAACCTTTGCCACAACATAA  59739
 
-
-
-
->Canis lupus familiaris breed Labrador retriever chromosome 05b
-Sequence ID: CP050642.1 Length: 86915062
-Range 1: 72886187 to 72886214
-
-Score:42.8 bits(46), Expect:0.044, 
-Identities:26/28(93%),  Gaps:0/28(0%), Strand: Plus/Plus
-
-Query  1         GTTCAGAGCTAAGGGTAAACTGAAAAGA  28
-                 || ||||||| |||||||||||||||||
-Sbjct  72886187  GTACAGAGCTCAGGGTAAACTGAAAAGA  72886214
+Query  61     CACCAGCTCTGCATAACTGGATCATATTTTTGTACAGTAG  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  59740  CACCAGCTCTGCATAACTGGATCATATTTTTGTACAGTAG  59779
 
 
 
 
 
-Query #95: read95 Query ID: lcl|Query_459076 Length: 100
-
-No significant similarity found.
-
-
-
-Query #96: read96 Query ID: lcl|Query_459077 Length: 100
-
-No significant similarity found.
-
-
-
-Query #97: read97 Query ID: lcl|Query_459078 Length: 100
-
-No significant similarity found.
-
-
-
-Query #98: read98 Query ID: lcl|Query_459079 Length: 100
-
-No significant similarity found.
-
-
-
-Query #99: read99 Query ID: lcl|Query_459080 Length: 100
-
-No significant similarity found.
-
-
-
-Query #100: read100 Query ID: lcl|Query_459081 Length: 100
+Query #65: read65 Query ID: lcl|Query_416190 Length: 100
 
 Sequences producing significant alignments:
                                                                   Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
 Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
-Canis lupus familiaris breed Labrador retriever chromosome 29b    Canis lupus ... dog             9615       48.2   48.2  83%   0.001 73.49  41750700   CP050629.1       
+Mouse DNA sequence from clone RP23-277F20 on chromosome 4,...     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 185441     AL824716.8       
 
 
 Alignments:
 
->Canis lupus familiaris breed Labrador retriever chromosome 29b
-Sequence ID: CP050629.1 Length: 41750700
-Range 1: 38171787 to 38171868
+>Mouse DNA sequence from clone RP23-277F20 on chromosome 4, complete sequence
+Sequence ID: AL824716.8 Length: 185441
+Range 1: 5478 to 5577
 
-Score:48.2 bits(52), Expect:0.001, 
-Identities:61/83(73%),  Gaps:1/83(1%), Strand: Plus/Minus
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
 
-Query  1         TGAATCTAATGTTCAGCTTTAGGATAAATGTTGAGCCTACTCATTGCTTCTCTGGGGCTC  60
-                 || || ||||||| |  |||   ||||||| | ||| | |||||||||||||||||  ||
-Sbjct  38171868  TGGATTTAATGTTTACTTTTCAAATAAATGCT-AGCTTGCTCATTGCTTCTCTGGGTTTC  38171810
+Query  1     GAAATATCCATTGCCCATAAAAACCTGTGATTCCTTTTGCTTTGGGAACACCATTAATAC  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  5478  GAAATATCCATTGCCCATAAAAACCTGTGATTCCTTTTGCTTTGGGAACACCATTAATAC  5537
 
-Query  61        ACTAGTTGCAGTCTCATGAAACA  83
-                 |    |  |||| || |||||||
-Sbjct  38171809  AAGGCTCACAGTGTCTTGAAACA  38171787
+Query  61    TTTTCTTTGAGCTAGGAAGCAGTCATTACAGCATTTTCCC  100
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  5538  TTTTCTTTGAGCTAGGAAGCAGTCATTACAGCATTTTCCC  5577
+
+
+
+
+
+Query #66: read66 Query ID: lcl|Query_416191 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-237D23 on chromosome 2,...     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 230213     AL845485.16      
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-237D23 on chromosome 2, complete sequence
+Sequence ID: AL845485.16 Length: 230213
+Range 1: 40181 to 40280
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      AGTATTCTATGTTAAGAACCTCTGCCCCTTTGCAATGGAATATATATTGGGTATTTTTTC  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40181  AGTATTCTATGTTAAGAACCTCTGCCCCTTTGCAATGGAATATATATTGGGTATTTTTTC  40240
+
+Query  61     TTGTAAGTGGAGGTTTTGTATAATCATTTTAAATGGGAAC  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  40241  TTGTAAGTGGAGGTTTTGTATAATCATTTTAAATGGGAAC  40280
+
+
+
+
+
+Query #67: read67 Query ID: lcl|Query_416192 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus chromosome 5, clone RP24-347F19, complete sequence   Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 183083     AC117724.14      
+
+
+Alignments:
+
+>Mus musculus chromosome 5, clone RP24-347F19, complete sequence
+Sequence ID: AC117724.14 Length: 183083
+Range 1: 166962 to 167061
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1       CGAAGTGAGTTTCCCAAGCAGGCAAGGTACTTTGATCAACTAGGCACACTCACATTAACT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  166962  CGAAGTGAGTTTCCCAAGCAGGCAAGGTACTTTGATCAACTAGGCACACTCACATTAACT  167021
+
+Query  61      TCTGAAAGTACATGGTGAGCCTGTGAGCAAAACCACTTGT  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  167022  TCTGAAAGTACATGGTGAGCCTGTGAGCAAAACCACTTGT  167061
+
+
+
+
+
+Query #68: read68 Query ID: lcl|Query_416193 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus BAC clone RP23-200J18 from 6, complete sequence      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 206248     AC132453.3       
+
+
+Alignments:
+
+>Mus musculus BAC clone RP23-200J18 from 6, complete sequence
+Sequence ID: AC132453.3 Length: 206248
+Range 1: 100323 to 100422
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1       CAAATGTAGAGAGGATaaaaaaagaaatgaaaaaTTAAGAGTGCATTGTCAAAAGAAAGT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  100422  CAAATGTAGAGAGGATAAAAAAAGAAATGAAAAATTAAGAGTGCATTGTCAAAAGAAAGT  100363
+
+Query  61      TCAAGAATAGCTTAATAAGAGTCTGTTTTATAAGGTGAAA  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  100362  TCAAGAATAGCTTAATAAGAGTCTGTTTTATAAGGTGAAA  100323
+
+
+
+
+
+Query #69: read69 Query ID: lcl|Query_416194 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus 6 BAC RP23-112L19 (Roswell Park Cancer Institute...  Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 212041     AC153435.6       
+
+
+Alignments:
+
+>Mus musculus 6 BAC RP23-112L19 (Roswell Park Cancer Institute (C57BL/6J Female) Mouse BAC Library) complete sequence
+Sequence ID: AC153435.6 Length: 212041
+Range 1: 97352 to 97451
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1      TAGTTTCTTCCAATTCTTTTAGAATTCTTTTCAATTCTTTTGTATTTCCCTGCCTTATTT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  97451  TAGTTTCTTCCAATTCTTTTAGAATTCTTTTCAATTCTTTTGTATTTCCCTGCCTTATTT  97392
+
+Query  61     CCCAAGTAACTGCTGATCTCCAGGTTATGAATTATTTTGA  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  97391  CCCAAGTAACTGCTGATCTCCAGGTTATGAATTATTTTGA  97352
+
+
+
+
+
+Query #70: read70 Query ID: lcl|Query_416195 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus chromosome 5, clone RP23-317I8, complete sequence    Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 203227     AC107721.6       
+
+
+Alignments:
+
+>Mus musculus chromosome 5, clone RP23-317I8, complete sequence
+Sequence ID: AC107721.6 Length: 203227
+Range 1: 32341 to 32440
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      ATCAGTTTAGACAAATGTAAACATCTGGGATTGACTATACTACCCCTGCTACAATAAACA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  32341  ATCAGTTTAGACAAATGTAAACATCTGGGATTGACTATACTACCCCTGCTACAATAAACA  32400
+
+Query  61     CAGGGACTTTTACTTCCCTATATACAGAAAGATGTGATTA  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  32401  CAGGGACTTTTACTTCCCTATATACAGAAAGATGTGATTA  32440
+
+
+
+
+
+Query #71: read71 Query ID: lcl|Query_416196 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-343K11 on chromosome 4,...     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 224031     AL844161.18      
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-343K11 on chromosome 4, complete sequence
+Sequence ID: AL844161.18 Length: 224031
+Range 1: 178586 to 178685
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1       ATTTTCATATTTTCATTTATTCTCTCAAATACAGCTTCTTGCATTCTATCTTAGTGGGAG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  178586  ATTTTCATATTTTCATTTATTCTCTCAAATACAGCTTCTTGCATTCTATCTTAGTGGGAG  178645
+
+Query  61      GTCACTCCTACATTCATGAAACACCTCAGGTGATGTAAGA  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  178646  GTCACTCCTACATTCATGAAACACCTCAGGTGATGTAAGA  178685
+
+
+
+
+
+Query #72: read72 Query ID: lcl|Query_416197 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus BAC clone RP24-172B22 from chromosome 1, complete... Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 162294     AC124469.4       
+
+
+Alignments:
+
+>Mus musculus BAC clone RP24-172B22 from chromosome 1, complete sequence
+Sequence ID: AC124469.4 Length: 162294
+Range 1: 75248 to 75347
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      ACAGAGAGTATTCATAGCTATTCATAGCTGAGTAGTGTGAGAACCAATCGGAGGAATTGC  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  75248  ACAGAGAGTATTCATAGCTATTCATAGCTGAGTAGTGTGAGAACCAATCGGAGGAATTGC  75307
+
+Query  61     TAGTGTGGATAGGAGAGATGATGCAGGCCAGAAAAGGAGA  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  75308  TAGTGTGGATAGGAGAGATGATGCAGGCCAGAAAAGGAGA  75347
+
+
+
+
+
+Query #73: read73 Query ID: lcl|Query_416198 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus strain C57BL/6J chromosome 3 clone rp23-71e13,...    Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 213482     AC073883.34      
+
+
+Alignments:
+
+>Mus musculus strain C57BL/6J chromosome 3 clone rp23-71e13, complete sequence
+Sequence ID: AC073883.34 Length: 213482
+Range 1: 9667 to 9766
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1     GTTATTATTGGAATTAGAGGAAAGATCACTGGATAAAGAACAAAACTACATTGGGAGGTG  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  9667  GTTATTATTGGAATTAGAGGAAAGATCACTGGATAAAGAACAAAACTACATTGGGAGGTG  9726
+
+Query  61    AACTAGGAAGGAGTTTAAACAAGAGATTGTTAATAAAATA  100
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  9727  AACTAGGAAGGAGTTTAAACAAGAGATTGTTAATAAAATA  9766
+
+
+
+
+
+Query #74: read74 Query ID: lcl|Query_416199 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-350C1 on chromosome 2,...      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 209053     AL928589.11      
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-350C1 on chromosome 2, complete sequence
+Sequence ID: AL928589.11 Length: 209053
+Range 1: 122287 to 122386
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1       CCAGTGCAGAAATGCCCATATTAGGAAACAGTTCACCTTACTGAATATGTCCTTTTAATC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  122287  CCAGTGCAGAAATGCCCATATTAGGAAACAGTTCACCTTACTGAATATGTCCTTTTAATC  122346
+
+Query  61      TTTTCTCATTTTCATGTGTGTGAGTGAATGTTTGCATGTG  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  122347  TTTTCTCATTTTCATGTGTGTGAGTGAATGTTTGCATGTG  122386
+
+
+
+
+
+Query #75: read75 Query ID: lcl|Query_416200 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-17O21 on chromosome 4,...      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 218922     BX571885.7       
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-17O21 on chromosome 4, complete sequence
+Sequence ID: BX571885.7 Length: 218922
+Range 1: 76877 to 76976
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      ATAACCCTTGCTGACACAGCTACCTTTTCAGTGTTCCCTTTGAGCAGCTCGATTCGGGCA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  76877  ATAACCCTTGCTGACACAGCTACCTTTTCAGTGTTCCCTTTGAGCAGCTCGATTCGGGCA  76936
+
+Query  61     TGATAGAAGAGTATGAGGGAGCCCTGTGGAGAGAGGAAAG  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  76937  TGATAGAAGAGTATGAGGGAGCCCTGTGGAGAGAGGAAAG  76976
+
+
+
+
+
+Query #76: read76 Query ID: lcl|Query_416201 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus chromosome 1, clone RP23-226P1, complete sequence    Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 160078     AC166969.4       
+
+
+Alignments:
+
+>Mus musculus chromosome 1, clone RP23-226P1, complete sequence
+Sequence ID: AC166969.4 Length: 160078
+Range 1: 44064 to 44163
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      CCTTGTAATCAAGAGAGTTATAAATAAAAGCTTGGTTTATAATTAGTGCTTTTATTGTTG  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  44064  CCTTGTAATCAAGAGAGTTATAAATAAAAGCTTGGTTTATAATTAGTGCTTTTATTGTTG  44123
+
+Query  61     TCATTCTCTCTCTCTACAATCATCTCAAtttttttttGCC  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  44124  TCATTCTCTCTCTCTACAATCATCTCAATTTTTTTTTGCC  44163
+
+
+
+
+
+Query #77: read77 Query ID: lcl|Query_416202 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus BAC clone RP23-192D6 from chromosome 3, complete...  Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 200505     AC164560.3       
+
+
+Alignments:
+
+>Mus musculus BAC clone RP23-192D6 from chromosome 3, complete sequence
+Sequence ID: AC164560.3 Length: 200505
+Range 1: 108142 to 108241
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1       TATATAGCAGGAATTTTGAAAGAAGTCAGAGCCAAGGATTAGATGTCGGGTCTTCCTCAG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  108241  TATATAGCAGGAATTTTGAAAGAAGTCAGAGCCAAGGATTAGATGTCGGGTCTTCCTCAG  108182
+
+Query  61      AGCCCTTGCTCTGGACAGGGCAATGGACAGCATTCACCAG  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  108181  AGCCCTTGCTCTGGACAGGGCAATGGACAGCATTCACCAG  108142
+
+
+
+
+
+Query #78: read78 Query ID: lcl|Query_416203 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-480E16 on chromosome 4,...     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 189780     AL806513.5       
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-480E16 on chromosome 4, complete sequence
+Sequence ID: AL806513.5 Length: 189780
+Range 1: 123825 to 123924
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1       TGTATATGCCAAGAAAATAATCACCTTATTAAATTGACTCAAGTATATAATGTATTCCTA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  123924  TGTATATGCCAAGAAAATAATCACCTTATTAAATTGACTCAAGTATATAATGTATTCCTA  123865
+
+Query  61      TTTTATGCTTTTTAAAAAAGGCTGAGTTGGCACTTATATT  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  123864  TTTTATGCTTTTTAAAAAAGGCTGAGTTGGCACTTATATT  123825
+
+
+
+
+
+Query #79: read79 Query ID: lcl|Query_416204 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-152A20 on chromosome 4,...     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 166569     AL671970.9       
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-152A20 on chromosome 4, complete sequence
+Sequence ID: AL671970.9 Length: 166569
+Range 1: 160222 to 160321
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1       CTTAACAATTTGATGATTCAGGGACAACAAGATGATTCAGTAAGCTAAGGCACTTGCTAC  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  160222  CTTAACAATTTGATGATTCAGGGACAACAAGATGATTCAGTAAGCTAAGGCACTTGCTAC  160281
+
+Query  61      TAGGCCTGACAATCCAAATTTGATGCTAGCAAGTTGTCCT  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  160282  TAGGCCTGACAATCCAAATTTGATGCTAGCAAGTTGTCCT  160321
+
+
+
+
+
+Query #80: read80 Query ID: lcl|Query_416205 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus chromosome 5, clone RP23-60E7, complete sequence     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 256771     AC107709.12      
+
+
+Alignments:
+
+>Mus musculus chromosome 5, clone RP23-60E7, complete sequence
+Sequence ID: AC107709.12 Length: 256771
+Range 1: 179891 to 179990
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1       TAAAAACAGGGGATGTGTTAATAAAATTCAGGttttctcttcatttttttgtgcttttct  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  179891  TAAAAACAGGGGATGTGTTAATAAAATTCAGGTTTTCTCTTCATTTTTTTGTGCTTTTCT  179950
+
+Query  61      aattttcatttttttcACAGGAATCTTACACTTTTGAAAT  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  179951  AATTTTCATTTTTTTCACAGGAATCTTACACTTTTGAAAT  179990
+
+
+
+
+
+Query #81: read81 Query ID: lcl|Query_416206 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus chromosome 5 clone RP24-507A8, complete sequence     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 186200     AC129292.4       
+
+
+Alignments:
+
+>Mus musculus chromosome 5 clone RP24-507A8, complete sequence
+Sequence ID: AC129292.4 Length: 186200
+Range 1: 13051 to 13150
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1      AATTTTACTGTAGAACATATTTAACATCAGAAAGACCAGTGTTCAGGTAAAGCAAATGGT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  13150  AATTTTACTGTAGAACATATTTAACATCAGAAAGACCAGTGTTCAGGTAAAGCAAATGGT  13091
+
+Query  61     TACTTAGCGTCACTACAAACTCTTCCAGTAAAAATTGGCC  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  13090  TACTTAGCGTCACTACAAACTCTTCCAGTAAAAATTGGCC  13051
+
+
+
+
+
+Query #82: read82 Query ID: lcl|Query_416207 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus BAC clone RP24-390L20 from 1, complete sequence      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 150136     AC122027.1       
+
+
+Alignments:
+
+>Mus musculus BAC clone RP24-390L20 from 1, complete sequence
+Sequence ID: AC122027.1 Length: 150136
+Range 1: 85366 to 85465
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      CTGAGAAATTCCACTGAGCTTAATAATAGGCCCGTGAGATTCTGTAATTCATAACCATTA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  85366  CTGAGAAATTCCACTGAGCTTAATAATAGGCCCGTGAGATTCTGTAATTCATAACCATTA  85425
+
+Query  61     ATCAATACTATCATCTTGTTTTATAAAGATATATAGTTAC  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  85426  ATCAATACTATCATCTTGTTTTATAAAGATATATAGTTAC  85465
+
+
+
+
+
+Query #83: read83 Query ID: lcl|Query_416208 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-66O9 on chromosome 4,...       Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 191662     AL772296.6       
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-66O9 on chromosome 4, complete sequence
+Sequence ID: AL772296.6 Length: 191662
+Range 1: 83728 to 83827
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      TTTTCTTTTAGGATAATATTTTTCTTGGCTAATATCTCTTTGATGACTAGTACAAATATT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  83728  TTTTCTTTTAGGATAATATTTTTCTTGGCTAATATCTCTTTGATGACTAGTACAAATATT  83787
+
+Query  61     GTCCTTTTGTAATTTATAGGTTATAGTATTTCATTTTATG  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  83788  GTCCTTTTGTAATTTATAGGTTATAGTATTTCATTTTATG  83827
+
+
+
+
+
+Query #84: read84 Query ID: lcl|Query_416209 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-38N8 on chromosome 4,...       Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 229784     AL845171.5       
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-38N8 on chromosome 4, complete sequence
+Sequence ID: AL845171.5 Length: 229784
+Range 1: 208684 to 208783
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1       TATAGCACTTACACATTTTGAAAATGTTATTTCTTACTCAAAAAGTGCACAGAGACTACT  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  208684  TATAGCACTTACACATTTTGAAAATGTTATTTCTTACTCAAAAAGTGCACAGAGACTACT  208743
+
+Query  61      TAGAAATTGATATTGTAATTAATTTGGTGTTTTACAGCAT  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  208744  TAGAAATTGATATTGTAATTAATTTGGTGTTTTACAGCAT  208783
+
+
+
+
+
+Query #85: read85 Query ID: lcl|Query_416210 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus BAC clone RP24-279O7 from 3, complete sequence       Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 174633     AC140238.3       
+
+
+Alignments:
+
+>Mus musculus BAC clone RP24-279O7 from 3, complete sequence
+Sequence ID: AC140238.3 Length: 174633
+Range 1: 52215 to 52314
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1      TTCAATGCAGTCAAACTAATCATCATGAAGAGTATCCTATTTGTTAGAAAACTTTTCCTG  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  52314  TTCAATGCAGTCAAACTAATCATCATGAAGAGTATCCTATTTGTTAGAAAACTTTTCCTG  52255
+
+Query  61     TTGGGATAATTTAGCAGCTGGTCTCCAGCATGGCCAAGAT  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  52254  TTGGGATAATTTAGCAGCTGGTCTCCAGCATGGCCAAGAT  52215
+
+
+
+
+
+Query #86: read86 Query ID: lcl|Query_416211 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-60E18 on chromosome 2,...      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 208470     AL928883.19      
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-60E18 on chromosome 2, complete sequence
+Sequence ID: AL928883.19 Length: 208470
+Range 1: 150776 to 150875
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1       ACTGTTGGAAAGGGCCTGTAGGTTGTTATTGTCCATAGACTAGGAGAAGGAAGCAGGTGG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  150776  ACTGTTGGAAAGGGCCTGTAGGTTGTTATTGTCCATAGACTAGGAGAAGGAAGCAGGTGG  150835
+
+Query  61      TAGAGGAGAAGATCAGTTGTCCAACAGATGGCAACACATC  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  150836  TAGAGGAGAAGATCAGTTGTCCAACAGATGGCAACACATC  150875
+
+
+
+
+
+Query #87: read87 Query ID: lcl|Query_416212 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-161B9 on chromosome 2,...      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 241914     AL808027.14      
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-161B9 on chromosome 2, complete sequence
+Sequence ID: AL808027.14 Length: 241914
+Range 1: 225807 to 225906
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1       CTTCTGCTACATCTGCAAGGCCAGCAGCAGCAGCCAGCAGGTACTCAGGGCAGAGGGGGA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  225807  CTTCTGCTACATCTGCAAGGCCAGCAGCAGCAGCCAGCAGGTACTCAGGGCAGAGGGGGA  225866
+
+Query  61      GGGCTGGGACCTTTGGCTTTGCCTATTCTACACTGCCCCT  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  225867  GGGCTGGGACCTTTGGCTTTGCCTATTCTACACTGCCCCT  225906
+
+
+
+
+
+Query #88: read88 Query ID: lcl|Query_416213 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus chromosome 1, clone RP24-257G18, complete sequence   Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 224817     AC155076.17      
+
+
+Alignments:
+
+>Mus musculus chromosome 1, clone RP24-257G18, complete sequence
+Sequence ID: AC155076.17 Length: 224817
+Range 1: 188321 to 188420
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1       TATAGACAGACCTGACAGATAGACGATATATAGAGGATAAAGGCTTACAACTGGCTCAAA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  188420  TATAGACAGACCTGACAGATAGACGATATATAGAGGATAAAGGCTTACAACTGGCTCAAA  188361
+
+Query  61      ATATTCATCAAATTAGACTGCTTTACACTGTCATTAGGCT  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  188360  ATATTCATCAAATTAGACTGCTTTACACTGTCATTAGGCT  188321
+
+
+
+
+
+Query #89: read89 Query ID: lcl|Query_416214 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus BAC clone RP23-424C23 from chromosome 3, complete... Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 177109     AC121797.3       
+
+
+Alignments:
+
+>Mus musculus BAC clone RP23-424C23 from chromosome 3, complete sequence
+Sequence ID: AC121797.3 Length: 177109
+Range 1: 36875 to 36974
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1      GGGGTGGGGGAAGGAGCTGATTCTGATGTCCAGGGCATTGGACTCTGGCCTAGAGGGTGA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  36974  GGGGTGGGGGAAGGAGCTGATTCTGATGTCCAGGGCATTGGACTCTGGCCTAGAGGGTGA  36915
+
+Query  61     AAAGCTTAAGGTATTAGGAACATATTCGCTTGGTTATATG  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  36914  AAAGCTTAAGGTATTAGGAACATATTCGCTTGGTTATATG  36875
+
+
+
+
+
+Query #90: read90 Query ID: lcl|Query_416215 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus BAC clone RP23-10H23 from 3, complete sequence       Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 217329     AC132149.4       
+
+
+Alignments:
+
+>Mus musculus BAC clone RP23-10H23 from 3, complete sequence
+Sequence ID: AC132149.4 Length: 217329
+Range 1: 140702 to 140801
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1       ACTGTTTTTCAATTTCATTCCAAAATTAAGATAAAATGTCTCTACTAACAGTGAAATGAA  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  140801  ACTGTTTTTCAATTTCATTCCAAAATTAAGATAAAATGTCTCTACTAACAGTGAAATGAA  140742
+
+Query  61      AGCCAAATTCCAACCCAGTTGCCTCATCTCATGTTTTTTA  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  140741  AGCCAAATTCCAACCCAGTTGCCTCATCTCATGTTTTTTA  140702
+
+
+
+
+
+Query #91: read91 Query ID: lcl|Query_416216 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus chromosome 5, clone RP24-445F15, complete sequence   Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 128560     AC124615.11      
+
+
+Alignments:
+
+>Mus musculus chromosome 5, clone RP24-445F15, complete sequence
+Sequence ID: AC124615.11 Length: 128560
+Range 1: 63596 to 63695
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      TTTACAGATTTTTCAACACTGTTGCACTACCACAGGGTATGGATCATGAATCTGTACAAC  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  63596  TTTACAGATTTTTCAACACTGTTGCACTACCACAGGGTATGGATCATGAATCTGTACAAC  63655
+
+Query  61     CATTGGATGGCTACACAGAGGAGTCTGGTCTGTTATTGAT  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  63656  CATTGGATGGCTACACAGAGGAGTCTGGTCTGTTATTGAT  63695
+
+
+
+
+
+Query #92: read92 Query ID: lcl|Query_416217 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus chromosome 5, clone RP23-446J15, complete sequence   Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 177868     AC157761.6       
+
+
+Alignments:
+
+>Mus musculus chromosome 5, clone RP23-446J15, complete sequence
+Sequence ID: AC157761.6 Length: 177868
+Range 1: 106257 to 106356
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1       TTGTGTGAGTTGGGCATCTCTGAAGCTCTGGTGGCCTGGTTCCTCCAAGGATACCAGGAG  60
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  106356  TTGTGTGAGTTGGGCATCTCTGAAGCTCTGGTGGCCTGGTTCCTCCAAGGATACCAGGAG  106297
+
+Query  61      ACCCTGGGGAAAGTCCCTAATGGCAACCCCGCTGACCCCT  100
+               ||||||||||||||||||||||||||||||||||||||||
+Sbjct  106296  ACCCTGGGGAAAGTCCCTAATGGCAACCCCGCTGACCCCT  106257
+
+
+
+
+
+Query #93: read93 Query ID: lcl|Query_416218 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-36D21 on chromosome 4,...      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 157805     AL772183.5       
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-36D21 on chromosome 4, complete sequence
+Sequence ID: AL772183.5 Length: 157805
+Range 1: 47009 to 47108
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      TCTATTGGCACCAATGTGAGATTCTTTTAGACTCCTCACAGTCCTGAGCTTCTGTCATCT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  47009  TCTATTGGCACCAATGTGAGATTCTTTTAGACTCCTCACAGTCCTGAGCTTCTGTCATCT  47068
+
+Query  61     ACACAACACAAGGAAGTCGCTGTCTTTGTCAAGTGTCCCT  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  47069  ACACAACACAAGGAAGTCGCTGTCTTTGTCAAGTGTCCCT  47108
+
+
+
+
+
+Query #94: read94 Query ID: lcl|Query_416219 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-235J15 on chromosome 4,...     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 223771     AL772344.4       
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-235J15 on chromosome 4, complete sequence
+Sequence ID: AL772344.4 Length: 223771
+Range 1: 41755 to 41854
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      GTTCAGAGCTAAGGGTAAACTGAAAAGAATACTGTATTTCTCATTGTATCTTCTCTTCTT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  41755  GTTCAGAGCTAAGGGTAAACTGAAAAGAATACTGTATTTCTCATTGTATCTTCTCTTCTT  41814
+
+Query  61     GTTAACTGTGGCTGAGGTCATGTCCCGGGAGTCATTGGAA  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  41815  GTTAACTGTGGCTGAGGTCATGTCCCGGGAGTCATTGGAA  41854
+
+
+
+
+
+Query #95: read95 Query ID: lcl|Query_416220 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-270A11 on chromosome 4,...     Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 72254      AL732508.13      
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-270A11 on chromosome 4, complete sequence
+Sequence ID: AL732508.13 Length: 72254
+Range 1: 67960 to 68059
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      AGCAACAGTAACTATATTCTCAGAAGTGTCTCAGTGTGAATGGAAGGCTACAACATCACC  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  67960  AGCAACAGTAACTATATTCTCAGAAGTGTCTCAGTGTGAATGGAAGGCTACAACATCACC  68019
+
+Query  61     CTTCACTAACATACACTCAACTGGCTTTCAAACTGGTCTG  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  68020  CTTCACTAACATACACTCAACTGGCTTTCAAACTGGTCTG  68059
+
+
+
+
+
+Query #96: read96 Query ID: lcl|Query_416221 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus 7 days neonate cerebellum cDNA, RIKEN full-length... Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 3414       AK043202.1       
+
+
+Alignments:
+
+>Mus musculus 7 days neonate cerebellum cDNA, RIKEN full-length enriched library, clone:A730069C18 product:stathmin-like 2, full insert sequence
+Sequence ID: AK043202.1 Length: 3414
+Range 1: 1266 to 1365
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1     ttatgtaaattatataaattatatcattttatcatgtgaattatataaatataaattata  60
+             ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1266  TTATGTAAATTATATAAATTATATCATTTTATCATGTGAATTATATAAATATAAATTATA  1325
+
+Query  61    tttattaCATGAATGAAACTCTTAATGTTGTCTACAAAAA  100
+             ||||||||||||||||||||||||||||||||||||||||
+Sbjct  1326  TTTATTACATGAATGAAACTCTTAATGTTGTCTACAAAAA  1365
+
+
+
+
+
+Query #97: read97 Query ID: lcl|Query_416222 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-395O3 on chromosome 4,...      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 121869     AL831739.10      
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-395O3 on chromosome 4, complete sequence
+Sequence ID: AL831739.10 Length: 121869
+Range 1: 19300 to 19399
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      GGCCTATATTTAAATATCTCCCAACTTATATCAAACTATACTTTACAAATTATTTTCAGA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  19300  GGCCTATATTTAAATATCTCCCAACTTATATCAAACTATACTTTACAAATTATTTTCAGA  19359
+
+Query  61     CCATGAATGCTGGCTGCTTACTCATTATTACTGTGTCTCT  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  19360  CCATGAATGCTGGCTGCTTACTCATTATTACTGTGTCTCT  19399
+
+
+
+
+
+Query #98: read98 Query ID: lcl|Query_416223 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus BAC clone RP23-234G15 from 3, complete sequence      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 180660     AC132438.3       
+
+
+Alignments:
+
+>Mus musculus BAC clone RP23-234G15 from 3, complete sequence
+Sequence ID: AC132438.3 Length: 180660
+Range 1: 40564 to 40663
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      GTTTACCCATCTGGAACTTGGAGTTTGGCTCACAAGGATTGAAGACCTTCAGTTGGCAAA  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  40564  GTTTACCCATCTGGAACTTGGAGTTTGGCTCACAAGGATTGAAGACCTTCAGTTGGCAAA  40623
+
+Query  61     CATATCACATGGGATTTGAAGATGGCTTGCTCTATTCTGT  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  40624  CATATCACATGGGATTTGAAGATGGCTTGCTCTATTCTGT  40663
+
+
+
+
+
+Query #99: read99 Query ID: lcl|Query_416224 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mus musculus chromosome 5, clone RP23-44L13, complete sequence    Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 254022     AC151669.5       
+
+
+Alignments:
+
+>Mus musculus chromosome 5, clone RP23-44L13, complete sequence
+Sequence ID: AC151669.5 Length: 254022
+Range 1: 57130 to 57229
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1      TTTCTCTATATCTGTTCCAATACTTTTCAGAACCCCATTCACTTTTCCTTCAACTTTGCT  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  57229  TTTCTCTATATCTGTTCCAATACTTTTCAGAACCCCATTCACTTTTCCTTCAACTTTGCT  57170
+
+Query  61     TAGGTTCTTGCTGAACTATGAATGCTACTTTTATAAATTC  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  57169  TAGGTTCTTGCTGAACTATGAATGCTACTTTTATAAATTC  57130
+
+
+
+
+
+Query #100: read100 Query ID: lcl|Query_416225 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Mouse DNA sequence from clone RP23-272K5 on chromosome 4,...      Mus musculus    house mouse     10090      181    181   100%  1e-41 100.00 65399      AL954856.8       
+
+
+Alignments:
+
+>Mouse DNA sequence from clone RP23-272K5 on chromosome 4, complete sequence
+Sequence ID: AL954856.8 Length: 65399
+Range 1: 12357 to 12456
+
+Score:181 bits(200), Expect:1e-41, 
+Identities:100/100(100%),  Gaps:0/100(0%), Strand: Plus/Plus
+
+Query  1      TGAATCTAATGTTCAGCTTTAGGATAAATGTTGAGCCTACTCATTGCTTCTCTGGGGCTC  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  12357  TGAATCTAATGTTCAGCTTTAGGATAAATGTTGAGCCTACTCATTGCTTCTCTGGGGCTC  12416
+
+Query  61     ACTAGTTGCAGTCTCATGAAACAGCTACTATCTTCATGGT  100
+              ||||||||||||||||||||||||||||||||||||||||
+Sbjct  12417  ACTAGTTGCAGTCTCATGAAACAGCTACTATCTTCATGGT  12456
 
 
 
@@ -1877,5 +2766,4 @@ Sbjct  38171809  AAGGCTCACAGTGTCTTGAAACA  38171787
 
 
 		
-
 
