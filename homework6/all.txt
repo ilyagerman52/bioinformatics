@@ -1,0 +1,1881 @@
+RID: 604Z4EAW013	
+Job Title: read1 				
+Program: BLASTN 
+Database: nt Nucleotide collection (nt)
+Query #1: read1 Query ID: lcl|Query_26060 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       85.1   85.1  100%  1e-14 79.61  51431252   CP050633.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 25b
+Sequence ID: CP050633.1 Length: 51431252
+Range 1: 15288697 to 15288795
+
+Score:85.1 bits(93), Expect:1e-14, 
+Identities:82/103(80%),  Gaps:7/103(6%), Strand: Plus/Minus
+
+Query  1         TGTTTCAAGAGAAA---GAACAAGACGGAGAGGTTTCCTCCTTGTTAAAACTGGGATACT  57
+                 |||||||||| |||   ||||||||| ||||   |||||  |||||||||| | | ||||
+Sbjct  15288795  TGTTTCAAGAAAAAAAAGAACAAGACAGAGA---TTCCTG-TTGTTAAAACGGAGCTACT  15288740
+
+Query  58        CTTTCTAAGAATGTGACGATCACTCGCTGGAAGAAAATGGAAT  100
+                 |||||||||||||| | |||||||   | ||| ||||| ||||
+Sbjct  15288739  CTTTCTAAGAATGTAATGATCACTTATTCGAATAAAATTGAAT  15288697
+
+
+
+
+
+Query #2: read2 Query ID: lcl|Query_26061 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       85.1   85.1  88%   1e-14 82.95  51431252   CP050633.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 25b
+Sequence ID: CP050633.1 Length: 51431252
+Range 1: 15597150 to 15597235
+
+Score:85.1 bits(93), Expect:1e-14, 
+Identities:73/88(83%),  Gaps:2/88(2%), Strand: Plus/Minus
+
+Query  9         ATGAGATTGACAGTGGGGAATTGAAGTCACTGCCTTGGCCCCTCTTGCCAACCTAGTAGT  68
+                 |||||| |||  ||||| |||||||  | |||||||||||| ||| |||||||||||| |
+Sbjct  15597235  ATGAGACTGATTGTGGGAAATTGAAC-CTCTGCCTTGGCCCTTCT-GCCAACCTAGTACT  15597178
+
+Query  69        CTTTATACTTTAGCGAGCACTCTGAGCC  96
+                 |||||  ||||||| | |||||| ||||
+Sbjct  15597177  CTTTAAGCTTTAGCAAACACTCTAAGCC  15597150
+
+
+
+
+
+Query #3: read3 Query ID: lcl|Query_26062 Length: 100
+
+No significant similarity found.
+
+
+
+Query #4: read4 Query ID: lcl|Query_26063 Length: 100
+
+No significant similarity found.
+
+
+
+Query #5: read5 Query ID: lcl|Query_26064 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       123    123   100%  6e-26 87.00  51431252   CP050633.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 25b
+Sequence ID: CP050633.1 Length: 51431252
+Range 1: 13794256 to 13794355
+
+Score:123 bits(135), Expect:6e-26, 
+Identities:87/100(87%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1         CACGTGCCATCCGAAGTTTTGCATGCACTTTCAGCTCCTGTAGCACTTGGCCTCACAAGA  60
+                 |||||||||| | | |||   |||||| ||||||||||||||||| ||||| ||||||| 
+Sbjct  13794355  CACGTGCCATTCCATGTTACACATGCATTTTCAGCTCCTGTAGCAGTTGGCTTCACAAGG  13794296
+
+Query  61        TTTCTTAACAATCTGTTTTTCCTCAAAATCAGCAAATTAC  100
+                 |||||||| |||||| |||||||||||| |||||||||||
+Sbjct  13794295  TTTCTTAATAATCTGGTTTTCCTCAAAAGCAGCAAATTAC  13794256
+
+
+
+
+
+Query #6: read6 Query ID: lcl|Query_26065 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       128    128   88%   1e-27 92.05  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 44498489 to 44498576
+
+Score:128 bits(141), Expect:1e-27, 
+Identities:81/88(92%),  Gaps:0/88(0%), Strand: Plus/Minus
+
+Query  1         TTTGGAAGATGTGGTAAAAATATCAGTATATTGGGGCAAGCCGGACTTTTAACTATGATA  60
+                 |||||||||||||| |||||||||| ||||||||||||||| ||||||||||||||||||
+Sbjct  44498576  TTTGGAAGATGTGGCAAAAATATCACTATATTGGGGCAAGCTGGACTTTTAACTATGATA  44498517
+
+Query  61        AGACAAGGACTAGTCCAGAAGATAAGTA  88
+                 | |||||||||  |||| ||||||||||
+Sbjct  44498516  AAACAAGGACTGATCCAAAAGATAAGTA  44498489
+
+
+
+
+
+Query #7: read7 Query ID: lcl|Query_26066 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       131    131   100%  1e-28 89.22  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 43573718 to 43573816
+
+Score:131 bits(144), Expect:1e-28, 
+Identities:91/102(89%),  Gaps:5/102(4%), Strand: Plus/Minus
+
+Query  1         GTGAGGGGGGAA--AAGGGAAGCACCTACCTTCCTGACCACTCAACTTTCTAAAGCTCCG  58
+                 ||||||||||||  || |||||||||||||||||||| ||||||||||||||||||||||
+Sbjct  43573816  GTGAGGGGGGAAGAAAAGGAAGCACCTACCTTCCTGATCACTCAACTTTCTAAAGCTCCG  43573757
+
+Query  59        CGCCTCCGCTCGCCTCTCTGAGCAAGAAGAAGGGATGGGAAA  100
+                 |||||| ||| |||| |||||||||   ||||||||||| ||
+Sbjct  43573756  CGCCTCTGCTTGCCTGTCTGAGCAA---GAAGGGATGGGTAA  43573718
+
+
+
+
+
+Query #8: read8 Query ID: lcl|Query_26067 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Felis catus Senzu DNA, chromosome: E1, American Shorthair breed   Felis catus     domestic cat    9685       154    154   100%  1e-35 94.00  65441144   AP023165.1       
+
+
+Alignments:
+
+>Felis catus Senzu DNA, chromosome: E1, American Shorthair breed
+Sequence ID: AP023165.1 Length: 65441144
+Range 1: 497465 to 497564
+
+Score:154 bits(170), Expect:1e-35, 
+Identities:94/100(94%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1       CATATTTTAGAGACACAATGTTTTGAGTTCTGTGAAAGATGAGATGCACCCCTAAGTGTA  60
+               ||||||||| |||||||||||||||||||||||||| |||||||||||||||||||||||
+Sbjct  497564  CATATTTTACAGACACAATGTTTTGAGTTCTGTGAAGGATGAGATGCACCCCTAAGTGTA  497505
+
+Query  61      GGTGCTCCAGGTGTCCAGTGTGAAATAGGGCACATACATT  100
+               |||||  ||||||||| ||||||||| |||||||||||||
+Sbjct  497504  GGTGCCTCAGGTGTCCTGTGTGAAATGGGGCACATACATT  497465
+
+
+
+
+
+Query #9: read9 Query ID: lcl|Query_26068 Length: 100
+
+No significant similarity found.
+
+
+
+Query #10: read10 Query ID: lcl|Query_26069 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       141    141   100%  2e-31 91.00  51431252   CP050633.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 25b
+Sequence ID: CP050633.1 Length: 51431252
+Range 1: 11733317 to 11733416
+
+Score:141 bits(155), Expect:2e-31, 
+Identities:91/100(91%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1         CCTCACATTCCACACTAAAGCAACTAAACGTATCAAGAAAGATTGCGCGAGCAGCCTGCA  60
+                 ||||||||||||||||||||||||||||   ||||| |||||||| | |||| |||||||
+Sbjct  11733416  CCTCACATTCCACACTAAAGCAACTAAAAAGATCAATAAAGATTGTGTGAGCGGCCTGCA  11733357
+
+Query  61        TTACCTATGATGGTAACCAAAGTTGATTTACTGGGATGTT  100
+                 ||||||| |||||||||||||| |||||||||||||||||
+Sbjct  11733356  TTACCTAGGATGGTAACCAAAGCTGATTTACTGGGATGTT  11733317
+
+
+
+
+
+Query #11: read11 Query ID: lcl|Query_26070 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       64.4   64.4  88%   1e-08 77.27  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 40852641 to 40852724
+
+Score:64.4 bits(70), Expect:1e-08, 
+Identities:68/88(77%),  Gaps:4/88(4%), Strand: Plus/Minus
+
+Query  1         CCCTGGTATGACTATTATGGCATCTGGGCCATGGAGATGTAGAGAGTCAGTGACAGAAGT  60
+                 || |||||||  || || || || |||| |||  ||||||||||  ||||||| | ||||
+Sbjct  40852724  CCATGGTATGGTTAGTACGGAATGTGGGACAT--AGATGTAGAG--TCAGTGAGACAAGT  40852669
+
+Query  61        GACACAGATATAACTCAAAACGGGAAAC  88
+                 ||  || |  ||||||||||| ||||||
+Sbjct  40852668  GATGCAAACGTAACTCAAAACAGGAAAC  40852641
+
+
+
+
+
+Query #12: read12 Query ID: lcl|Query_26071 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       81.5   81.5  100%  2e-13 79.21  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 45711990 to 45712089
+
+Score:81.5 bits(89), Expect:2e-13, 
+Identities:80/101(79%),  Gaps:2/101(1%), Strand: Plus/Minus
+
+Query  1         CCCCGATCACTTAAATTGACCATCCTCTGCTCCGAGCTGCTGCCCATTTGCAGTTTGAAT  60
+                 ||||||||  |||||||||||||||||||| || ||| || |||   ||||  | |||||
+Sbjct  45712089  CCCCGATCGTTTAAATTGACCATCCTCTGC-CCCAGCCGCCGCCTGCTTGCGCTGTGAAT  45712031
+
+Query  61        AATAAGCTTCCGTGCATCTCGGGCCC-GCAGAACGGCAGGT  100
+                 ||| |||||||   | |||| ||||| || || ||||||||
+Sbjct  45712030  AATCAGCTTCCTGTCGTCTCCGGCCCGGCGGAGCGGCAGGT  45711990
+
+
+
+
+
+Query #13: read13 Query ID: lcl|Query_26072 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 20b    Canis lupus ... dog             9615       111    111   99%   1e-22 86.00  58321546   CP050631.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 20b
+Sequence ID: CP050631.1 Length: 58321546
+Range 1: 56830352 to 56830450
+
+Score:111 bits(122), Expect:1e-22, 
+Identities:86/100(86%),  Gaps:2/100(2%), Strand: Plus/Minus
+
+Query  1         GCTCCCCAAAGCCCCTGGTGCTCCCGGACCGGCCGGAGAGAGCTGGGAGCCGGGGAGCGA  60
+                 ||||||||||||||| |||||||||||||||||||||||||||||||||||| ||||| |
+Sbjct  56830450  GCTCCCCAAAGCCCCCGGTGCTCCCGGACCGGCCGGAGAGAGCTGGGAGCCGAGGAGCAA  56830391
+
+Query  61        GGCCGGG-CCTACAGCCCGCACACCgggggggAGTCACCC  99
+                 ||| ||| ||| ||||| || |  |  ||||  |||||||
+Sbjct  56830390  GGCTGGGCCCTGCAGCCAGC-CCGCATGGGGACGTCACCC  56830352
+
+
+
+
+
+Query #14: read14 Query ID: lcl|Query_26073 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       133    133   95%   3e-29 92.63  51431252   CP050633.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 25b
+Sequence ID: CP050633.1 Length: 51431252
+Range 1: 16285757 to 16285849
+
+Score:133 bits(147), Expect:3e-29, 
+Identities:88/95(93%),  Gaps:2/95(2%), Strand: Plus/Minus
+
+Query  6         CTGTTTGGGTGTATGTCTGCATGTGTCATGATGTTCTGTTTTTAAAATACCCCAAAAGTT  65
+                 ||||||||||||||||||||||||||||| |||||||| |||||||| ||  | ||||||
+Sbjct  16285849  CTGTTTGGGTGTATGTCTGCATGTGTCATAATGTTCTG-TTTTAAAACACAGC-AAAGTT  16285792
+
+Query  66        CAAGAAGTTTTGCTTCCTTAAAGGCAAGCTTGGTG  100
+                 |||||||||||||||||||||| ||||||||||||
+Sbjct  16285791  CAAGAAGTTTTGCTTCCTTAAAAGCAAGCTTGGTG  16285757
+
+
+
+
+
+Query #15: read15 Query ID: lcl|Query_26074 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       126    126   97%   5e-27 88.66  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 42748216 to 42748312
+
+Score:126 bits(139), Expect:5e-27, 
+Identities:86/97(89%),  Gaps:0/97(0%), Strand: Plus/Minus
+
+Query  4         AGCACACCAGACGCTTCGGACAAAGCCCACGACCTCGCGGGGTCCTGCATGAAATCTTAC  63
+                 |||||| ||||| |||||||| |||||| ||||||||| | ||| |||||||||||||||
+Sbjct  42748312  AGCACATCAGACACTTCGGACGAAGCCCGCGACCTCGCAGAGTCTTGCATGAAATCTTAC  42748253
+
+Query  64        GAGCAATATAAACAGAGTGGCGGCCAAGCTCACCCCC  100
+                  || ||||||||||||| ||| |||||||||||||||
+Sbjct  42748252  AAGTAATATAAACAGAGCGGCAGCCAAGCTCACCCCC  42748216
+
+
+
+
+
+Query #16: read16 Query ID: lcl|Query_26075 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       79.7   79.7  100%  6e-13 79.41  51431252   CP050633.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 25b
+Sequence ID: CP050633.1 Length: 51431252
+Range 1: 19022185 to 19022285
+
+Score:79.7 bits(87), Expect:6e-13, 
+Identities:81/102(79%),  Gaps:3/102(2%), Strand: Plus/Minus
+
+Query  1         CCCGTAAA-ATTCCACCTCTTACAGAGCTCCTGA-AAAAGTAAATGAAAGCTGGCCCCAC  58
+                 ||| |||| ||| || ||||| |||||||||||| ||||| |||||||| || |||    
+Sbjct  19022285  CCCATAAAGATTTCATCTCTTGCAGAGCTCCTGAGAAAAGCAAATGAAATCTTGCCTGTG  19022226
+
+Query  59        AGTAAGGCCACATAGTGCTAACTGGTTTATGATGATGGTGTT  100
+                  ||  |||||| |||| ||||||||||||  ||||| |||||
+Sbjct  19022225  -GTTGGGCCACGTAGTACTAACTGGTTTACAATGATTGTGTT  19022185
+
+
+
+
+
+Query #17: read17 Query ID: lcl|Query_26076 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       70.7   70.7  72%   3e-10 82.19  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 44104419 to 44104491
+
+Score:70.7 bits(77), Expect:3e-10, 
+Identities:60/73(82%),  Gaps:1/73(1%), Strand: Plus/Minus
+
+Query  11        TGGCTTTGCCTAACAGG-TCCCCAACAGGCAGCTTTCCCTTAAGCATCTCCAGAATCTTC  69
+                 |||||| |   |||||| || |||||| |||| ||||||| ||||||||||||| ||| |
+Sbjct  44104491  TGGCTTGGAGAAACAGGGTCTCCAACATGCAGGTTTCCCTAAAGCATCTCCAGAGTCTAC  44104432
+
+Query  70        CTGGGACCCCCTG  82
+                 |||||| | ||||
+Sbjct  44104431  CTGGGAACTCCTG  44104419
+
+
+
+
+
+Query #18: read18 Query ID: lcl|Query_26077 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24a    Canis lupus ... dog             9615       54.5   54.5  93%   2e-05 73.33  47610717   CP050588.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24a
+Sequence ID: CP050588.1 Length: 47610717
+Range 1: 44619744 to 44619846
+
+Score:54.5 bits(59), Expect:2e-05, 
+Identities:77/105(73%),  Gaps:14/105(13%), Strand: Plus/Minus
+
+Query  8         TGGCCACCTCCTTCCATGCTCAGTCCTGGAATC-ACAAACACACC--CCCAGGGCCTCA-  63
+                 || |||||||  || | || ||||||||||||| |||| |||| |  ||| || || || 
+Sbjct  44619846  TGCCCACCTCGCTCAA-GC-CAGTCCTGGAATCCACAAGCACATCTCCCCCGGACCACAA  44619789
+
+Query  64        --------CCCCTGCTGTCCCTTCAGTTCTCTGCTCCTCCTGGTC  100
+                         ||||  |||||||| | ||||||||||||| ||||||
+Sbjct  44619788  ACACACAGCCCCCACTGTCCCTCCTGTTCTCTGCTCCTTCTGGTC  44619744
+
+
+
+
+
+Query #19: read19 Query ID: lcl|Query_26078 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       109    109   97%   4e-22 85.57  51431252   CP050633.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 25b
+Sequence ID: CP050633.1 Length: 51431252
+Range 1: 14483433 to 14483528
+
+Score:109 bits(120), Expect:4e-22, 
+Identities:83/97(86%),  Gaps:1/97(1%), Strand: Plus/Minus
+
+Query  1         TCAAAGATCGTATCTTTCTTTGTCTTTCTAGGGATCAGAAGATCGGTCATGCACGATAAA  60
+                 |||||||||   |||||||||||||||||||| ||||||||||| | |||| | ||||||
+Sbjct  14483528  TCAAAGATCAATTCTTTCTTTGTCTTTCTAGGAATCAGAAGATCAGCCATGAATGATAAA  14483469
+
+Query  61        CCATTTCAACACATGAtttttttGTAGTTTTCCAAAA  97
+                  ||||| ||||||| | |||||  |||||||||||||
+Sbjct  14483468  TCATTTTAACACAT-AATTTTTCATAGTTTTCCAAAA  14483433
+
+
+
+
+
+Query #20: read20 Query ID: lcl|Query_26079 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       145    145   100%  5e-33 92.00  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 41352320 to 41352419
+
+Score:145 bits(160), Expect:5e-33, 
+Identities:92/100(92%),  Gaps:0/100(0%), Strand: Plus/Minus
+
+Query  1         TAGGGAACATATCGCATTGTAATATTTTTGTGGATTAGTTTTTAGTTAACGTTGGGGTGG  60
+                 ||||||||||||| |||| |||||||||||||||||| |||||||||||| |||||||||
+Sbjct  41352419  TAGGGAACATATCACATTTTAATATTTTTGTGGATTAATTTTTAGTTAACATTGGGGTGG  41352360
+
+Query  61        AAAGTGGTGCAGATAGCAATGAAAGAAGAAGCAGAAAATA  100
+                 ||| |||||| ||||||||| ||||||||| |||||||||
+Sbjct  41352359  AAAATGGTGCCGATAGCAATAAAAGAAGAAACAGAAAATA  41352320
+
+
+
+
+
+Query #21: read21 Query ID: lcl|Query_26080 Length: 100
+
+No significant similarity found.
+
+
+
+Query #22: read22 Query ID: lcl|Query_26081 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis familiaris, clone XX-129P12, complete sequence              Canis lupus ... dog             9615       45.5   45.5  27%   0.013 96.30  205889     AC197467.12      
+
+
+Alignments:
+
+>Canis familiaris, clone XX-129P12, complete sequence
+Sequence ID: AC197467.12 Length: 205889
+Range 1: 65656 to 65682
+
+Score:45.5 bits(49), Expect:0.013, 
+Identities:26/27(96%),  Gaps:0/27(0%), Strand: Plus/Plus
+
+Query  7      TCTGCTGCTGGGGGGAGCTGGGCAACC  33
+              |||||||||||| ||||||||||||||
+Sbjct  65656  TCTGCTGCTGGGAGGAGCTGGGCAACC  65682
+
+
+
+
+
+Query #23: read23 Query ID: lcl|Query_26082 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       107    107   83%   1e-21 88.51  51431252   CP050633.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 25b
+Sequence ID: CP050633.1 Length: 51431252
+Range 1: 37349732 to 37349818
+
+Score:107 bits(118), Expect:1e-21, 
+Identities:77/87(89%),  Gaps:4/87(4%), Strand: Plus/Minus
+
+Query  18        TGGCCCTACTGAAAC--AATATCTG--ATATTTTAGGAATCTGTGACCTACAAAGATGTA  73
+                 |||||||  ||||||  | ||||||  ||||||||||| |||||||||| ||||||||||
+Sbjct  37349818  TGGCCCTGTTGAAACCCAGTATCTGTGATATTTTAGGACTCTGTGACCTTCAAAGATGTA  37349759
+
+Query  74        GCTGTAGACTTTACCCAGGAAGAGTGG  100
+                 ||||||||||| |||||||||||||||
+Sbjct  37349758  GCTGTAGACTTAACCCAGGAAGAGTGG  37349732
+
+
+
+
+
+Query #24: read24 Query ID: lcl|Query_26083 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       68.9   68.9  60%   1e-09 85.00  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 41775795 to 41775854
+
+Score:68.9 bits(75), Expect:1e-09, 
+Identities:51/60(85%),  Gaps:0/60(0%), Strand: Plus/Minus
+
+Query  38        GGTTGCCTGAACTATCTTCCTTTCCTCTTAGGTACACTTCCTAAGGGTGGGAATCAGAAT  97
+                 |||||||||| || ||   ||||||||||||||| ||||| || |||||||||||| |||
+Sbjct  41775854  GGTTGCCTGAGCTGTCCCTCTTTCCTCTTAGGTATACTTCATAGGGGTGGGAATCACAAT  41775795
+
+
+
+
+
+Query #25: read25 Query ID: lcl|Query_26084 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       147    147   96%   1e-33 93.75  51431252   CP050633.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 25b
+Sequence ID: CP050633.1 Length: 51431252
+Range 1: 13746008 to 13746103
+
+Score:147 bits(162), Expect:1e-33, 
+Identities:90/96(94%),  Gaps:0/96(0%), Strand: Plus/Minus
+
+Query  1         ATATCGGGAACTTGTTTTTTATGGAAGAACGACCACCACGTCCTGTGGTTCTTTATCCCT  60
+                 |||| |||||||| | ||||||| |||||||||||||||||||||||| |||||||||||
+Sbjct  13746103  ATATTGGGAACTTATATTTTATGAAAGAACGACCACCACGTCCTGTGGCTCTTTATCCCT  13746044
+
+Query  61        CAGCAGCTGTGTCCAGCTGGTGGTCCACATTCCCCC  96
+                 |||||||||||||||||||||||||| |||||||||
+Sbjct  13746043  CAGCAGCTGTGTCCAGCTGGTGGTCCTCATTCCCCC  13746008
+
+
+
+
+
+Query #26: read26 Query ID: lcl|Query_26085 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       103    103   99%   5e-20 82.83  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 42300249 to 42300347
+
+Score:103 bits(113), Expect:5e-20, 
+Identities:82/99(83%),  Gaps:0/99(0%), Strand: Plus/Minus
+
+Query  2         AGGATGAAGCACCCACTCAGGCCAGCCCAAGAGGGTGATGGGGTCACACAGACGCCGGGG  61
+                 || || ||||||||||||| |||| |||||||  ||| ||| |||| | |||| || | |
+Sbjct  42300347  AGAATTAAGCACCCACTCAAGCCACCCCAAGAATGTGGTGGTGTCATAAAGACACCTGTG  42300288
+
+Query  62        TCCGGGGGTCTGGGCACGGGGATCCATCGGGCCCCAGGA  100
+                 || |||| ||||||||| |||| ||||||||||||||||
+Sbjct  42300287  TCTGGGGATCTGGGCACAGGGAACCATCGGGCCCCAGGA  42300249
+
+
+
+
+
+Query #27: read27 Query ID: lcl|Query_26086 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       97.8   97.8  61%   2e-18 95.08  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 43965136 to 43965196
+
+Score:97.8 bits(107), Expect:2e-18, 
+Identities:58/61(95%),  Gaps:0/61(0%), Strand: Plus/Minus
+
+Query  3         ATACCTTGCCCCGAGAGAACAGCAAGGAGTTCAAAGTGCACTTGACTTTAGTCTATGCCA  62
+                 ||||||||||| ||||||||||||| || |||||||||||||||||||||||||||||||
+Sbjct  43965196  ATACCTTGCCCTGAGAGAACAGCAAAGAATTCAAAGTGCACTTGACTTTAGTCTATGCCA  43965137
+
+Query  63        G  63
+                 |
+Sbjct  43965136  G  43965136
+
+
+
+
+
+Query #28: read28 Query ID: lcl|Query_26087 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       68.0   68.0  92%   1e-09 76.09  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 42324141 to 42324232
+
+Score:68.0 bits(74), Expect:1e-09, 
+Identities:70/92(76%),  Gaps:0/92(0%), Strand: Plus/Minus
+
+Query  9         CCCCTCGTATAACTTTGCCTGCTACGAGATGGCATTGAATTTGACCCGAGTGTGACCAAG  68
+                 |||||   || ||| |  |||||  | | ||||| | ||||| |||  ||||||||  ||
+Sbjct  42324232  CCCCTACCATTACTCTCACTGCTGTGTGCTGGCACTTAATTTCACCAAAGTGTGACAGAG  42324173
+
+Query  69        TCACAAATACATTCCCTTTGGAAATGTCCTCA  100
+                 ||||||||| ||||||||||||| | | ||||
+Sbjct  42324172  TCACAAATATATTCCCTTTGGAACTTTTCTCA  42324141
+
+
+
+
+
+Query #29: read29 Query ID: lcl|Query_26088 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       80.6   80.6  94%   2e-13 80.85  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 41784767 to 41784855
+
+Score:80.6 bits(88), Expect:2e-13, 
+Identities:76/94(81%),  Gaps:5/94(5%), Strand: Plus/Minus
+
+Query  1         CCCAGGGCCTGGCTGTCCTTCCTTCCCGCAGCAGAGCTGTGGCCGAGGCAACCCGAAGGG  60
+                 |||||  || ||| | |||| |||||||| || |   ||||||||| | |||||||| ||
+Sbjct  41784855  CCCAGACCCCGGCCGCCCTTGCTTCCCGCGGCCGT--TGTGGCCGAAGTAACCCGAAAGG  41784798
+
+Query  61        ACAGAGATTCCTCCCAGCCCGGGGGCAGAGGCAA  94
+                 |||||  ||||||||||||| |||| ||||||||
+Sbjct  41784797  ACAGA--TTCCTCCCAGCCCCGGGG-AGAGGCAA  41784767
+
+
+
+
+
+Query #30: read30 Query ID: lcl|Query_26089 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 20b    Canis lupus ... dog             9615       101    101   95%   2e-19 84.21  58321546   CP050631.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 20b
+Sequence ID: CP050631.1 Length: 58321546
+Range 1: 56752432 to 56752525
+
+Score:101 bits(111), Expect:2e-19, 
+Identities:80/95(84%),  Gaps:1/95(1%), Strand: Plus/Minus
+
+Query  2         GGGGTGAAGGCTCCCCTGCTGGCAGAGGGCCCCGAAGGTCGGAGCATAGCTCGGCTAAGT  61
+                 || |||||| |||| || ||||||||||||||| |||||| || || ||||| |||||| 
+Sbjct  56752525  GGAGTGAAG-CTCCTCTCCTGGCAGAGGGCCCCAAAGGTCAGACCACAGCTCAGCTAAGA  56752467
+
+Query  62        GACTTGCAAACAGAGGCCCATCTATGTGGCTTTGA  96
+                 |||||||| |||||||||||||| ||  ||| |||
+Sbjct  56752466  GACTTGCAGACAGAGGCCCATCTGTGCTGCTCTGA  56752432
+
+
+
+
+
+Query #31: read31 Query ID: lcl|Query_26090 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       86.0   86.0  92%   4e-15 80.43  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 40770865 to 40770956
+
+Score:86.0 bits(94), Expect:4e-15, 
+Identities:74/92(80%),  Gaps:0/92(0%), Strand: Plus/Minus
+
+Query  1         AACACCTCTAAAGGATCTTTTGTGAGTCCTGGCGAGTTTGTGACTTTCTGGGTTAGGAAG  60
+                 || ||| |||||| ||||||||||| ||||   ||||||||||||| | || | ||||||
+Sbjct  40770956  AAAACCCCTAAAGAATCTTTTGTGAATCCTAAGGAGTTTGTGACTTCCCGGATCAGGAAG  40770897
+
+Query  61        GATGGATGCAGTGGCTTCCTGCAAAGAGGCAG  92
+                 ||| ||||  ||||||   |||||||| ||||
+Sbjct  40770896  GATAGATGTCGTGGCTGGTTGCAAAGAAGCAG  40770865
+
+
+
+
+
+Query #32: read32 Query ID: lcl|Query_26091 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       103    103   100%  5e-20 83.17  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 41608998 to 41609098
+
+Score:103 bits(113), Expect:5e-20, 
+Identities:84/101(83%),  Gaps:1/101(0%), Strand: Plus/Minus
+
+Query  1         AAGCAGTTCTATAGCTAAGCTGCCCATTTTTTCTCGTTCTGAATTTTAATAT-TTTTAGT  59
+                 |||||||||| ||| |||| || |||||||||| | ||||  |||||| ||| |||| ||
+Sbjct  41609098  AAGCAGTTCTGTAGTTAAGTTGTCCATTTTTTCCCATTCTCTATTTTAGTATGTTTTCGT  41609039
+
+Query  60        GCTGGGATCTGTTAGTAGCAGCTCTGGGGCTCATTAAGACA  100
+                 |||| |||||||||||||||||| ||  || ||||||| ||
+Sbjct  41609038  GCTGAGATCTGTTAGTAGCAGCTTTGAAGCCCATTAAGTCA  41608998
+
+
+
+
+
+Query #33: read33 Query ID: lcl|Query_26092 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 15b    Canis lupus ... dog             9615       44.6   44.6  39%   0.013 84.62  64292917   CP050620.1       
+Canis lupus familiaris breed Labrador retriever chromosome 21a    Canis lupus ... dog             9615       42.8   42.8  33%   0.045 87.88  51019060   CP050601.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 15b
+Sequence ID: CP050620.1 Length: 64292917
+Range 1: 1598586 to 1598624
+
+Score:44.6 bits(48), Expect:0.013, 
+Identities:33/39(85%),  Gaps:0/39(0%), Strand: Plus/Plus
+
+Query  16       GGGGCTTCCCCAGGCTGGTGAAGAGCCTGGGGGCTGGGA  54
+                ||||||||||||||||||   |||||  |||||| ||||
+Sbjct  1598586  GGGGCTTCCCCAGGCTGGCCCAGAGCTCGGGGGCCGGGA  1598624
+
+
+
+
+>Canis lupus familiaris breed Labrador retriever chromosome 21a
+Sequence ID: CP050601.1 Length: 51019060
+Range 1: 25806693 to 25806725
+
+Score:42.8 bits(46), Expect:0.045, 
+Identities:29/33(88%),  Gaps:0/33(0%), Strand: Plus/Plus
+
+Query  66        CTCTGGCGGGGAGGGGCCTGCAGAGCCCTGGGG  98
+                 |||||  ||||| |||||||||||||| |||||
+Sbjct  25806693  CTCTGTGGGGGAAGGGCCTGCAGAGCCATGGGG  25806725
+
+
+
+
+
+Query #34: read34 Query ID: lcl|Query_26093 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 29b    Canis lupus ... dog             9615       42.8   42.8  40%   0.045 83.33  41750700   CP050629.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 29b
+Sequence ID: CP050629.1 Length: 41750700
+Range 1: 41269056 to 41269097
+
+Score:42.8 bits(46), Expect:0.045, 
+Identities:35/42(83%),  Gaps:2/42(4%), Strand: Plus/Minus
+
+Query  35        GAGCACACGTGGA--CCTTTTGTTACCCTTTTCTCCGCTGCA  74
+                 ||| ||||||| |  |||||  |||||||| |||||||||||
+Sbjct  41269097  GAGAACACGTGCAATCCTTTCATTACCCTTCTCTCCGCTGCA  41269056
+
+
+
+
+
+Query #35: read35 Query ID: lcl|Query_26094 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       76.1   76.1  83%   8e-12 80.72  51431252   CP050633.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 25b
+Sequence ID: CP050633.1 Length: 51431252
+Range 1: 11736884 to 11736964
+
+Score:76.1 bits(83), Expect:8e-12, 
+Identities:67/83(81%),  Gaps:2/83(2%), Strand: Plus/Minus
+
+Query  2         ATACTACCAGCCAGTTATGAACGCGAAAGGCACAGAACACCGTAAGAATCAGGATCTGTC  61
+                 ||| |||  | || ||||||| | || ||  |||||||||  |||||||| |||||||||
+Sbjct  11736964  ATATTACTGGACAATTATGAATGAGAGAG--ACAGAACACTCTAAGAATCGGGATCTGTC  11736907
+
+Query  62        CTGATCTATTCATTTGGCTACCT  84
+                  |||| || ||||||||||||||
+Sbjct  11736906  TTGATTTACTCATTTGGCTACCT  11736884
+
+
+
+
+
+Query #36: read36 Query ID: lcl|Query_26095 Length: 100
+
+No significant similarity found.
+
+
+
+Query #37: read37 Query ID: lcl|Query_26096 Length: 100
+
+No significant similarity found.
+
+
+
+Query #38: read38 Query ID: lcl|Query_26097 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       86.0   86.0  80%   4e-15 85.19  51431252   CP050633.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 25b
+Sequence ID: CP050633.1 Length: 51431252
+Range 1: 17701355 to 17701434
+
+Score:86.0 bits(94), Expect:4e-15, 
+Identities:69/81(85%),  Gaps:2/81(2%), Strand: Plus/Minus
+
+Query  21        CCCTGTTCATTTTCTGGAAAGACTTT-CTTTCTGTAACTTATTTTTTAAAGTaaaaaaaa  79
+                 || ||||| |||||||||||| ||||  ||||  |||||||||||| |||||  ||||||
+Sbjct  17701434  CCTTGTTCCTTTTCTGGAAAGGCTTTGTTTTCATTAACTTATTTTTAAAAGT-TAAAAAA  17701376
+
+Query  80        aaGTGGAAAGAATAATAAACA  100
+                 |||| ||||| ||||||||||
+Sbjct  17701375  AAGTAGAAAGTATAATAAACA  17701355
+
+
+
+
+
+Query #39: read39 Query ID: lcl|Query_26098 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       77.0   77.0  71%   2e-12 85.92  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 44767899 to 44767967
+
+Score:77.0 bits(84), Expect:2e-12, 
+Identities:61/71(86%),  Gaps:2/71(2%), Strand: Plus/Minus
+
+Query  3         AGCCCCTTGTTTCCTGCCCACCCACCCTCACCACCTCAGGCGTGGCTCAGAATTACTCCC  62
+                 ||||||||||| ||||||||||||| ||| ||||||||||| |||  |||||   |||| 
+Sbjct  44767967  AGCCCCTTGTT-CCTGCCCACCCACACTCGCCACCTCAGGC-TGGTGCAGAAGCGCTCCG  44767910
+
+Query  63        CTCTGTGTGTC  73
+                 |||||||||||
+Sbjct  44767909  CTCTGTGTGTC  44767899
+
+
+
+
+
+Query #40: read40 Query ID: lcl|Query_26099 Length: 100
+
+No significant similarity found.
+
+
+
+Query #41: read41 Query ID: lcl|Query_26100 Length: 100
+
+No significant similarity found.
+
+
+
+Query #42: read42 Query ID: lcl|Query_26101 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 24b    Canis lupus ... dog             9615       65.3   65.3  79%   1e-08 75.56  47624915   CP050643.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 24b
+Sequence ID: CP050643.1 Length: 47624915
+Range 1: 40176292 to 40176381
+
+Score:65.3 bits(71), Expect:1e-08, 
+Identities:68/90(76%),  Gaps:11/90(12%), Strand: Plus/Minus
+
+Query  22        GTACCTTCACTTGCCAAACCATAAAACACCTATTAAA-----ATAAAATAAAAA------  70
+                 ||| ||||||||| ||||||| |||| | ||||||||     |||||| |||||      
+Sbjct  40176381  GTATCTTCACTTGTCAAACCAGAAAATAGCTATTAAATTAAAATAAAACAAAAAAAAAAC  40176322
+
+Query  71        CTTTGAAAGCTGTCACTCCCAGAGAGAAGG  100
+                 | || |||||||||  |||| |||||||||
+Sbjct  40176321  CCTTCAAAGCTGTCTTTCCCTGAGAGAAGG  40176292
+
+
+
+
+
+Query #43: read43 Query ID: lcl|Query_26102 Length: 100
+
+No significant similarity found.
+
+
+
+Query #44: read44 Query ID: lcl|Query_26103 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Felis catus Senzu DNA, chromosome: E3, American Shorthair breed   Felis catus     domestic cat    9685       45.5   45.5  38%   0.013 87.18  41750578   AP023167.1       
+
+
+Alignments:
+
+>Felis catus Senzu DNA, chromosome: E3, American Shorthair breed
+Sequence ID: AP023167.1 Length: 41750578
+Range 1: 33084358 to 33084396
+
+Score:45.5 bits(49), Expect:0.013, 
+Identities:34/39(87%),  Gaps:1/39(2%), Strand: Plus/Plus
+
+Query  17        GGCTGGGGGTGGGGGAGCACCAGCAGGGG-GTCGCAGAG  54
+                 ||| ||||| ||||||||||||||||||| |  ||||||
+Sbjct  33084358  GGCGGGGGGGGGGGGAGCACCAGCAGGGGAGGGGCAGAG  33084396
+
+
+
+
+
+Query #45: read45 Query ID: lcl|Query_26104 Length: 100
+
+No significant similarity found.
+
+
+
+Query #46: read46 Query ID: lcl|Query_26105 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 12b    Canis lupus ... dog             9615       107    107   82%   1e-21 89.02  72555136   CP050616.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 12b
+Sequence ID: CP050616.1 Length: 72555136
+Range 1: 26023437 to 26023514
+
+Score:107 bits(118), Expect:1e-21, 
+Identities:73/82(89%),  Gaps:4/82(4%), Strand: Plus/Plus
+
+Query  19        aaaaaaaTTGCTTTAAATCATGAACTAAGCACAAACAATAATTCACCATGATCCATAACT  78
+                 |||| |||||||||||||||||||||| |||||||||||||||||||||||||||    |
+Sbjct  26023437  AAAATAATTGCTTTAAATCATGAACTATGCACAAACAATAATTCACCATGATCCA----T  26023492
+
+Query  79        AACTGTCTGCCCACTGTGAATA  100
+                 |||||||| || ||| ||||||
+Sbjct  26023493  AACTGTCTTCCTACTATGAATA  26023514
+
+
+
+
+
+Query #47: read47 Query ID: lcl|Query_26106 Length: 100
+
+No significant similarity found.
+
+
+
+Query #48: read48 Query ID: lcl|Query_26107 Length: 100
+
+No significant similarity found.
+
+
+
+Query #49: read49 Query ID: lcl|Query_26108 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 02b    Canis lupus ... dog             9615       106    106   96%   4e-21 84.38  83851004   CP050613.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 02b
+Sequence ID: CP050613.1 Length: 83851004
+Range 1: 82480922 to 82481017
+
+Score:106 bits(117), Expect:4e-21, 
+Identities:81/96(84%),  Gaps:0/96(0%), Strand: Plus/Minus
+
+Query  5         AATAAAGCCTGTAGGGACTCTACTTCTTGACCACTTGTTTCTGTCTTGTAAAGAAACCTC  64
+                 |||||||||||||| || |  |||||||||  ||||||||||  | | ||||||||||| 
+Sbjct  82481017  AATAAAGCCTGTAGAGATTTCACTTCTTGATTACTTGTTTCTCCCATATAAAGAAACCTT  82480958
+
+Query  65        CGTTTGAGAGGAAGGATTTGCATGCTGGTGTGATGT  100
+                  |||||||||||||| ||| | ||||||||||||||
+Sbjct  82480957  AGTTTGAGAGGAAGGGTTTACGTGCTGGTGTGATGT  82480922
+
+
+
+
+
+Query #50: read50 Query ID: lcl|Query_26109 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 04b    Canis lupus ... dog             9615       53.6   53.6  51%   2e-05 84.31  86945037   CP050625.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 04b
+Sequence ID: CP050625.1 Length: 86945037
+Range 1: 85585050 to 85585099
+
+Score:53.6 bits(58), Expect:2e-05, 
+Identities:43/51(84%),  Gaps:1/51(1%), Strand: Plus/Minus
+
+Query  38        AGTTTCAGAATGCAGCACACAGTATTCTCCATTAGGGGGTTCTGTAAGACT  88
+                 || ||||||| ||||||||| |||| ||||   ||||||||||| ||||||
+Sbjct  85585099  AGCTTCAGAAGGCAGCACACGGTATGCTCCGC-AGGGGGTTCTGGAAGACT  85585050
+
+
+
+
+
+Query #51: read51 Query ID: lcl|Query_26110 Length: 100
+
+No significant similarity found.
+
+
+
+Query #52: read52 Query ID: lcl|Query_26111 Length: 100
+
+No significant similarity found.
+
+
+
+Query #53: read53 Query ID: lcl|Query_26112 Length: 100
+
+No significant similarity found.
+
+
+
+Query #54: read54 Query ID: lcl|Query_26113 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 02b    Canis lupus ... dog             9615       62.6   62.6  74%   5e-08 78.38  83851004   CP050613.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 02b
+Sequence ID: CP050613.1 Length: 83851004
+Range 1: 27786783 to 27786856
+
+Score:62.6 bits(68), Expect:5e-08, 
+Identities:58/74(78%),  Gaps:0/74(0%), Strand: Plus/Plus
+
+Query  13        GTCATTAGCAAGAAACGCGGGGACAGCATATTCTCTACTCTGGGTGACGAAGCTGAACCT  72
+                 || |||||||||||  || ||||||||||||| ||||| ||||||||| | | |||    
+Sbjct  27786783  GTAATTAGCAAGAACTGCAGGGACAGCATATTTTCTACACTGGGTGACAATGTTGAGTTC  27786842
+
+Query  73        CACGGAGTGATGGA  86
+                  || |||||| |||
+Sbjct  27786843  AACTGAGTGAGGGA  27786856
+
+
+
+
+
+Query #55: read55 Query ID: lcl|Query_26114 Length: 100
+
+No significant similarity found.
+
+
+
+Query #56: read56 Query ID: lcl|Query_26115 Length: 100
+
+No significant similarity found.
+
+
+
+Query #57: read57 Query ID: lcl|Query_26116 Length: 100
+
+No significant similarity found.
+
+
+
+Query #58: read58 Query ID: lcl|Query_26117 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 25b    Canis lupus ... dog             9615       43.7   43.7  33%   0.045 90.91  51431252   CP050633.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 25b
+Sequence ID: CP050633.1 Length: 51431252
+Range 1: 10131150 to 10131181
+
+Score:43.7 bits(47), Expect:0.045, 
+Identities:30/33(91%),  Gaps:1/33(3%), Strand: Plus/Plus
+
+Query  36        AAATGTAACGAAAATTTTGAAACCTTTGAAGAA  68
+                 |||| ||| |||| |||||||||||||||||||
+Sbjct  10131150  AAATCTAAGGAAA-TTTTGAAACCTTTGAAGAA  10131181
+
+
+
+
+
+Query #59: read59 Query ID: lcl|Query_26118 Length: 100
+
+No significant similarity found.
+
+
+
+Query #60: read60 Query ID: lcl|Query_26119 Length: 100
+
+No significant similarity found.
+
+
+
+Query #61: read61 Query ID: lcl|Query_26120 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 02b    Canis lupus ... dog             9615       46.4   46.4  40%   0.004 85.00  83851004   CP050613.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 02b
+Sequence ID: CP050613.1 Length: 83851004
+Range 1: 34100358 to 34100397
+
+Score:46.4 bits(50), Expect:0.004, 
+Identities:34/40(85%),  Gaps:0/40(0%), Strand: Plus/Minus
+
+Query  52        CTACCAAAAATCAAAAATCATATGAGCTTGTTTACCTTCT  91
+                 ||| |||| || | |||||| || ||||||||||||||||
+Sbjct  34100397  CTATCAAACATGAGAAATCAAATAAGCTTGTTTACCTTCT  34100358
+
+
+
+
+
+Query #62: read62 Query ID: lcl|Query_26121 Length: 100
+
+No significant similarity found.
+
+
+
+Query #63: read63 Query ID: lcl|Query_26122 Length: 100
+
+No significant similarity found.
+
+
+
+Query #64: read64 Query ID: lcl|Query_26123 Length: 100
+
+No significant similarity found.
+
+
+
+Query #65: read65 Query ID: lcl|Query_26124 Length: 100
+
+No significant similarity found.
+
+
+
+Query #66: read66 Query ID: lcl|Query_26125 Length: 100
+
+No significant similarity found.
+
+
+
+Query #67: read67 Query ID: lcl|Query_26126 Length: 100
+
+No significant similarity found.
+
+
+
+Query #68: read68 Query ID: lcl|Query_26127 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 30b    Canis lupus ... dog             9615       43.7   43.7  33%   0.045 90.91  40370200   CP050609.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 30b
+Sequence ID: CP050609.1 Length: 40370200
+Range 1: 26417813 to 26417844
+
+Score:43.7 bits(47), Expect:0.045, 
+Identities:30/33(91%),  Gaps:1/33(3%), Strand: Plus/Minus
+
+Query  2         AAATGTAGAGAGGATaaaaaaagaaatgaaaaa  34
+                 |||||||||||| | |||||||| |||||||||
+Sbjct  26417844  AAATGTAGAGAGAAAAAAAAAAG-AATGAAAAA  26417813
+
+
+
+
+
+Query #69: read69 Query ID: lcl|Query_26128 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 17b    Canis lupus ... dog             9615       49.1   49.1  48%   0.001 83.33  64169108   CP050614.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 17b
+Sequence ID: CP050614.1 Length: 64169108
+Range 1: 30795268 to 30795313
+
+Score:49.1 bits(53), Expect:0.001, 
+Identities:40/48(83%),  Gaps:2/48(4%), Strand: Plus/Minus
+
+Query  4         TTTCTTCCAATTCTTTTAGAATTCTTTTCAATTCTTTTGTATTTCCCT  51
+                 |||||||| ||||| |  | |||||||||||||| || ||| ||||||
+Sbjct  30795313  TTTCTTCCCATTCTGT--GGATTCTTTTCAATTCCTTGGTAGTTCCCT  30795268
+
+
+
+
+
+Query #70: read70 Query ID: lcl|Query_26129 Length: 100
+
+No significant similarity found.
+
+
+
+Query #71: read71 Query ID: lcl|Query_26130 Length: 100
+
+No significant similarity found.
+
+
+
+Query #72: read72 Query ID: lcl|Query_26131 Length: 100
+
+No significant similarity found.
+
+
+
+Query #73: read73 Query ID: lcl|Query_26132 Length: 100
+
+No significant similarity found.
+
+
+
+Query #74: read74 Query ID: lcl|Query_26133 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Felis catus Senzu DNA, chromosome: E2, American Shorthair breed   Felis catus     domestic cat    9685       47.3   47.3  33%   0.004 90.91  64410938   AP023166.1       
+Canis lupus familiaris breed Labrador retriever chromosome 06b    Canis lupus ... dog             9615       42.8   42.8  38%   0.045 84.21  80974351   CP050622.1       
+
+
+Alignments:
+
+>Felis catus Senzu DNA, chromosome: E2, American Shorthair breed
+Sequence ID: AP023166.1 Length: 64410938
+Range 1: 38973874 to 38973906
+
+Score:47.3 bits(51), Expect:0.004, 
+Identities:30/33(91%),  Gaps:0/33(0%), Strand: Plus/Minus
+
+Query  67        CATTTTCATGTGTGTGAGTGAATGTTTGCATGT  99
+                 ||| ||||||||||||||||  |||||||||||
+Sbjct  38973906  CATGTTCATGTGTGTGAGTGTGTGTTTGCATGT  38973874
+
+
+
+
+>Canis lupus familiaris breed Labrador retriever chromosome 06b
+Sequence ID: CP050622.1 Length: 80974351
+Range 1: 56136906 to 56136943
+
+Score:42.8 bits(46), Expect:0.045, 
+Identities:32/38(84%),  Gaps:0/38(0%), Strand: Plus/Plus
+
+Query  44        AATATGTCCTTTTAATCTTTTCTCATTTTCATGTGTGT  81
+                 ||||| | |||| | ||||||||||||||| | |||||
+Sbjct  56136906  AATATATACTTTGATTCTTTTCTCATTTTCCTTTGTGT  56136943
+
+
+
+
+
+Query #75: read75 Query ID: lcl|Query_26134 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 11b    Canis lupus ... dog             9615       83.3   83.3  78%   5e-14 83.33  73564375   CP050630.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 11b
+Sequence ID: CP050630.1 Length: 73564375
+Range 1: 34788497 to 34788574
+
+Score:83.3 bits(91), Expect:5e-14, 
+Identities:65/78(83%),  Gaps:0/78(0%), Strand: Plus/Plus
+
+Query  21        TACCTTTTCAGTGTTCCCTTTGAGCAGCTCGATTCGGGCATGATAGAAGAGTATGAGGGA  80
+                 ||||| |||    |||||||| |||||||| || ||||||||||| || |  ||||||||
+Sbjct  34788497  TACCTCTTCCACATTCCCTTTCAGCAGCTCTATCCGGGCATGATAAAACAACATGAGGGA  34788556
+
+Query  81        GCCCTGTGGAGAGAGGAA  98
+                 |||||||||||| |||||
+Sbjct  34788557  GCCCTGTGGAGAAAGGAA  34788574
+
+
+
+
+
+Query #76: read76 Query ID: lcl|Query_26135 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 37b    Canis lupus ... dog             9615       43.7   43.7  36%   0.045 86.11  35118724   CP050638.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 37b
+Sequence ID: CP050638.1 Length: 35118724
+Range 1: 24867613 to 24867648
+
+Score:43.7 bits(47), Expect:0.045, 
+Identities:31/36(86%),  Gaps:0/36(0%), Strand: Plus/Minus
+
+Query  62        CATTCTCTCTCTCTACAATCATCTCAAttttttttt  97
+                 ||||||||||||||  |||  ||| |||||||||||
+Sbjct  24867648  CATTCTCTCTCTCTCAAATAGTCTTAATTTTTTTTT  24867613
+
+
+
+
+
+Query #77: read77 Query ID: lcl|Query_26136 Length: 100
+
+No significant similarity found.
+
+
+
+Query #78: read78 Query ID: lcl|Query_26137 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Felis catus Senzu DNA, chromosome: D2, American Shorthair breed   Felis catus     domestic cat    9685       43.7   43.7  52%   0.045 81.48  90643714   AP023162.1       
+Canis lupus familiaris breed Labrador retriever chromosome 32b    Canis lupus ... dog             9615       43.7   43.7  27%   0.045 96.43  65810985   CP050634.1       
+
+
+Alignments:
+
+>Felis catus Senzu DNA, chromosome: D2, American Shorthair breed
+Sequence ID: AP023162.1 Length: 90643714
+Range 1: 43483409 to 43483460
+
+Score:43.7 bits(47), Expect:0.045, 
+Identities:44/54(81%),  Gaps:4/54(7%), Strand: Plus/Plus
+
+Query  28        ATTAAATTGACTCAAGTATATAATGTATTCCTATT--TTATGCTTTTTAAAAAA  79
+                 |||||||| ||| ||||||||  ||||| |   ||  |||||||||||||||||
+Sbjct  43483409  ATTAAATT-ACT-AAGTATATGTTGTATGCACTTTCATTATGCTTTTTAAAAAA  43483460
+
+
+
+
+>Canis lupus familiaris breed Labrador retriever chromosome 32b
+Sequence ID: CP050634.1 Length: 65810985
+Range 1: 11976562 to 11976589
+
+Score:43.7 bits(47), Expect:0.045, 
+Identities:27/28(96%),  Gaps:1/28(3%), Strand: Plus/Minus
+
+Query  11        AAGAAAATAATCACCTTATTAAA-TTGA  37
+                 ||||||||||||||||||||||| ||||
+Sbjct  11976589  AAGAAAATAATCACCTTATTAAAGTTGA  11976562
+
+
+
+
+
+Query #79: read79 Query ID: lcl|Query_26138 Length: 100
+
+No significant similarity found.
+
+
+
+Query #80: read80 Query ID: lcl|Query_26139 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 36b    Canis lupus ... dog             9615       42.8   42.8  70%   0.045 74.29  30731877   CP050615.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 36b
+Sequence ID: CP050615.1 Length: 30731877
+Range 1: 8750231 to 8750299
+
+Score:42.8 bits(46), Expect:0.045, 
+Identities:52/70(74%),  Gaps:1/70(1%), Strand: Plus/Minus
+
+Query  6        ACAGGGGATGTGTTAATAAAATTCAGGttttctcttcatttttttgtgcttttctaattt  65
+                ||||||||||||| | ||   || | ||||| | || | |||||| |  |||| ||||||
+Sbjct  8750299  ACAGGGGATGTGTGATTATTTTTAACGTTTTTTTTTTAATTTTTT-TAATTTTTTAATTT  8750241
+
+Query  66       tcattttttt  75
+                |  || ||||
+Sbjct  8750240  TTTTTGTTTT  8750231
+
+
+
+
+
+Query #81: read81 Query ID: lcl|Query_26140 Length: 100
+
+No significant similarity found.
+
+
+
+Query #82: read82 Query ID: lcl|Query_26141 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 06b    Canis lupus ... dog             9615       47.3   47.3  45%   0.004 84.44  80974351   CP050622.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 06b
+Sequence ID: CP050622.1 Length: 80974351
+Range 1: 58357119 to 58357162
+
+Score:47.3 bits(51), Expect:0.004, 
+Identities:38/45(84%),  Gaps:1/45(2%), Strand: Plus/Plus
+
+Query  51        ATAACCATTAATCAATACTATCATCTTGTTTTATAAAGATATATA  95
+                 || |||||||| || ||| || || |||||||||||| |||||||
+Sbjct  58357119  ATCACCATTAA-CATTACCATTATTTTGTTTTATAAATATATATA  58357162
+
+
+
+
+
+Query #83: read83 Query ID: lcl|Query_26142 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Felis catus Senzu DNA, chromosome: D4, American Shorthair breed   Felis catus     domestic cat    9685       47.3   47.3  48%   0.004 81.25  96896805   AP023164.1       
+
+
+Alignments:
+
+>Felis catus Senzu DNA, chromosome: D4, American Shorthair breed
+Sequence ID: AP023164.1 Length: 96896805
+Range 1: 30748767 to 30748814
+
+Score:47.3 bits(51), Expect:0.004, 
+Identities:39/48(81%),  Gaps:0/48(0%), Strand: Plus/Minus
+
+Query  50        GTACAAATATTGTCCTTTTGTAATTTATAGGTTATAGTATTTCATTTT  97
+                 |||||| | |||||||||||| || | ||  ||||||| |||| ||||
+Sbjct  30748814  GTACAAGTCTTGTCCTTTTGTTATCTTTATTTTATAGTGTTTCCTTTT  30748767
+
+
+
+
+
+Query #84: read84 Query ID: lcl|Query_26143 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 19b    Canis lupus ... dog             9615       50.0   50.0  47%   3e-04 82.98  56576146   CP050621.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 19b
+Sequence ID: CP050621.1 Length: 56576146
+Range 1: 22052706 to 22052752
+
+Score:50.0 bits(54), Expect:3e-04, 
+Identities:39/47(83%),  Gaps:0/47(0%), Strand: Plus/Plus
+
+Query  6         CACTTACACATTTTGAAAATGTTATTTCTTACTCAAAAAGTGCACAG  52
+                 ||||| ||||||| ||||||| |  |||||||||||||| |  ||||
+Sbjct  22052706  CACTTTCACATTTAGAAAATGATTCTTCTTACTCAAAAATTTTACAG  22052752
+
+
+
+
+
+Query #85: read85 Query ID: lcl|Query_26144 Length: 100
+
+No significant similarity found.
+
+
+
+Query #86: read86 Query ID: lcl|Query_26145 Length: 100
+
+No significant similarity found.
+
+
+
+Query #87: read87 Query ID: lcl|Query_26146 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Felis catus Senzu DNA, chromosome: D4, American Shorthair breed   Felis catus     domestic cat    9685       67.1   67.1  44%   4e-09 93.18  96896805   AP023164.1       
+
+
+Alignments:
+
+>Felis catus Senzu DNA, chromosome: D4, American Shorthair breed
+Sequence ID: AP023164.1 Length: 96896805
+Range 1: 88099486 to 88099529
+
+Score:67.1 bits(73), Expect:4e-09, 
+Identities:41/44(93%),  Gaps:0/44(0%), Strand: Plus/Minus
+
+Query  1         CTTCTGCTACATCTGCAAGGCCAGCAGCAGCAGCCAGCAGGTAC  44
+                 |||||||||| | |||||||||||| ||||||||||||||||||
+Sbjct  88099529  CTTCTGCTACCTTTGCAAGGCCAGCTGCAGCAGCCAGCAGGTAC  88099486
+
+
+
+
+
+Query #88: read88 Query ID: lcl|Query_26147 Length: 100
+
+No significant similarity found.
+
+
+
+Query #89: read89 Query ID: lcl|Query_26148 Length: 100
+
+No significant similarity found.
+
+
+
+Query #90: read90 Query ID: lcl|Query_26149 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 34b    Canis lupus ... dog             9615       86.0   86.0  93%   4e-15 80.85  45430985   CP050608.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 34b
+Sequence ID: CP050608.1 Length: 45430985
+Range 1: 39482239 to 39482332
+
+Score:86.0 bits(94), Expect:4e-15, 
+Identities:76/94(81%),  Gaps:1/94(1%), Strand: Plus/Minus
+
+Query  5         TTTTTCAATTTCATTCCAAAATTAAGATAAAA-TGTCTCTACTAACAGTGAAATGAAAGC  63
+                 |||||||| ||| |||||| ||| ||| |||| | ||||||| || ||  |||| |||||
+Sbjct  39482332  TTTTTCAAGTTCGTTCCAAGATTGAGACAAAAATCTCTCTACGAAAAGCAAAATAAAAGC  39482273
+
+Query  64        CAAATTCCAACCCAGTTGCCTCATCTCATGTTTT  97
+                 |||||||| |  |  ||||||||| |||||||||
+Sbjct  39482272  CAAATTCCTATGCTTTTGCCTCATTTCATGTTTT  39482239
+
+
+
+
+
+Query #91: read91 Query ID: lcl|Query_26150 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 15b    Canis lupus ... dog             9615       42.8   42.8  28%   0.045 92.86  64292917   CP050620.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 15b
+Sequence ID: CP050620.1 Length: 64292917
+Range 1: 64185342 to 64185369
+
+Score:42.8 bits(46), Expect:0.045, 
+Identities:26/28(93%),  Gaps:0/28(0%), Strand: Plus/Plus
+
+Query  65        GGATGGCTACACAGAGGAGTCTGGTCTG  92
+                 ||||||||||| |||| |||||||||||
+Sbjct  64185342  GGATGGCTACAGAGAGAAGTCTGGTCTG  64185369
+
+
+
+
+
+Query #92: read92 Query ID: lcl|Query_26151 Length: 100
+
+No significant similarity found.
+
+
+
+Query #93: read93 Query ID: lcl|Query_26152 Length: 100
+
+No significant similarity found.
+
+
+
+Query #94: read94 Query ID: lcl|Query_26153 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 23b    Canis lupus ... dog             9615       46.4   46.4  30%   0.004 93.33  52281894   CP050632.1       
+Canis lupus familiaris breed Labrador retriever chromosome 05b    Canis lupus ... dog             9615       42.8   42.8  28%   0.045 92.86  86915062   CP050642.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 23b
+Sequence ID: CP050632.1 Length: 52281894
+Range 1: 47332296 to 47332325
+
+Score:46.4 bits(50), Expect:0.004, 
+Identities:28/30(93%),  Gaps:0/30(0%), Strand: Plus/Plus
+
+Query  43        ATTGTATCTTCTCTTCTTGTTAACTGTGGC  72
+                 ||||||||| ||||| ||||||||||||||
+Sbjct  47332296  ATTGTATCTGCTCTTATTGTTAACTGTGGC  47332325
+
+
+
+
+>Canis lupus familiaris breed Labrador retriever chromosome 05b
+Sequence ID: CP050642.1 Length: 86915062
+Range 1: 72886187 to 72886214
+
+Score:42.8 bits(46), Expect:0.045, 
+Identities:26/28(93%),  Gaps:0/28(0%), Strand: Plus/Plus
+
+Query  1         GTTCAGAGCTAAGGGTAAACTGAAAAGA  28
+                 || ||||||| |||||||||||||||||
+Sbjct  72886187  GTACAGAGCTCAGGGTAAACTGAAAAGA  72886214
+
+
+
+
+
+Query #95: read95 Query ID: lcl|Query_26154 Length: 100
+
+No significant similarity found.
+
+
+
+Query #96: read96 Query ID: lcl|Query_26155 Length: 100
+
+No significant similarity found.
+
+
+
+Query #97: read97 Query ID: lcl|Query_26156 Length: 100
+
+No significant similarity found.
+
+
+
+Query #98: read98 Query ID: lcl|Query_26157 Length: 100
+
+No significant similarity found.
+
+
+
+Query #99: read99 Query ID: lcl|Query_26158 Length: 100
+
+No significant similarity found.
+
+
+
+Query #100: read100 Query ID: lcl|Query_26159 Length: 100
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+Canis lupus familiaris breed Labrador retriever chromosome 29b    Canis lupus ... dog             9615       48.2   48.2  83%   0.001 73.49  41750700   CP050629.1       
+
+
+Alignments:
+
+>Canis lupus familiaris breed Labrador retriever chromosome 29b
+Sequence ID: CP050629.1 Length: 41750700
+Range 1: 38171787 to 38171868
+
+Score:48.2 bits(52), Expect:0.001, 
+Identities:61/83(73%),  Gaps:1/83(1%), Strand: Plus/Minus
+
+Query  1         TGAATCTAATGTTCAGCTTTAGGATAAATGTTGAGCCTACTCATTGCTTCTCTGGGGCTC  60
+                 || || ||||||| |  |||   ||||||| | ||| | |||||||||||||||||  ||
+Sbjct  38171868  TGGATTTAATGTTTACTTTTCAAATAAATGCT-AGCTTGCTCATTGCTTCTCTGGGTTTC  38171810
+
+Query  61        ACTAGTTGCAGTCTCATGAAACA  83
+                 |    |  |||| || |||||||
+Sbjct  38171809  AAGGCTCACAGTGTCTTGAAACA  38171787
+
+
+
+
+
+
+
+		
+
+
